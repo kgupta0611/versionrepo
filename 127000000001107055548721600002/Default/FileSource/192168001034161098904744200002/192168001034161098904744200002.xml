@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_FILESOURCE>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_id><![CDATA[192168001034161098904744200002]]></au_id>
-        <au_creationDate><![CDATA[2021-01-18 22:27:27.443]]></au_creationDate>
-        <au_synchronized><![CDATA[false]]></au_synchronized>
-        <au_description><![CDATA[test]]></au_description>
-        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
-        <au_deleteOnSuccess><![CDATA[false]]></au_deleteOnSuccess>
-        <au_entityName><![CDATA[new]]></au_entityName>
-        <au_comments><![CDATA[]]></au_comments>
         <au_fileName><![CDATA[test]]></au_fileName>
+        <au_creationDate><![CDATA[2021-01-18 22:27:27.0]]></au_creationDate>
         <au_filepath><![CDATA[test]]></au_filepath>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_activeVersion><![CDATA[true]]></au_activeVersion>
         <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_id><![CDATA[192168001034161098904744200002]]></au_id>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
         <au_version><![CDATA[1]]></au_version>
-        <au_persistDataEnabled><![CDATA[false]]></au_persistDataEnabled>
-        <au_modifiedDate><![CDATA[2021-01-18 22:27:27.443]]></au_modifiedDate>
-        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
-        <au_revision><![CDATA[null]]></au_revision>
+        <au_description><![CDATA[test1]]></au_description>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_deleteOnSuccess><![CDATA[false]]></au_deleteOnSuccess>
         <au_projectOwner><![CDATA[Default]]></au_projectOwner>
+        <au_modifiedDate><![CDATA[2021-01-18 22:28:27.0]]></au_modifiedDate>
+        <au_revision><![CDATA[738958ab78fb05b6eb2bfa4d60d16c0e77f7316a]]></au_revision>
+        <au_entityName><![CDATA[new1]]></au_entityName>
+        <au_comments><![CDATA[]]></au_comments>
+        <au_persistDataEnabled><![CDATA[false]]></au_persistDataEnabled>
+        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
     </AU_FILESOURCE>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
