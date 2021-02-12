@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AC_TRANSACTION_TEMPLATE>
-        <CREATED_ROLE><![CDATA[1]]></CREATED_ROLE>
-        <APPROVAL_TYPE><![CDATA[3000]]></APPROVAL_TYPE>
-        <SRC_TRIGGER><![CDATA[FileUploaded]]></SRC_TRIGGER>
-        <TYPE><![CDATA[504]]></TYPE>
-        <DOCUMENTATION><![CDATA[]]></DOCUMENTATION>
-        <IN_USE><![CDATA[null]]></IN_USE>
-        <IN_USE_BY><![CDATA[null]]></IN_USE_BY>
-        <COMPANY_ID><![CDATA[1]]></COMPANY_ID>
-        <VARIABLE_INFO><![CDATA[]]></VARIABLE_INFO>
-        <PARAMETERS_INFO><![CDATA[{"routingType":3502,"dataEncryptionAtRest":"useGlobalPolicy","mapperValidatorId":"","mapperExternalFunctionId":"","emailNotificationFormat":"Default"}]]></PARAMETERS_INFO>
+        <DESCRIPTION><![CDATA[fzxnew]]></DESCRIPTION>
+        <ID><![CDATA[11613123056193]]></ID>
         <LOCKED_STATUS><![CDATA[2301]]></LOCKED_STATUS>
-        <DESCRIPTION><![CDATA[fzx]]></DESCRIPTION>
-        <SRC_CRITERIA><![CDATA[null]]></SRC_CRITERIA>
-        <CONTACT_USER><![CDATA[user@domain.com]]></CONTACT_USER>
-        <CREATED_BY><![CDATA[Admin User]]></CREATED_BY>
+        <REVISION><![CDATA[6c8f0ca5cde5e70fc9bad31306860862b6fcc5a7]]></REVISION>
+        <COMPANY_ID><![CDATA[1]]></COMPANY_ID>
         <PROJECT_OWNER><![CDATA[Default]]></PROJECT_OWNER>
-        <CREATED_GROUP><![CDATA[IndigoGroup:127000000001107055548721600002]]></CREATED_GROUP>
+        <CREATION_DATE><![CDATA[2021-02-12 15:14:16.117]]></CREATION_DATE>
+        <SYNCHRONIZED><![CDATA[0]]></SYNCHRONIZED>
         <NOTIFICATION_MODE><![CDATA[1900]]></NOTIFICATION_MODE>
-        <MODIFIED_USER><![CDATA[IndigoUser:127000000001107055536473900001]]></MODIFIED_USER>
+        <NAME><![CDATA[czx]]></NAME>
+        <SRC_CRITERIA><![CDATA[null]]></SRC_CRITERIA>
+        <LOG_MODE><![CDATA[null]]></LOG_MODE>
         <ACCESS_LEVEL><![CDATA[3100]]></ACCESS_LEVEL>
         <PROCESS_TYPE><![CDATA[701]]></PROCESS_TYPE>
-        <DEST_REFERENCE_FIELD><![CDATA[null]]></DEST_REFERENCE_FIELD>
-        <NAME><![CDATA[czx]]></NAME>
-        <REVISION><![CDATA[null]]></REVISION>
-        <DEST_EXTERNAL_ID><![CDATA[null]]></DEST_EXTERNAL_ID>
-        <DATA_ENCODING><![CDATA[UTF-8]]></DATA_ENCODING>
-        <DIRECTION><![CDATA[3200]]></DIRECTION>
-        <SRC_REFERENCE_FIELD><![CDATA[]]></SRC_REFERENCE_FIELD>
-        <MODIFIED_ROLE><![CDATA[1]]></MODIFIED_ROLE>
-        <DEST_APP_TYPE><![CDATA[file:file:File]]></DEST_APP_TYPE>
-        <STATUS><![CDATA[601]]></STATUS>
-        <MODIFIED_BY><![CDATA[Admin User]]></MODIFIED_BY>
-        <LOCKED_BY_USER><![CDATA[null]]></LOCKED_BY_USER>
-        <DISPLAY_TYPE><![CDATA[701]]></DISPLAY_TYPE>
-        <SYNCHRONIZED><![CDATA[0]]></SYNCHRONIZED>
         <ERROR_ID><![CDATA[null]]></ERROR_ID>
-        <CREATED_USER><![CDATA[IndigoUser:127000000001107055536473900001]]></CREATED_USER>
-        <MODIFIED_GROUP><![CDATA[IndigoGroup:127000000001107055548721600002]]></MODIFIED_GROUP>
         <LOCKED_TIMESTAMP><![CDATA[null]]></LOCKED_TIMESTAMP>
-        <ID><![CDATA[11613123056193]]></ID>
-        <LOG_MODE><![CDATA[null]]></LOG_MODE>
-        <CREATION_DATE><![CDATA[2021-02-12 15:14:16.117]]></CREATION_DATE>
-        <SRC_APP_TYPE><![CDATA[file:fileupload:File Upload]]></SRC_APP_TYPE>
-        <MODIFIED_DATE><![CDATA[2021-02-12 15:14:53.733]]></MODIFIED_DATE>
+        <IN_USE><![CDATA[null]]></IN_USE>
+        <SRC_REFERENCE_FIELD><![CDATA[]]></SRC_REFERENCE_FIELD>
+        <IN_USE_BY><![CDATA[null]]></IN_USE_BY>
+        <CREATED_BY><![CDATA[Admin User]]></CREATED_BY>
+        <DIRECTION><![CDATA[3200]]></DIRECTION>
+        <MODIFIED_DATE><![CDATA[2021-02-12 15:20:27.227]]></MODIFIED_DATE>
+        <STATUS><![CDATA[601]]></STATUS>
+        <DEST_REFERENCE_FIELD><![CDATA[null]]></DEST_REFERENCE_FIELD>
+        <CREATED_ROLE><![CDATA[1]]></CREATED_ROLE>
+        <SRC_TRIGGER><![CDATA[FileUploaded]]></SRC_TRIGGER>
+        <MODIFIED_BY><![CDATA[Admin User]]></MODIFIED_BY>
+        <TYPE><![CDATA[504]]></TYPE>
+        <DEST_APP_TYPE><![CDATA[file:file:File]]></DEST_APP_TYPE>
         <PARTNER_CONFIG_INFO><![CDATA[{"webFormData":{},"partnerConfiguration":[]}]]></PARTNER_CONFIG_INFO>
+        <MODIFIED_ROLE><![CDATA[1]]></MODIFIED_ROLE>
+        <PARAMETERS_INFO><![CDATA[{"routingType":3502,"dataEncryptionAtRest":"useGlobalPolicy","mapperValidatorId":"","mapperExternalFunctionId":"","emailNotificationFormat":"Default"}]]></PARAMETERS_INFO>
         <DEST_ACTION><![CDATA[null]]></DEST_ACTION>
+        <LOCKED_BY_USER><![CDATA[null]]></LOCKED_BY_USER>
+        <DATA_ENCODING><![CDATA[UTF-8]]></DATA_ENCODING>
+        <CREATED_USER><![CDATA[IndigoUser:127000000001107055536473900001]]></CREATED_USER>
+        <CREATED_GROUP><![CDATA[IndigoGroup:127000000001107055548721600002]]></CREATED_GROUP>
+        <MODIFIED_USER><![CDATA[IndigoUser:127000000001107055536473900001]]></MODIFIED_USER>
+        <SRC_APP_TYPE><![CDATA[file:fileupload:File Upload]]></SRC_APP_TYPE>
+        <DOCUMENTATION><![CDATA[]]></DOCUMENTATION>
+        <CONTACT_USER><![CDATA[user@domain.com]]></CONTACT_USER>
+        <DEST_EXTERNAL_ID><![CDATA[null]]></DEST_EXTERNAL_ID>
+        <VARIABLE_INFO><![CDATA[]]></VARIABLE_INFO>
+        <MODIFIED_GROUP><![CDATA[IndigoGroup:127000000001107055548721600002]]></MODIFIED_GROUP>
+        <DISPLAY_TYPE><![CDATA[701]]></DISPLAY_TYPE>
+        <APPROVAL_TYPE><![CDATA[3000]]></APPROVAL_TYPE>
     </AC_TRANSACTION_TEMPLATE>
     <columnInfo dbtype="0">
         <column name="ID" type="2"/>
