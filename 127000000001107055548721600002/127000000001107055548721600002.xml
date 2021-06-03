@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_GROUPS>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_description><![CDATA[Administrative group]]></au_description>
-        <au_permissionMask><![CDATA[710]]></au_permissionMask>
-        <au_creationDate><![CDATA[2021-03-16 11:40:03.0]]></au_creationDate>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
         <au_groupInfo><![CDATA[K8QswfddIduKjYZJo7AwgclYZPnFCTzRUSyxdim3JrzK5v8CUYpBult9MBz+2s6/]]></au_groupInfo>
-        <au_activeVersion><![CDATA[true]]></au_activeVersion>
-        <au_id><![CDATA[127000000001107055548721600002]]></au_id>
-        <au_synchronized><![CDATA[true]]></au_synchronized>
-        <au_version><![CDATA[1]]></au_version>
-        <au_title><![CDATA[]]></au_title>
-        <au_webDavFolder><![CDATA[WebDavFolder:192168001207112972325504600001]]></au_webDavFolder>
-        <au_entityName><![CDATA[administrators]]></au_entityName>
-        <au_comment><![CDATA[]]></au_comment>
-        <au_modifiedDate><![CDATA[2021-03-16 11:40:03.0]]></au_modifiedDate>
         <au_comments><![CDATA[]]></au_comments>
         <au_projectOwner><![CDATA[Default]]></au_projectOwner>
-        <au_userOwner><![CDATA[IndigoUser:11496903897063]]></au_userOwner>
-        <au_modifiedBy><![CDATA[IndigoUser:11496903897063]]></au_modifiedBy>
-        <au_revision><![CDATA[a2d7a5ecdfc9f3080e1dca17a10001c1203a71e7]]></au_revision>
+        <au_modifiedDate><![CDATA[2021-06-03 09:03:39.0]]></au_modifiedDate>
+        <au_creationDate><![CDATA[2021-06-03 09:03:39.0]]></au_creationDate>
+        <au_description><![CDATA[Administrative group]]></au_description>
+        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_version><![CDATA[1]]></au_version>
+        <au_synchronized><![CDATA[null]]></au_synchronized>
+        <au_permissionMask><![CDATA[710]]></au_permissionMask>
+        <au_entityName><![CDATA[administrators]]></au_entityName>
+        <au_comment><![CDATA[]]></au_comment>
+        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
+        <au_webDavFolder><![CDATA[WebDavFolder:192168001207112972325504600001]]></au_webDavFolder>
+        <au_id><![CDATA[127000000001107055548721600002]]></au_id>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_title><![CDATA[]]></au_title>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
     </AU_GROUPS>
-    <columnInfo dbtype="0">
+    <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
         <column name="au_version" type="12"/>
         <column name="au_previousVersion" type="12"/>
-        <column name="au_activeVersion" type="-7"/>
+        <column name="au_activeVersion" type="3"/>
         <column name="au_entityName" type="12"/>
         <column name="au_userOwner" type="12"/>
         <column name="au_groupOwner" type="12"/>
@@ -37,7 +37,7 @@
         <column name="au_creationDate" type="93"/>
         <column name="au_modifiedDate" type="93"/>
         <column name="au_revision" type="12"/>
-        <column name="au_synchronized" type="-7"/>
+        <column name="au_synchronized" type="3"/>
         <column name="au_projectOwner" type="12"/>
         <column name="au_title" type="12"/>
         <column name="au_comment" type="12"/>
