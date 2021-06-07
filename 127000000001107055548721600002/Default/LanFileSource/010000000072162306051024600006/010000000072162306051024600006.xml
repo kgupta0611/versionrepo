@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_LANFILESOURCE>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_userId><![CDATA[]]></au_userId>
-        <au_filepath><![CDATA[ds]]></au_filepath>
-        <au_comments><![CDATA[null]]></au_comments>
-        <au_persistDataEnabled><![CDATA[0]]></au_persistDataEnabled>
-        <au_version><![CDATA[1]]></au_version>
-        <au_creationDate><![CDATA[2021-06-07 10:08:30.0]]></au_creationDate>
-        <au_entityName><![CDATA[sdf]]></au_entityName>
-        <au_fileSystem><![CDATA[WINDOWS]]></au_fileSystem>
-        <au_revision><![CDATA[null]]></au_revision>
-        <au_deleteOnSuccess><![CDATA[0]]></au_deleteOnSuccess>
-        <au_secure><![CDATA[0]]></au_secure>
-        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
-        <au_activeVersion><![CDATA[1]]></au_activeVersion>
         <au_password><![CDATA[]]></au_password>
-        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_modifiedDate><![CDATA[2021-06-07 10:08:30.0]]></au_modifiedDate>
-        <au_description><![CDATA[sfds]]></au_description>
-        <au_useWindowsService><![CDATA[0]]></au_useWindowsService>
-        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
-        <au_synchronized><![CDATA[0]]></au_synchronized>
-        <au_fileName><![CDATA[f]]></au_fileName>
-        <au_id><![CDATA[010000000072162306051024600006]]></au_id>
+        <au_userId><![CDATA[]]></au_userId>
+        <au_version><![CDATA[1]]></au_version>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_persistDataEnabled><![CDATA[0]]></au_persistDataEnabled>
+        <au_filepath><![CDATA[ds]]></au_filepath>
         <au_projectOwner><![CDATA[Default]]></au_projectOwner>
+        <au_fileName><![CDATA[f]]></au_fileName>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_creationDate><![CDATA[2021-06-07 10:08:30.0]]></au_creationDate>
+        <au_id><![CDATA[010000000072162306051024600006]]></au_id>
+        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_useWindowsService><![CDATA[0]]></au_useWindowsService>
+        <au_secure><![CDATA[0]]></au_secure>
+        <au_modifiedDate><![CDATA[2021-06-07 10:20:01.0]]></au_modifiedDate>
+        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_entityName><![CDATA[sdf]]></au_entityName>
+        <au_revision><![CDATA[d5758a97fea2e664eb2badf1e1c692b88100b20d]]></au_revision>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_deleteOnSuccess><![CDATA[0]]></au_deleteOnSuccess>
+        <au_description><![CDATA[sfdsfffdg]]></au_description>
+        <au_fileSystem><![CDATA[WINDOWS]]></au_fileSystem>
     </AU_LANFILESOURCE>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
