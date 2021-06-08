@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AC_TRANSACTION_TEMPLATE>
+        <DEST_REFERENCE_FIELD><![CDATA[]]></DEST_REFERENCE_FIELD>
+        <CREATED_ROLE><![CDATA[1]]></CREATED_ROLE>
+        <ID><![CDATA[11622788302707]]></ID>
+        <PARTNER_CONFIG_INFO><![CDATA[{"webFormData":{},"partnerConfiguration":[]}]]></PARTNER_CONFIG_INFO>
+        <CREATED_GROUP><![CDATA[IndigoGroup:127000000001107055548721600002]]></CREATED_GROUP>
+        <VARIABLE_INFO><![CDATA[{"templateVariable":[{"xtype":"radiogroup","grouptitle":"AK2","variableName":"Parameter2","defaultvalue":"kt","values":["sky","kt"],"displayName":"param2","paramDescription":"ghf","variableValue":"kt"},{"xtype":"numberfield","grouptitle":"AK3","variableName":"Parameter3","defaultvalue":"10","allowBlank":false,"displayName":"param3","paramDescription":"sda","variableValue":"10"},{"xtype":"textfield","grouptitle":"Ak1","variableName":"Parameter1","defaultvalue":"sky","allowBlank":false,"displayName":"param1","paramDescription":"gc","variableValue":"sky"}],"transactionVariable":[{"xtype":"checkbox","grouptitle":"Tp1","variableName":"Tparameter1","defaultvalue":"1","displayName":"Tparam1","paramDescription":"ef","checkboxInputValue":"1"},{"xtype":"textfield","grouptitle":"Tp2","variableName":"Tparameter2","defaultvalue":"Tp","allowBlank":false,"displayName":"Tparam2","paramDescription":"dsf","pattern":"[a-z]"},{"xtype":"password","grouptitle":"Tp3","variableName":"Tparameter3","allowBlank":false,"displayName":"Tparam3","paramDescription":"fs","maxLength":"3"}]}]]></VARIABLE_INFO>
+        <PROJECT_OWNER><![CDATA[Default]]></PROJECT_OWNER>
+        <CREATION_DATE><![CDATA[2021-06-04 06:32:35.0]]></CREATION_DATE>
+        <SYNCHRONIZED><![CDATA[false]]></SYNCHRONIZED>
+        <IN_USE_BY><![CDATA[null]]></IN_USE_BY>
+        <DISPLAY_TYPE><![CDATA[700]]></DISPLAY_TYPE>
+        <MODIFIED_BY><![CDATA[Admin User]]></MODIFIED_BY>
+        <DEST_EXTERNAL_ID><![CDATA[]]></DEST_EXTERNAL_ID>
+        <MODIFIED_USER><![CDATA[IndigoUser:127000000001107055536473900001]]></MODIFIED_USER>
+        <SRC_APP_TYPE><![CDATA[oauth:dropbox:Dropbox]]></SRC_APP_TYPE>
+        <DESCRIPTION><![CDATA[Ak_Inbound_MY]]></DESCRIPTION>
+        <TYPE><![CDATA[504]]></TYPE>
+        <DOCUMENTATION><![CDATA[]]></DOCUMENTATION>
+        <NOTIFICATION_MODE><![CDATA[1900]]></NOTIFICATION_MODE>
+        <PARAMETERS_INFO><![CDATA[{"routingType":3500,"dataEncryptionAtRest":"useGlobalPolicy","mapperValidatorId":"","mapperExternalFunctionId":"","emailNotificationFormat":"Default"}]]></PARAMETERS_INFO>
+        <SRC_REFERENCE_FIELD><![CDATA[]]></SRC_REFERENCE_FIELD>
+        <MODIFIED_GROUP><![CDATA[IndigoGroup:127000000001107055548721600002]]></MODIFIED_GROUP>
+        <CREATED_BY><![CDATA[Admin User]]></CREATED_BY>
+        <SRC_CRITERIA><![CDATA[null]]></SRC_CRITERIA>
+        <DEST_ACTION><![CDATA[createnewfile]]></DEST_ACTION>
+        <LOCKED_TIMESTAMP><![CDATA[null]]></LOCKED_TIMESTAMP>
+        <LOCKED_BY_USER><![CDATA[null]]></LOCKED_BY_USER>
+        <NAME><![CDATA[Ak_Inbound_MY]]></NAME>
+        <ERROR_ID><![CDATA[null]]></ERROR_ID>
+        <LOCKED_STATUS><![CDATA[2301]]></LOCKED_STATUS>
+        <ACCESS_LEVEL><![CDATA[3100]]></ACCESS_LEVEL>
+        <COMPANY_ID><![CDATA[1]]></COMPANY_ID>
+        <SRC_TRIGGER><![CDATA[newfileindirectory]]></SRC_TRIGGER>
+        <CREATED_USER><![CDATA[IndigoUser:127000000001107055536473900001]]></CREATED_USER>
+        <MODIFIED_ROLE><![CDATA[1]]></MODIFIED_ROLE>
+        <APPROVAL_TYPE><![CDATA[3000]]></APPROVAL_TYPE>
+        <MODIFIED_DATE><![CDATA[2021-06-04 09:37:18.0]]></MODIFIED_DATE>
+        <DISPLAY_NAME><![CDATA[Ak_Inbound_MY]]></DISPLAY_NAME>
+        <LOG_MODE><![CDATA[null]]></LOG_MODE>
+        <DATA_ENCODING><![CDATA[UTF-8]]></DATA_ENCODING>
+        <CONTACT_USER><![CDATA[user@domain.com]]></CONTACT_USER>
+        <PROCESS_TYPE><![CDATA[700]]></PROCESS_TYPE>
+        <REVISION><![CDATA[null]]></REVISION>
+        <DEST_APP_TYPE><![CDATA[ftp:ftp:FTP]]></DEST_APP_TYPE>
+        <DIRECTION><![CDATA[3200]]></DIRECTION>
+        <STATUS><![CDATA[601]]></STATUS>
+        <IN_USE><![CDATA[null]]></IN_USE>
+    </AC_TRANSACTION_TEMPLATE>
+    <columnInfo dbtype="0">
+        <column name="ID" type="-5"/>
+        <column name="DESCRIPTION" type="12"/>
+        <column name="NAME" type="12"/>
+        <column name="ACCESS_LEVEL" type="4"/>
+        <column name="APPROVAL_TYPE" type="4"/>
+        <column name="COMPANY_ID" type="-5"/>
+        <column name="CONTACT_USER" type="-1"/>
+        <column name="CREATED_GROUP" type="12"/>
+        <column name="CREATED_USER" type="12"/>
+        <column name="CREATION_DATE" type="93"/>
+        <column name="DATA_ENCODING" type="12"/>
+        <column name="DEST_ACTION" type="12"/>
+        <column name="DEST_APP_TYPE" type="12"/>
+        <column name="DIRECTION" type="4"/>
+        <column name="DOCUMENTATION" type="-1"/>
+        <column name="IN_USE" type="-7"/>
+        <column name="IN_USE_BY" type="-5"/>
+        <column name="LOCKED_BY_USER" type="12"/>
+        <column name="LOCKED_STATUS" type="4"/>
+        <column name="LOCKED_TIMESTAMP" type="93"/>
+        <column name="LOG_MODE" type="12"/>
+        <column name="MODIFIED_DATE" type="93"/>
+        <column name="MODIFIED_GROUP" type="12"/>
+        <column name="MODIFIED_USER" type="12"/>
+        <column name="NOTIFICATION_MODE" type="4"/>
+        <column name="PARAMETERS_INFO" type="-1"/>
+        <column name="PARTNER_CONFIG_INFO" type="-1"/>
+        <column name="PROCESS_TYPE" type="4"/>
+        <column name="SRC_APP_TYPE" type="12"/>
+        <column name="SRC_TRIGGER" type="12"/>
+        <column name="STATUS" type="4"/>
+        <column name="TYPE" type="4"/>
+        <column name="ERROR_ID" type="-5"/>
+        <column name="DEST_EXTERNAL_ID" type="12"/>
+        <column name="DEST_REFERENCE_FIELD" type="12"/>
+        <column name="SRC_REFERENCE_FIELD" type="12"/>
+        <column name="CREATED_BY" type="12"/>
+        <column name="MODIFIED_BY" type="12"/>
+        <column name="PROJECT_OWNER" type="12"/>
+        <column name="REVISION" type="12"/>
+        <column name="SYNCHRONIZED" type="-7"/>
+        <column name="DISPLAY_TYPE" type="4"/>
+        <column name="SRC_CRITERIA" type="12"/>
+        <column name="VARIABLE_INFO" type="-1"/>
+        <column name="CREATED_ROLE" type="-5"/>
+        <column name="MODIFIED_ROLE" type="-5"/>
+        <column name="DISPLAY_NAME" type="12"/>
+    </columnInfo>
+</data>
