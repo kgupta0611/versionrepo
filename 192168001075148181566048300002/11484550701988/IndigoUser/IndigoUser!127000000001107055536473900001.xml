@@ -1,62 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_USERS>
-        <au_orgUrl><![CDATA[http://www.adeptia.com]]></au_orgUrl>
-        <LOCKED_TIME><![CDATA[null]]></LOCKED_TIME>
-        <au_comment><![CDATA[]]></au_comment>
-        <au_webDavFolder><![CDATA[WebDavFolder:192168001207112972325504600001]]></au_webDavFolder>
-        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
-        <au_zip><![CDATA[60610]]></au_zip>
-        <au_userType><![CDATA[sysadmin]]></au_userType>
-        <AU_LASTMESSAGEVIEWED><![CDATA[2021-02-11 12:03:19.757]]></AU_LASTMESSAGEVIEWED>
-        <AU_USERPREFRENCES><![CDATA[null]]></AU_USERPREFRENCES>
-        <au_sendEmail><![CDATA[false]]></au_sendEmail>
-        <au_modifiedDate><![CDATA[2020-07-21 05:13:56.123]]></au_modifiedDate>
-        <au_id><![CDATA[127000000001107055536473900001]]></au_id>
-        <au_manager><![CDATA[]]></au_manager>
-        <au_description><![CDATA[Default Administrator]]></au_description>
-        <au_primaryGroup><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_primaryGroup>
-        <au_city><![CDATA[Chicago]]></au_city>
-        <au_viewLevel><![CDATA[]]></au_viewLevel>
-        <au_revision><![CDATA[null]]></au_revision>
-        <au_privateKeyPassword><![CDATA[]]></au_privateKeyPassword>
-        <au_synchronized><![CDATA[false]]></au_synchronized>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
-        <AU_READ_ONLY_ACCESS><![CDATA[false]]></AU_READ_ONLY_ACCESS>
-        <PARTNER_OWNER><![CDATA[1]]></PARTNER_OWNER>
-        <au_fax><![CDATA[301-000-000]]></au_fax>
-        <au_calendar><![CDATA[]]></au_calendar>
-        <au_colleague><![CDATA[]]></au_colleague>
-        <au_lastName><![CDATA[User]]></au_lastName>
-        <au_comments><![CDATA[]]></au_comments>
-        <au_country><![CDATA[US]]></au_country>
-        <au_orgName><![CDATA[Adeptia Inc]]></au_orgName>
-        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
-        <au_lastLogin><![CDATA[1613106035319]]></au_lastLogin>
-        <au_password><![CDATA[FTAi2rgMkUynuvpqpy5EqQ==]]></au_password>
-        <au_address2><![CDATA[NA]]></au_address2>
-        <au_firstName><![CDATA[Admin]]></au_firstName>
-        <au_projectOwner><![CDATA[Default]]></au_projectOwner>
-        <au_userPermission><![CDATA[7]]></au_userPermission>
-        <au_certificateStatus><![CDATA[false]]></au_certificateStatus>
-        <AU_IMAGEIDENTIFIER><![CDATA[3]]></AU_IMAGEIDENTIFIER>
+        <au_modifiedDate><![CDATA[2021-06-15 04:34:31.27]]></au_modifiedDate>
         <au_mobile><![CDATA[301-000-000]]></au_mobile>
-        <au_lastPasswordChanged><![CDATA[2018-10-01 23:28:02.5]]></au_lastPasswordChanged>
+        <au_primaryGroup><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_primaryGroup>
         <au_address1><![CDATA[233 East Wacker Dr]]></au_address1>
-        <au_creationDate><![CDATA[2018-10-01 23:28:02.5]]></au_creationDate>
-        <au_phone><![CDATA[301-000-000]]></au_phone>
-        <au_activateFlag><![CDATA[Activated]]></au_activateFlag>
-        <au_entityName><![CDATA[admin]]></au_entityName>
+        <au_orgUrl><![CDATA[http://www.adeptia.com]]></au_orgUrl>
         <au_version><![CDATA[1]]></au_version>
-        <AU_UNIQUEIDENTIFIER><![CDATA[]]></AU_UNIQUEIDENTIFIER>
-        <au_keystorePassword><![CDATA[]]></au_keystorePassword>
-        <au_email><![CDATA[abc@abc.com]]></au_email>
-        <au_activeVersion><![CDATA[true]]></au_activeVersion>
-        <au_state><![CDATA[IL]]></au_state>
-        <au_permissionMask><![CDATA[711]]></au_permissionMask>
+        <au_creationDate><![CDATA[2021-05-17 09:28:43.6]]></au_creationDate>
+        <au_viewLevel><![CDATA[]]></au_viewLevel>
+        <au_lastLogin><![CDATA[1626260708291]]></au_lastLogin>
+        <au_certificateStatus><![CDATA[false]]></au_certificateStatus>
+        <AU_LASTMESSAGEVIEWED><![CDATA[2021-07-12 09:45:28.923]]></AU_LASTMESSAGEVIEWED>
+        <au_userPermission><![CDATA[7]]></au_userPermission>
+        <au_sendEmail><![CDATA[false]]></au_sendEmail>
+        <au_country><![CDATA[US]]></au_country>
+        <au_entityName><![CDATA[admin]]></au_entityName>
+        <au_firstName><![CDATA[Admin]]></au_firstName>
+        <au_id><![CDATA[127000000001107055536473900001]]></au_id>
+        <au_city><![CDATA[Chicago]]></au_city>
+        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
+        <au_email><![CDATA[user@domain.com]]></au_email>
+        <au_webDavFolder><![CDATA[WebDavFolder:192168001207112972325504600001]]></au_webDavFolder>
+        <au_phone><![CDATA[301-000-000]]></au_phone>
+        <AU_IMAGEIDENTIFIER><![CDATA[1]]></AU_IMAGEIDENTIFIER>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <PARTNER_OWNER><![CDATA[1]]></PARTNER_OWNER>
         <au_title><![CDATA[IT Manager]]></au_title>
-        <AU_ROLE_ID><![CDATA[1]]></AU_ROLE_ID>
+        <au_orgName><![CDATA[Adeptia Inc]]></au_orgName>
+        <au_colleague><![CDATA[]]></au_colleague>
+        <au_userType><![CDATA[sysadmin]]></au_userType>
+        <AU_READ_ONLY_ACCESS><![CDATA[false]]></AU_READ_ONLY_ACCESS>
+        <au_comments><![CDATA[]]></au_comments>
+        <au_privateKeyPassword><![CDATA[]]></au_privateKeyPassword>
+        <au_activateFlag><![CDATA[Activated]]></au_activateFlag>
+        <au_permissionMask><![CDATA[711]]></au_permissionMask>
+        <au_password><![CDATA[FTAi2rgMkUynuvpqpy5EqQ==]]></au_password>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <AU_USERPREFRENCES><![CDATA[null]]></AU_USERPREFRENCES>
+        <LOCKED_TIME><![CDATA[null]]></LOCKED_TIME>
+        <au_state><![CDATA[IL]]></au_state>
+        <au_address2><![CDATA[NA]]></au_address2>
+        <au_keystorePassword><![CDATA[]]></au_keystorePassword>
+        <au_manager><![CDATA[]]></au_manager>
+        <au_lastName><![CDATA[User]]></au_lastName>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_fax><![CDATA[301-000-000]]></au_fax>
+        <au_description><![CDATA[Default Administrator]]></au_description>
+        <au_zip><![CDATA[60610]]></au_zip>
+        <au_comment><![CDATA[]]></au_comment>
+        <au_projectOwner><![CDATA[Default]]></au_projectOwner>
+        <AU_UNIQUEIDENTIFIER><![CDATA[]]></AU_UNIQUEIDENTIFIER>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_lastPasswordChanged><![CDATA[2021-05-17 09:28:43.6]]></au_lastPasswordChanged>
+        <au_calendar><![CDATA[]]></au_calendar>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
     </AU_USERS>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
@@ -108,12 +107,11 @@
         <column name="au_lastLogin" type="12"/>
         <column name="au_sendEmail" type="-7"/>
         <column name="AU_UNIQUEIDENTIFIER" type="12"/>
+        <column name="PARTNER_OWNER" type="2"/>
         <column name="AU_IMAGEIDENTIFIER" type="4"/>
         <column name="AU_LASTMESSAGEVIEWED" type="93"/>
         <column name="LOCKED_TIME" type="93"/>
         <column name="AU_USERPREFRENCES" type="2"/>
-        <column name="AU_ROLE_ID" type="2"/>
-        <column name="PARTNER_OWNER" type="2"/>
         <column name="AU_READ_ONLY_ACCESS" type="-7"/>
     </columnInfo>
 </data>
