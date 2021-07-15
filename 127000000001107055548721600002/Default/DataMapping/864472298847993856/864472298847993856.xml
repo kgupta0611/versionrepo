@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_MAPPINGTRANSFORMATION>
+        <au_id><![CDATA[864472298847993856]]></au_id>
+        <au_valueMap><![CDATA[<ValueMap/>]]></au_valueMap>
+        <au_customAutoMap><![CDATA[]]></au_customAutoMap>
+        <au_pdfFileName><![CDATA[Adp_Map_Rules2985769263651539154.pdf]]></au_pdfFileName>
+        <au_metadata><![CDATA[]]></au_metadata>
+        <au_xslTemplate><![CDATA[<XslTemplate/>]]></au_xslTemplate>
+        <au_mapXmlFile><![CDATA[<?xml version="1.0" encoding="UTF-8"?><maps version="4.4">
+<mappingInformation>
+<mappingVersion>6.1</mappingVersion>
+<mappingName>map_pd1</mappingName>
+<mappingProject>Default</mappingProject>
+<mappingDescription>pd1</mappingDescription>
+<sourceSchemaID>TextSchema:010240000067162425925567900278</sourceSchemaID>
+<targetSchemaID>TextSchema:010240000067162425925567900278</targetSchemaID>
+<mappingOwnerGroup/>
+<mappingOwner/>
+<mappingLastModifiedBy/>
+<mappingCreationDate/>
+<mappingModifiedDate/>
+<reusable>null</reusable>
+</mappingInformation>
+<sourceRoots>
+<sourceRoot>
+<name>Root</name>
+<schemaName>akc_text_scehma</schemaName>
+<schemaID>TextSchema:010240000067162425925567900278</schemaID>
+</sourceRoot>
+</sourceRoots>
+<targetRoots>
+<targetRoot>
+<name>Root</name>
+<schemaName>akc_text_scehma</schemaName>
+<schemaID>TextSchema:010240000067162425925567900278</schemaID>
+<stream>output_1</stream>
+</targetRoot>
+</targetRoots>
+<nameSpace/>
+<xslProperty/>
+<GlobalPreCustomXSL/>
+<GlobalPostCustomXSL/>
+<xslTemplates/>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="Record">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record" mapString="$Input_akc_text_scehma/Root/Record" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/NAME</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/NAME</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="NAME">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/NAME" mapString="$Input_akc_text_scehma/Root/Record/NAME" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/NAME" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/NAME" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/SEX</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/SEX</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="SEX">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/SEX" mapString="$Input_akc_text_scehma/Root/Record/SEX" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/SEX" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/SEX" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/AGE</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/AGE</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="AGE">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/AGE" mapString="$Input_akc_text_scehma/Root/Record/AGE" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/AGE" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/AGE" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/CITY</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/CITY</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="CITY">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/CITY" mapString="$Input_akc_text_scehma/Root/Record/CITY" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/CITY" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/CITY" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/FIRST</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/FIRST</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="FIRST">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/FIRST" mapString="$Input_akc_text_scehma/Root/Record/FIRST" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/FIRST" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/FIRST" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/LAST</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/LAST</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="LAST">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/LAST" mapString="$Input_akc_text_scehma/Root/Record/LAST" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/LAST" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/LAST" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/GENDER</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/GENDER</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="GENDER">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/GENDER" mapString="$Input_akc_text_scehma/Root/Record/GENDER" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/GENDER" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/GENDER" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/SCHOOL</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/SCHOOL</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="SCHOOL">
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/SCHOOL" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/SCHOOL" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/SCHOOL" mapString="$Input_akc_text_scehma/Root/Record/SCHOOL" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/STATE</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/STATE</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="STATE">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/STATE" mapString="$Input_akc_text_scehma/Root/Record/STATE" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/STATE" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/STATE" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/COUNTRY</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/COUNTRY</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="COUNTRY">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/COUNTRY" mapString="$Input_akc_text_scehma/Root/Record/COUNTRY" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/COUNTRY" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/COUNTRY" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/LOCATION</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/LOCATION</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="LOCATION">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/LOCATION" mapString="$Input_akc_text_scehma/Root/Record/LOCATION" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/LOCATION" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/LOCATION" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/MARRIED</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/MARRIED</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="MARRIED">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/MARRIED" mapString="$Input_akc_text_scehma/Root/Record/MARRIED" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/MARRIED" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/MARRIED" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/ADDRESS</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/ADDRESS</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="ADDRESS">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/ADDRESS" mapString="$Input_akc_text_scehma/Root/Record/ADDRESS" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/ADDRESS" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/ADDRESS" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/STATION</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/STATION</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="STATION">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/STATION" mapString="$Input_akc_text_scehma/Root/Record/STATION" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/STATION" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/STATION" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/DATEOFBIRTH</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/DATEOFBIRTH</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="DATEOFBIRTH">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/DATEOFBIRTH" mapString="$Input_akc_text_scehma/Root/Record/DATEOFBIRTH" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/DATEOFBIRTH" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/DATEOFBIRTH" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/HOSPITALNAME</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/HOSPITALNAME</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="HOSPITALNAME">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/HOSPITALNAME" mapString="$Input_akc_text_scehma/Root/Record/HOSPITALNAME" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/HOSPITALNAME" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/HOSPITALNAME" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/HOBBIES</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/HOBBIES</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="HOBBIES">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/HOBBIES" mapString="$Input_akc_text_scehma/Root/Record/HOBBIES" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/HOBBIES" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/HOBBIES" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>akc_text_scehma</targetName>
+<dest>/Root/Record/@recordNumber</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_akc_text_scehma/Root/Record/@recordNumber</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="@recordNumber">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/@recordNumber" mapString="$Input_akc_text_scehma/Root/Record/@recordNumber" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_akc_text_scehma/Root/Record/@recordNumber" mapString="&lt;S&gt;$Input_akc_text_scehma/Root/Record/@recordNumber" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<variables>
+</variables>
+
+<globalParameters>
+<keys>
+</keys>
+<contextVariables>
+</contextVariables>
+</globalParameters>
+
+<connections/>
+<functions>
+</functions>
+<disableOutputNodes>
+</disableOutputNodes>
+<filters/>
+<valuemapNodes/>
+<accessLevel>
+<valueMap>global</valueMap>
+<globalTemplate>global</globalTemplate>
+<customAutoMap>global</customAutoMap>
+</accessLevel>
+<DataViewerRecordCount>50</DataViewerRecordCount>
+<isQuickSplittingEnabled>false</isQuickSplittingEnabled>
+<sourceExtensions/>
+<targetExtensions/>
+<disableOutputNodes/>
+<characterSetEncoding>UTF-8</characterSetEncoding>
+<tipOfTheDay>true</tipOfTheDay>
+<contextSchemaLoadedAtSource>false</contextSchemaLoadedAtSource>
+<contextSchemaLoadedAtTarget>false</contextSchemaLoadedAtTarget>
+<contextSchemaDefinition/>
+<filterUnmappedElement>false</filterUnmappedElement>
+<indentOutputXML>true</indentOutputXML>
+<streamingMode>false</streamingMode>
+<filterEmptyElements>false</filterEmptyElements>
+<dbQueryCaching>false</dbQueryCaching>
+<cacheIncludedSchemas>false</cacheIncludedSchemas>
+<TreeExpandLevelCount>3</TreeExpandLevelCount>
+<TreeExpandLevelCountForWebService>5</TreeExpandLevelCountForWebService>
+<TreeExpandLevelForEasySchemaExtensions>10</TreeExpandLevelForEasySchemaExtensions>
+<SelfRecursionLevel>0</SelfRecursionLevel>
+<EnableTypesBuffering>true</EnableTypesBuffering>
+<CdataSectionElements/>
+<excludeResultPrefixes> saxonJavaMappingTransformation saxonJavaMapperQueryExecutor saxonJavaAggregateFunctionHandler str</excludeResultPrefixes>
+<webservice>
+<consumers/>
+</webservice>
+
+<CustomAutoMapInUse/>
+<processElementFormDefault>true</processElementFormDefault>
+<xslVersion2.0>false</xslVersion2.0>
+<xslVersion3.0>false</xslVersion3.0>
+<sourceXpath/>
+<targetXpath/>
+</maps>
+]]></au_mapXmlFile>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_sourceSchema><![CDATA[TextSchema:010240000067162425925567900278]]></au_sourceSchema>
+        <au_creationDate><![CDATA[2021-07-13 11:44:17.163]]></au_creationDate>
+        <au_dbInfoName><![CDATA[]]></au_dbInfoName>
+        <au_json><![CDATA[{"json":{"category":"mapping","type":"mapping","encoding":"UTF-8","version":"1.0"},"cloneElements":"","filters":"","variables":{"variable":[]},"globalParameters":{"keys":{"key":[]},"contextVariables":{"contextVariable":[]}},"connections":{"connectionVariable":[]},"functions":{"externalFunction":[]},"filterUnmappedElements":false,"indentOutputXML":true,"xslVersion":"1.1","enableStreaming":false,"filterEmptyElements":false,"xslTransformer":"Saxon","characterSetEncoding":"UTF-8","DataViewerRecordCount":50,"dbQueryCaching":false,"isQuickSplittingEnabled":false,"TreeExpandLevelCountForWebService":5,"TreeExpandLevelForEasySchemaExtensions":10,"SelfRecursionLevel":0,"EnableTypesBuffering":true,"TreeExpandLevelCount":3,"onDemandLoadingOfXMLSchemaTree":true,"settingConfigs":{"xslVersion":"1.1","xslTransformer":"Saxon","filterUnmappedElements":false,"indentOutputXML":true,"filterEmptyElements":false,"enableStreaming":false,"characterSetEncoding":"UTF-8","DataViewerRecordCount":50,"dbQueryCaching":false,"isQuickSplittingEnabled":false,"TreeExpandLevelCountForWebService":5,"TreeExpandLevelForEasySchemaExtensions":10,"SelfRecursionLevel":0,"EnableTypesBuffering":true,"TreeExpandLevelCount":3,"onDemandLoadingOfXMLSchemaTree":true,"cDataSectionElements":"","excludeResultPrefixes":"saxonJavaMappingTransformation saxonJavaMapperQueryExecutor saxonJavaAggregateFunctionHandler str","cacheIncludedSchemas":false,"processElementFormDefault":true,"isAutoSaveEnable":true},"disableOuputNodes":{"disableOutputNodeProperty":[]},"contextSchemaLoadedAtSource":false,"contextSchemaLoadedAtTarget":false,"webservice":{"consumers":{"consumer":[]}},"GlobalPreCustomXSL":"","GlobalPostCustomXSL":"","xslTemplates":{"xslTemplateData":[]},"mappingTempId":null,"sourceXpath":"","targetXpath":"","cDataSectionElements":"","splittingData":false,"splitNumberOfRecords":"500","parallelProcessing":false,"maximumConcurrentProcessor":"1","CustomAutoMapInUse":"","excludeResultPrefixes":"saxonJavaMappingTransformation saxonJavaMapperQueryExecutor saxonJavaAggregateFunctionHandler str","cacheIncludedSchemas":false,"metaData":"","processElementFormDefault":true,"mappingInformation":{"mappingVersion":"6.1","mappingName":"map_pd1","mappingProject":"Default","mappingDescription":"pd1","sourceSchemaID":"TextSchema:010240000067162425925567900278","targetSchemaID":"TextSchema:010240000067162425925567900278","mappingOwnerGroup":"","mappingOwner":"","mappingLastModifiedBy":"","mappingCreationDate":"","mappingModifiedDate":"","reusable":null},"namespace":"","namespaceList":[],"foreach":"","targetRoots":{"targetRoot":[{"name":"Root","schemaName":"akc_text_scehma","schemaID":"TextSchema:010240000067162425925567900278","stream":"output_1"}]},"sourceRoots":{"sourceRoot":[{"name":"Root","schemaName":"akc_text_scehma","schemaID":"TextSchema:010240000067162425925567900278"}]},"contextSchemaDefinition":"","maps":[{"order":1,"targetName":"akc_text_scehma","targetfield":"Record","targetfieldpath":"/Root/Record","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612392","elementItem":{"elementType":"SourceElement","name":"Record","expression":"$Input_akc_text_scehma/Root/Record","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612393_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612393"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612393","elementItem":{"elementType":"TargetElement","name":"Record","expression":"$Input_akc_text_scehma/Root/Record","paramsCount":1,"syntax":"akc_text_scehma/Root/Record"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612392"]}],"expression":"$Input_akc_text_scehma/Root/Record","targetrecord":"Root","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"Record","sourcefielddisplayname":"Record","sourcefieldpath":"/Root/Record","sourcerecord":"Root"}],"markComplete":false,"mapId":"Map-1","expressionNote":"","expressionPath":"$Input_akc_text_scehma/Root/Record"},{"order":1,"targetName":"akc_text_scehma","targetfield":"NAME","targetfieldpath":"/Root/Record/NAME","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"NAME","sourcefielddisplayname":"NAME","sourcefieldpath":"/Root/Record/NAME","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-2","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/NAME","expressionPath":"$Input_akc_text_scehma/Root/Record/NAME","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612401","elementItem":{"elementType":"SourceElement","name":"NAME","expression":"$Input_akc_text_scehma/Root/Record/NAME","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/NAME"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612402_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612402"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612402","elementItem":{"elementType":"TargetElement","name":"NAME","expression":"$Input_akc_text_scehma/Root/Record/NAME","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/NAME"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612401"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"SEX","targetfieldpath":"/Root/Record/SEX","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"SEX","sourcefielddisplayname":"SEX","sourcefieldpath":"/Root/Record/SEX","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-3","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/SEX","expressionPath":"$Input_akc_text_scehma/Root/Record/SEX","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612408","elementItem":{"elementType":"SourceElement","name":"SEX","expression":"$Input_akc_text_scehma/Root/Record/SEX","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/SEX"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612409_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612409"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612409","elementItem":{"elementType":"TargetElement","name":"SEX","expression":"$Input_akc_text_scehma/Root/Record/SEX","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/SEX"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612408"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"AGE","targetfieldpath":"/Root/Record/AGE","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"AGE","sourcefielddisplayname":"AGE","sourcefieldpath":"/Root/Record/AGE","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-4","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/AGE","expressionPath":"$Input_akc_text_scehma/Root/Record/AGE","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612415","elementItem":{"elementType":"SourceElement","name":"AGE","expression":"$Input_akc_text_scehma/Root/Record/AGE","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/AGE"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612416_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612416"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612416","elementItem":{"elementType":"TargetElement","name":"AGE","expression":"$Input_akc_text_scehma/Root/Record/AGE","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/AGE"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612415"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"CITY","targetfieldpath":"/Root/Record/CITY","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"CITY","sourcefielddisplayname":"CITY","sourcefieldpath":"/Root/Record/CITY","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-5","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/CITY","expressionPath":"$Input_akc_text_scehma/Root/Record/CITY","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612422","elementItem":{"elementType":"SourceElement","name":"CITY","expression":"$Input_akc_text_scehma/Root/Record/CITY","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/CITY"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612423_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612423"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612423","elementItem":{"elementType":"TargetElement","name":"CITY","expression":"$Input_akc_text_scehma/Root/Record/CITY","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/CITY"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612422"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"FIRST","targetfieldpath":"/Root/Record/FIRST","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"FIRST","sourcefielddisplayname":"FIRST","sourcefieldpath":"/Root/Record/FIRST","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-6","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/FIRST","expressionPath":"$Input_akc_text_scehma/Root/Record/FIRST","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612428","elementItem":{"elementType":"SourceElement","name":"FIRST","expression":"$Input_akc_text_scehma/Root/Record/FIRST","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/FIRST"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612429_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612429"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612429","elementItem":{"elementType":"TargetElement","name":"FIRST","expression":"$Input_akc_text_scehma/Root/Record/FIRST","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/FIRST"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612428"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"LAST","targetfieldpath":"/Root/Record/LAST","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"LAST","sourcefielddisplayname":"LAST","sourcefieldpath":"/Root/Record/LAST","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-7","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/LAST","expressionPath":"$Input_akc_text_scehma/Root/Record/LAST","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612436","elementItem":{"elementType":"SourceElement","name":"LAST","expression":"$Input_akc_text_scehma/Root/Record/LAST","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/LAST"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612437_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612437"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612437","elementItem":{"elementType":"TargetElement","name":"LAST","expression":"$Input_akc_text_scehma/Root/Record/LAST","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/LAST"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612436"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"GENDER","targetfieldpath":"/Root/Record/GENDER","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"GENDER","sourcefielddisplayname":"GENDER","sourcefieldpath":"/Root/Record/GENDER","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-8","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/GENDER","expressionPath":"$Input_akc_text_scehma/Root/Record/GENDER","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612443","elementItem":{"elementType":"SourceElement","name":"GENDER","expression":"$Input_akc_text_scehma/Root/Record/GENDER","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/GENDER"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612444_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612444"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612444","elementItem":{"elementType":"TargetElement","name":"GENDER","expression":"$Input_akc_text_scehma/Root/Record/GENDER","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/GENDER"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612443"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"SCHOOL","targetfieldpath":"/Root/Record/SCHOOL","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"SCHOOL","sourcefielddisplayname":"SCHOOL","sourcefieldpath":"/Root/Record/SCHOOL","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-9","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/SCHOOL","expressionPath":"$Input_akc_text_scehma/Root/Record/SCHOOL","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612450","elementItem":{"elementType":"SourceElement","name":"SCHOOL","expression":"$Input_akc_text_scehma/Root/Record/SCHOOL","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/SCHOOL"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612451_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612451"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612451","elementItem":{"elementType":"TargetElement","name":"SCHOOL","expression":"$Input_akc_text_scehma/Root/Record/SCHOOL","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/SCHOOL"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612450"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"STATE","targetfieldpath":"/Root/Record/STATE","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"STATE","sourcefielddisplayname":"STATE","sourcefieldpath":"/Root/Record/STATE","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-10","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/STATE","expressionPath":"$Input_akc_text_scehma/Root/Record/STATE","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612457","elementItem":{"elementType":"SourceElement","name":"STATE","expression":"$Input_akc_text_scehma/Root/Record/STATE","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/STATE"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612458_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612458"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612458","elementItem":{"elementType":"TargetElement","name":"STATE","expression":"$Input_akc_text_scehma/Root/Record/STATE","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/STATE"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612457"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"COUNTRY","targetfieldpath":"/Root/Record/COUNTRY","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"COUNTRY","sourcefielddisplayname":"COUNTRY","sourcefieldpath":"/Root/Record/COUNTRY","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-11","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/COUNTRY","expressionPath":"$Input_akc_text_scehma/Root/Record/COUNTRY","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612463","elementItem":{"elementType":"SourceElement","name":"COUNTRY","expression":"$Input_akc_text_scehma/Root/Record/COUNTRY","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/COUNTRY"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612464_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612464"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612464","elementItem":{"elementType":"TargetElement","name":"COUNTRY","expression":"$Input_akc_text_scehma/Root/Record/COUNTRY","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/COUNTRY"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612463"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"LOCATION","targetfieldpath":"/Root/Record/LOCATION","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"LOCATION","sourcefielddisplayname":"LOCATION","sourcefieldpath":"/Root/Record/LOCATION","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-12","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/LOCATION","expressionPath":"$Input_akc_text_scehma/Root/Record/LOCATION","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612469","elementItem":{"elementType":"SourceElement","name":"LOCATION","expression":"$Input_akc_text_scehma/Root/Record/LOCATION","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/LOCATION"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612470_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612470"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612470","elementItem":{"elementType":"TargetElement","name":"LOCATION","expression":"$Input_akc_text_scehma/Root/Record/LOCATION","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/LOCATION"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612469"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"MARRIED","targetfieldpath":"/Root/Record/MARRIED","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"MARRIED","sourcefielddisplayname":"MARRIED","sourcefieldpath":"/Root/Record/MARRIED","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-13","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/MARRIED","expressionPath":"$Input_akc_text_scehma/Root/Record/MARRIED","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612475","elementItem":{"elementType":"SourceElement","name":"MARRIED","expression":"$Input_akc_text_scehma/Root/Record/MARRIED","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/MARRIED"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612476_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612476"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612476","elementItem":{"elementType":"TargetElement","name":"MARRIED","expression":"$Input_akc_text_scehma/Root/Record/MARRIED","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/MARRIED"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612475"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"ADDRESS","targetfieldpath":"/Root/Record/ADDRESS","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"ADDRESS","sourcefielddisplayname":"ADDRESS","sourcefieldpath":"/Root/Record/ADDRESS","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-14","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/ADDRESS","expressionPath":"$Input_akc_text_scehma/Root/Record/ADDRESS","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612481","elementItem":{"elementType":"SourceElement","name":"ADDRESS","expression":"$Input_akc_text_scehma/Root/Record/ADDRESS","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/ADDRESS"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612482_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612482"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612482","elementItem":{"elementType":"TargetElement","name":"ADDRESS","expression":"$Input_akc_text_scehma/Root/Record/ADDRESS","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/ADDRESS"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612481"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"STATION","targetfieldpath":"/Root/Record/STATION","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"STATION","sourcefielddisplayname":"STATION","sourcefieldpath":"/Root/Record/STATION","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-15","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/STATION","expressionPath":"$Input_akc_text_scehma/Root/Record/STATION","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612490","elementItem":{"elementType":"SourceElement","name":"STATION","expression":"$Input_akc_text_scehma/Root/Record/STATION","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/STATION"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612491_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612491"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612491","elementItem":{"elementType":"TargetElement","name":"STATION","expression":"$Input_akc_text_scehma/Root/Record/STATION","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/STATION"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612490"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"DATEOFBIRTH","targetfieldpath":"/Root/Record/DATEOFBIRTH","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"DATEOFBIRTH","sourcefielddisplayname":"DATEOFBIRTH","sourcefieldpath":"/Root/Record/DATEOFBIRTH","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-16","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/DATEOFBIRTH","expressionPath":"$Input_akc_text_scehma/Root/Record/DATEOFBIRTH","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612499","elementItem":{"elementType":"SourceElement","name":"DATEOFBIRTH","expression":"$Input_akc_text_scehma/Root/Record/DATEOFBIRTH","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/DATEOFBIRTH"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612500_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612500"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612500","elementItem":{"elementType":"TargetElement","name":"DATEOFBIRTH","expression":"$Input_akc_text_scehma/Root/Record/DATEOFBIRTH","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/DATEOFBIRTH"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612499"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"HOSPITALNAME","targetfieldpath":"/Root/Record/HOSPITALNAME","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"HOSPITALNAME","sourcefielddisplayname":"HOSPITALNAME","sourcefieldpath":"/Root/Record/HOSPITALNAME","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-17","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/HOSPITALNAME","expressionPath":"$Input_akc_text_scehma/Root/Record/HOSPITALNAME","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612507","elementItem":{"elementType":"SourceElement","name":"HOSPITALNAME","expression":"$Input_akc_text_scehma/Root/Record/HOSPITALNAME","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/HOSPITALNAME"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612508_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612508"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612508","elementItem":{"elementType":"TargetElement","name":"HOSPITALNAME","expression":"$Input_akc_text_scehma/Root/Record/HOSPITALNAME","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/HOSPITALNAME"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612507"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"HOBBIES","targetfieldpath":"/Root/Record/HOBBIES","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"HOBBIES","sourcefielddisplayname":"HOBBIES","sourcefieldpath":"/Root/Record/HOBBIES","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-18","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/HOBBIES","expressionPath":"$Input_akc_text_scehma/Root/Record/HOBBIES","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612512","elementItem":{"elementType":"SourceElement","name":"HOBBIES","expression":"$Input_akc_text_scehma/Root/Record/HOBBIES","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/HOBBIES"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612513_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612513"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612513","elementItem":{"elementType":"TargetElement","name":"HOBBIES","expression":"$Input_akc_text_scehma/Root/Record/HOBBIES","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/HOBBIES"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612512"]}]},{"order":1,"targetName":"akc_text_scehma","targetfield":"@recordNumber","targetfieldpath":"/Root/Record/@recordNumber","targetrecord":"Record","mapping":[{"sourceName":"akc_text_scehma","operatortype":"field","sourcefield":"@recordNumber","sourcefielddisplayname":"@recordNumber","sourcefieldpath":"/Root/Record/@recordNumber","sourcerecord":"Record"}],"markComplete":false,"mapId":"Map-19","expressionNote":"","expression":"$Input_akc_text_scehma/Root/Record/@recordNumber","expressionPath":"$Input_akc_text_scehma/Root/Record/@recordNumber","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1626176612521","elementItem":{"elementType":"SourceElement","name":"@recordNumber","expression":"$Input_akc_text_scehma/Root/Record/@recordNumber","paramsCount":0,"syntax":"$Input_akc_text_scehma/Root/Record/@recordNumber"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1626176612522_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1626176612522"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1626176612522","elementItem":{"elementType":"TargetElement","name":"@recordNumber","expression":"$Input_akc_text_scehma/Root/Record/@recordNumber","paramsCount":1,"syntax":"akc_text_scehma/Root/Record/@recordNumber"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1626176612521"]}]}],"sourceExpandLevel":3,"targetExpandLevel":3}]]></au_json>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_projectOwner><![CDATA[Default]]></au_projectOwner>
+        <au_entityName><![CDATA[map_pd1]]></au_entityName>
+        <au_reusable><![CDATA[true]]></au_reusable>
+        <au_version><![CDATA[1]]></au_version>
+        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_description><![CDATA[pd1]]></au_description>
+        <au_numberOfRecords><![CDATA[500]]></au_numberOfRecords>
+        <au_splitFile><![CDATA[false]]></au_splitFile>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_enableAIMap><![CDATA[false]]></au_enableAIMap>
+        <au_parallelProcessing><![CDATA[false]]></au_parallelProcessing>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
+        <au_modifiedDate><![CDATA[2021-07-13 11:45:14.0]]></au_modifiedDate>
+        <au_targetSchema><![CDATA[TextSchema:010240000067162425925567900278]]></au_targetSchema>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_persistDataEnabled><![CDATA[false]]></au_persistDataEnabled>
+        <au_concurrentProcessors><![CDATA[1]]></au_concurrentProcessors>
+        <au_characterSetEncoding><![CDATA[UTF-8]]></au_characterSetEncoding>
+        <au_xslFile><![CDATA[<?xml version='1.0'?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.1" xmlns:saxonJavaMappingTransformation="java:com.adeptia.indigo.services.mapping.MappingTransformation" xmlns:saxonJavaMapperQueryExecutor="java:com.adeptia.indigo.services.mapping.support.dbquery.MapperQueryExecutor" xmlns:saxonJavaAggregateFunctionHandler="java:com.adeptia.indigo.services.mapping.AggregateFunctionHandler"  xmlns:str="http://exslt.org/strings" exclude-result-prefixes="saxonJavaMappingTransformation saxonJavaMapperQueryExecutor saxonJavaAggregateFunctionHandler str" xmlns:saxon="http://saxon.sf.net/" extension-element-prefixes="saxon">
+<xsl:output method="xml" version="1.0" encoding="UTF-8" cdata-section-elements="" indent="yes" /><xsl:param name="_userName"/><xsl:param name="_password"/><xsl:param name="_class"/><xsl:param name="_identifier"/><xsl:param name="_subject"/><xsl:param name="_repositoryPath"/><xsl:param name="_Input1"/> <xsl:variable name="varConn" select="saxonJavaMapperQueryExecutor:getInstance($_identifier,'false')"/> <xsl:variable name="apos">'</xsl:variable> <xsl:variable name="quot">"</xsl:variable><xsl:template match="/"><Root><xsl:apply-templates select="Root/Record" mode="_Root_Record_order1">
+</xsl:apply-templates></Root></xsl:template><xsl:template match="/Root/Record" mode="_Root_Record_order1">
+<Record><xsl:attribute name="recordNumber"><xsl:value-of select="./@recordNumber"/></xsl:attribute><NAME><xsl:value-of select="NAME"/></NAME><SEX><xsl:value-of select="SEX"/></SEX><AGE><xsl:value-of select="AGE"/></AGE><CITY><xsl:value-of select="CITY"/></CITY><FIRST><xsl:value-of select="FIRST"/></FIRST><LAST><xsl:value-of select="LAST"/></LAST><GENDER><xsl:value-of select="GENDER"/></GENDER><SCHOOL><xsl:value-of select="SCHOOL"/></SCHOOL><STATE><xsl:value-of select="STATE"/></STATE><COUNTRY><xsl:value-of select="COUNTRY"/></COUNTRY><LOCATION><xsl:value-of select="LOCATION"/></LOCATION><MARRIED><xsl:value-of select="MARRIED"/></MARRIED><ADDRESS><xsl:value-of select="ADDRESS"/></ADDRESS><STATION><xsl:value-of select="STATION"/></STATION><DATEOFBIRTH><xsl:value-of select="DATEOFBIRTH"/></DATEOFBIRTH><HOSPITALNAME><xsl:value-of select="HOSPITALNAME"/></HOSPITALNAME><HOBBIES><xsl:value-of select="HOBBIES"/></HOBBIES></Record></xsl:template></xsl:stylesheet>]]></au_xslFile>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_optimizedLoading><![CDATA[true]]></au_optimizedLoading>
+        <au_xslTransformer><![CDATA[Saxon]]></au_xslTransformer>
+    </AU_MAPPINGTRANSFORMATION>
+    <columnInfo dbtype="0">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="-7"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="-7"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_persistDataEnabled" type="-7"/>
+        <column name="au_splitFile" type="-7"/>
+        <column name="au_numberOfRecords" type="4"/>
+        <column name="au_optimizedLoading" type="-7"/>
+        <column name="au_sourceSchema" type="12"/>
+        <column name="au_targetSchema" type="12"/>
+        <column name="au_xslFile" type="-1"/>
+        <column name="au_metadata" type="12"/>
+        <column name="au_mapXmlFile" type="-1"/>
+        <column name="au_json" type="-1"/>
+        <column name="au_pdfFileName" type="12"/>
+        <column name="au_parallelProcessing" type="-7"/>
+        <column name="au_concurrentProcessors" type="4"/>
+        <column name="au_dbInfoName" type="12"/>
+        <column name="au_customAutoMap" type="-1"/>
+        <column name="au_valueMap" type="-1"/>
+        <column name="au_xslTemplate" type="-1"/>
+        <column name="au_xslTransformer" type="12"/>
+        <column name="au_characterSetEncoding" type="12"/>
+        <column name="au_enableAIMap" type="-7"/>
+        <column name="au_reusable" type="-7"/>
+    </columnInfo>
+</data>
