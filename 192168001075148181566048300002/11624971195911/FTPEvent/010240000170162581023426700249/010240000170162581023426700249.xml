@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_FTPEVENT>
+        <au_ftpOverSSL><![CDATA[false]]></au_ftpOverSSL>
+        <au_keyManager><![CDATA[null]]></au_keyManager>
+        <au_debugMode><![CDATA[false]]></au_debugMode>
+        <au_addOnConfigurations><![CDATA[null]]></au_addOnConfigurations>
+        <au_port><![CDATA[21]]></au_port>
+        <au_modifiedDate><![CDATA[2021-07-09 05:57:14.3]]></au_modifiedDate>
+        <au_mailNotificationAction><![CDATA[]]></au_mailNotificationAction>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_keyStoreNameForFTP><![CDATA[null]]></au_keyStoreNameForFTP>
+        <au_processPerPoll><![CDATA[-1]]></au_processPerPoll>
+        <au_ftpValidateServer><![CDATA[false]]></au_ftpValidateServer>
+        <au_id><![CDATA[010240000170162581023426700249]]></au_id>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_fileBaseLocation><![CDATA[/Sapna/Source]]></au_fileBaseLocation>
+        <au_accountId><![CDATA[FTPAccount:010240001234162557453205400370]]></au_accountId>
+        <au_ftpProtectionLevel><![CDATA[null]]></au_ftpProtectionLevel>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_version><![CDATA[1]]></au_version>
+        <au_ftpUserId><![CDATA[ftpUserId]]></au_ftpUserId>
+        <au_businessInterval><![CDATA[0/30 * * * * ? *]]></au_businessInterval>
+        <au_misFireInstructions><![CDATA[ignoreMisfire]]></au_misFireInstructions>
+        <au_runInitialLoad><![CDATA[false]]></au_runInitialLoad>
+        <au_ftpsMode><![CDATA[null]]></au_ftpsMode>
+        <au_secured><![CDATA[false]]></au_secured>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_activateFlag><![CDATA[false]]></au_activateFlag>
+        <au_receiverEmailIds><![CDATA[]]></au_receiverEmailIds>
+        <au_filterOut><![CDATA[null]]></au_filterOut>
+        <au_pollingFrequency><![CDATA[10$m]]></au_pollingFrequency>
+        <au_useJ2SSH><![CDATA[false]]></au_useJ2SSH>
+        <au_projectOwner><![CDATA[Project:11624971195911]]></au_projectOwner>
+        <au_triggerType><![CDATA[FileCreated]]></au_triggerType>
+        <au_entityName><![CDATA[SourceEvent_11625575197313_1]]></au_entityName>
+        <au_description><![CDATA[SourceEvent_11625575197313_1]]></au_description>
+        <au_eventStartDateTime><![CDATA[null]]></au_eventStartDateTime>
+        <au_filterIn><![CDATA[*.*]]></au_filterIn>
+        <au_processDuplicateFile><![CDATA[true]]></au_processDuplicateFile>
+        <au_calendarType><![CDATA[AllDays]]></au_calendarType>
+        <au_stableTime><![CDATA[10$s]]></au_stableTime>
+        <au_userOwner><![CDATA[IndigoUser:11625036849276]]></au_userOwner>
+        <au_connectorName><![CDATA[apacheCamel]]></au_connectorName>
+        <au_processDeactivatedStateData><![CDATA[true]]></au_processDeactivatedStateData>
+        <au_creationDate><![CDATA[2021-07-09 05:57:14.3]]></au_creationDate>
+        <au_eventExpiryDateTime><![CDATA[null]]></au_eventExpiryDateTime>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_transferType><![CDATA[PASSIVE]]></au_transferType>
+        <au_ftppassword><![CDATA[null]]></au_ftppassword>
+        <au_creationMode><![CDATA[Cron]]></au_creationMode>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_triggerInSequence><![CDATA[false]]></au_triggerInSequence>
+        <au_withoutVFS><![CDATA[true]]></au_withoutVFS>
+        <au_modifiedBy><![CDATA[IndigoUser:11625036849276]]></au_modifiedBy>
+        <au_hostName><![CDATA[host]]></au_hostName>
+    </AU_FTPEVENT>
+    <columnInfo dbtype="0">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="-7"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="-7"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_activateFlag" type="-7"/>
+        <column name="au_eventStartDateTime" type="12"/>
+        <column name="au_eventExpiryDateTime" type="12"/>
+        <column name="au_triggerInSequence" type="-7"/>
+        <column name="au_calendarType" type="12"/>
+        <column name="au_businessInterval" type="12"/>
+        <column name="au_creationMode" type="12"/>
+        <column name="au_receiverEmailIds" type="12"/>
+        <column name="au_misFireInstructions" type="12"/>
+        <column name="au_processPerPoll" type="4"/>
+        <column name="au_hostName" type="12"/>
+        <column name="au_port" type="4"/>
+        <column name="au_ftpUserId" type="12"/>
+        <column name="au_ftppassword" type="12"/>
+        <column name="au_transferType" type="12"/>
+        <column name="au_triggerType" type="12"/>
+        <column name="au_secured" type="-7"/>
+        <column name="au_ftpOverSSL" type="-7"/>
+        <column name="au_ftpsMode" type="12"/>
+        <column name="au_filterIn" type="-1"/>
+        <column name="au_filterOut" type="-1"/>
+        <column name="au_fileBaseLocation" type="12"/>
+        <column name="au_pollingFrequency" type="12"/>
+        <column name="au_stableTime" type="12"/>
+        <column name="au_withoutVFS" type="-7"/>
+        <column name="au_ftpProtectionLevel" type="12"/>
+        <column name="au_keyManager" type="12"/>
+        <column name="au_ftpValidateServer" type="-7"/>
+        <column name="au_keyStoreNameForFTP" type="12"/>
+        <column name="au_useJ2SSH" type="-7"/>
+        <column name="au_accountId" type="12"/>
+        <column name="au_connectorName" type="12"/>
+        <column name="au_debugMode" type="-7"/>
+        <column name="au_runInitialLoad" type="-7"/>
+        <column name="au_processDeactivatedStateData" type="-7"/>
+        <column name="au_processDuplicateFile" type="-7"/>
+        <column name="au_mailNotificationAction" type="12"/>
+        <column name="au_addOnConfigurations" type="-1"/>
+    </columnInfo>
+</data>
