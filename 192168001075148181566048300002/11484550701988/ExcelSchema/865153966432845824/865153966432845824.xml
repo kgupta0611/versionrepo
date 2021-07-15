@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_EXCELSCHEMA>
+        <au_reusable><![CDATA[true]]></au_reusable>
+        <au_modifiedBy><![CDATA[IndigoUser:11625208391189]]></au_modifiedBy>
+        <au_modifiedDate><![CDATA[2021-07-15 09:17:15.957]]></au_modifiedDate>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_enableStreaming><![CDATA[false]]></au_enableStreaming>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_filterBlankRow><![CDATA[false]]></au_filterBlankRow>
+        <au_json><![CDATA[null]]></au_json>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_advanceXsd><![CDATA[null]]></au_advanceXsd>
+        <au_advancedExcel><![CDATA[false]]></au_advancedExcel>
+        <au_processAllSheets><![CDATA[false]]></au_processAllSheets>
+        <au_password><![CDATA[null]]></au_password>
+        <au_creationDate><![CDATA[2021-07-15 08:52:59.387]]></au_creationDate>
+        <au_entityName><![CDATA[TEST_DENIALs]]></au_entityName>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_startColumnNumber><![CDATA[1]]></au_startColumnNumber>
+        <au_userOwner><![CDATA[IndigoUser:11625208391189]]></au_userOwner>
+        <au_headerPresent><![CDATA[false]]></au_headerPresent>
+        <au_advancedSchema><![CDATA[true]]></au_advancedSchema>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_encodingUsed><![CDATA[UTF-8]]></au_encodingUsed>
+        <au_startRowNumber><![CDATA[1]]></au_startRowNumber>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_passwordProtected><![CDATA[false]]></au_passwordProtected>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_xsd><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Root">
+		<xs:annotation>
+			<xs:appinfo>
+				<XSDVersion>1</XSDVersion>
+				<Sheets>Sheet1</Sheets>
+				<allowDiscontinousOrder>false</allowDiscontinousOrder>
+				<allowIgnoreCase>false</allowIgnoreCase>
+				<allowLessFields>false</allowLessFields>
+				<restrictMoreFields>false</restrictMoreFields>
+				<headersValidation>false</headersValidation>
+				<removeInvalidChar>false</removeInvalidChar>
+				<manipulated>false</manipulated>
+				<enclosedChar></enclosedChar>
+				<advanceExcel>false</advanceExcel>
+				<mergeCriteria>null</mergeCriteria>
+				<mergeKey>null</mergeKey>
+				<isEncodedSheetName>false</isEncodedSheetName>
+				<processAllSheets>false</processAllSheets>
+				<skippedBottomRows>1</skippedBottomRows>
+				<processErrorValues>false</processErrorValues>
+				<formatCellFormulaValue>true</formatCellFormulaValue>
+			</xs:appinfo>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Record" minOccurs="1" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="1" minOccurs="0" name="Field_1s" type="xs:string">
+								<xs:annotation>
+									<xs:appinfo>
+										<originalName>[ABPM_._ESCAPE_._CDATA_._START]Field_1[ABPM_._ESCAPE_._CDATA_._END]</originalName>
+										<format>AAAAAAA</format>
+										<dataMode>plainText</dataMode>
+									</xs:appinfo>
+								</xs:annotation>
+							</xs:element>
+							<xs:element maxOccurs="1" minOccurs="0" name="Field_5" type="xs:string">
+								<xs:annotation>
+									<xs:appinfo>
+										<originalName>[ABPM_._ESCAPE_._CDATA_._START]Field_5[ABPM_._ESCAPE_._CDATA_._END]</originalName>
+										<format>AAAAAAA</format>
+										<dataMode>plainText</dataMode>
+									</xs:appinfo>
+								</xs:annotation>
+							</xs:element>
+							<xs:element maxOccurs="1" minOccurs="0" name="dfssdfsfd" type="xs:string">
+								<xs:annotation>
+									<xs:appinfo>
+										<originalName>[ABPM_._ESCAPE_._CDATA_._START]dfssdfsfd[ABPM_._ESCAPE_._CDATA_._END]</originalName>
+										<format>AAAAAAA</format>
+										<dataMode>plainText</dataMode>
+									</xs:appinfo>
+								</xs:annotation>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="recordNumber" type="xs:string" use="required"/>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ControlTotal" isControlTotal="true" minOccurs="0" maxOccurs="1">
+					<xs:annotation>
+						<xs:appinfo>
+							<dataPosition>footer</dataPosition>
+							<rowPosition>1</rowPosition>
+							<columnPosition>1</columnPosition>
+							<format>AAAAAAA</format>
+							<dataMode>plainText</dataMode>
+						</xs:appinfo>
+					</xs:annotation>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>]]></au_xsd>
+        <au_id><![CDATA[865153966432845824]]></au_id>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_encryptSecretKey><![CDATA[]]></au_encryptSecretKey>
+        <au_decryptSecretKey><![CDATA[]]></au_decryptSecretKey>
+        <au_description><![CDATA[TEST_DENIAL]]></au_description>
+        <au_version><![CDATA[1]]></au_version>
+        <au_unstructuredDataType><![CDATA[null]]></au_unstructuredDataType>
+        <xsdFilePath><![CDATA[]]></xsdFilePath>
+    </AU_EXCELSCHEMA>
+    <columnInfo dbtype="0">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="-7"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="-7"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_xsd" type="-1"/>
+        <column name="xsdFilePath" type="12"/>
+        <column name="au_encodingUsed" type="12"/>
+        <column name="au_reusable" type="-7"/>
+        <column name="au_advancedSchema" type="-7"/>
+        <column name="au_advancedExcel" type="-7"/>
+        <column name="au_processAllSheets" type="-7"/>
+        <column name="au_headerPresent" type="-7"/>
+        <column name="au_startRowNumber" type="4"/>
+        <column name="au_startColumnNumber" type="4"/>
+        <column name="au_encryptSecretKey" type="12"/>
+        <column name="au_decryptSecretKey" type="12"/>
+        <column name="au_advanceXsd" type="-1"/>
+        <column name="au_passwordProtected" type="-7"/>
+        <column name="au_password" type="12"/>
+        <column name="au_json" type="-1"/>
+        <column name="au_filterBlankRow" type="-7"/>
+        <column name="au_unstructuredDataType" type="12"/>
+        <column name="au_enableStreaming" type="-7"/>
+    </columnInfo>
+</data>

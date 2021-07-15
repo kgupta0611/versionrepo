@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_PROJECT>
-        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
-        <au_permissionMask><![CDATA[777]]></au_permissionMask>
-        <au_revision><![CDATA[a87c9d5edf04a8582ec4f47adb56ac4402b21d63]]></au_revision>
-        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
-        <au_creationDate><![CDATA[2017-01-18 11:16:24.0]]></au_creationDate>
-        <au_modifiedDate><![CDATA[2021-05-20 11:20:21.927]]></au_modifiedDate>
-        <au_projectGroup><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_projectGroup>
-        <au_id><![CDATA[11484550701988]]></au_id>
-        <au_activeVersion><![CDATA[true]]></au_activeVersion>
-        <au_entityName><![CDATA[Project_1]]></au_entityName>
-        <au_version><![CDATA[1]]></au_version>
-        <au_description><![CDATA[Project_1]]></au_description>
         <au_comments><![CDATA[null]]></au_comments>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
         <au_synchronized><![CDATA[true]]></au_synchronized>
-        <au_projectOwner><![CDATA[null]]></au_projectOwner>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_projectGroup><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_projectGroup>
         <au_projectType><![CDATA[3700]]></au_projectType>
+        <au_version><![CDATA[1]]></au_version>
+        <au_modifiedDate><![CDATA[2021-05-20 11:20:21.927]]></au_modifiedDate>
+        <au_projectOwner><![CDATA[null]]></au_projectOwner>
+        <au_creationDate><![CDATA[2017-01-18 11:16:24.0]]></au_creationDate>
+        <au_id><![CDATA[11484550701988]]></au_id>
+        <au_entityName><![CDATA[Project_1]]></au_entityName>
+        <au_permissionMask><![CDATA[777]]></au_permissionMask>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_revision><![CDATA[45888f1302dd5c689cfed3dc95e9b5c2a5db318d]]></au_revision>
+        <au_description><![CDATA[Project_1]]></au_description>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
     </AU_PROJECT>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
