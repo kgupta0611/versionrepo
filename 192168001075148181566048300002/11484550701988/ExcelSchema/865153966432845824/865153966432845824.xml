@@ -1,32 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_EXCELSCHEMA>
-        <au_reusable><![CDATA[true]]></au_reusable>
-        <au_modifiedBy><![CDATA[IndigoUser:11625208391189]]></au_modifiedBy>
-        <au_modifiedDate><![CDATA[2021-07-15 09:17:15.957]]></au_modifiedDate>
-        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
-        <au_enableStreaming><![CDATA[false]]></au_enableStreaming>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_filterBlankRow><![CDATA[false]]></au_filterBlankRow>
-        <au_json><![CDATA[null]]></au_json>
-        <au_revision><![CDATA[null]]></au_revision>
-        <au_advanceXsd><![CDATA[null]]></au_advanceXsd>
-        <au_advancedExcel><![CDATA[false]]></au_advancedExcel>
-        <au_processAllSheets><![CDATA[false]]></au_processAllSheets>
-        <au_password><![CDATA[null]]></au_password>
-        <au_creationDate><![CDATA[2021-07-15 08:52:59.387]]></au_creationDate>
-        <au_entityName><![CDATA[TEST_DENIALs]]></au_entityName>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_startColumnNumber><![CDATA[1]]></au_startColumnNumber>
-        <au_userOwner><![CDATA[IndigoUser:11625208391189]]></au_userOwner>
-        <au_headerPresent><![CDATA[false]]></au_headerPresent>
-        <au_advancedSchema><![CDATA[true]]></au_advancedSchema>
         <au_activeVersion><![CDATA[true]]></au_activeVersion>
-        <au_encodingUsed><![CDATA[UTF-8]]></au_encodingUsed>
-        <au_startRowNumber><![CDATA[1]]></au_startRowNumber>
-        <au_synchronized><![CDATA[false]]></au_synchronized>
-        <au_passwordProtected><![CDATA[false]]></au_passwordProtected>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_userOwner><![CDATA[IndigoUser:11625208391189]]></au_userOwner>
         <au_comments><![CDATA[null]]></au_comments>
+        <au_filterBlankRow><![CDATA[false]]></au_filterBlankRow>
+        <au_id><![CDATA[865153966432845824]]></au_id>
+        <au_startRowNumber><![CDATA[1]]></au_startRowNumber>
+        <au_revision><![CDATA[c2ed2d19267f3ae4dcf59f5f35ba3367d336101f]]></au_revision>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_json><![CDATA[null]]></au_json>
+        <au_entityName><![CDATA[TEST_DENIALs]]></au_entityName>
+        <au_advancedSchema><![CDATA[true]]></au_advancedSchema>
+        <au_unstructuredDataType><![CDATA[null]]></au_unstructuredDataType>
+        <au_reusable><![CDATA[true]]></au_reusable>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_modifiedDate><![CDATA[2021-07-15 09:21:21.057]]></au_modifiedDate>
+        <au_enableStreaming><![CDATA[false]]></au_enableStreaming>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_advanceXsd><![CDATA[null]]></au_advanceXsd>
+        <au_passwordProtected><![CDATA[false]]></au_passwordProtected>
+        <au_advancedExcel><![CDATA[false]]></au_advancedExcel>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_processAllSheets><![CDATA[false]]></au_processAllSheets>
+        <au_version><![CDATA[1]]></au_version>
+        <au_creationDate><![CDATA[2021-07-15 08:52:59.387]]></au_creationDate>
+        <au_encodingUsed><![CDATA[UTF-8]]></au_encodingUsed>
+        <au_headerPresent><![CDATA[false]]></au_headerPresent>
+        <au_description><![CDATA[TEST_DENIAL]]></au_description>
+        <xsdFilePath><![CDATA[]]></xsdFilePath>
+        <au_modifiedBy><![CDATA[IndigoUser:11625208391189]]></au_modifiedBy>
+        <au_decryptSecretKey><![CDATA[]]></au_decryptSecretKey>
+        <au_startColumnNumber><![CDATA[1]]></au_startColumnNumber>
+        <au_password><![CDATA[null]]></au_password>
+        <au_encryptSecretKey><![CDATA[]]></au_encryptSecretKey>
         <au_xsd><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 	<xs:element name="Root">
@@ -84,6 +92,15 @@
 									</xs:appinfo>
 								</xs:annotation>
 							</xs:element>
+							<xs:element maxOccurs="1" minOccurs="0" name="f4" type="xs:string">
+								<xs:annotation>
+									<xs:appinfo>
+										<originalName>[ABPM_._ESCAPE_._CDATA_._START]f4[ABPM_._ESCAPE_._CDATA_._END]</originalName>
+										<format>AAAAAAA</format>
+										<dataMode>plainText</dataMode>
+									</xs:appinfo>
+								</xs:annotation>
+							</xs:element>
 						</xs:sequence>
 						<xs:attribute name="recordNumber" type="xs:string" use="required"/>
 					</xs:complexType>
@@ -103,14 +120,6 @@
 		</xs:complexType>
 	</xs:element>
 </xs:schema>]]></au_xsd>
-        <au_id><![CDATA[865153966432845824]]></au_id>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_encryptSecretKey><![CDATA[]]></au_encryptSecretKey>
-        <au_decryptSecretKey><![CDATA[]]></au_decryptSecretKey>
-        <au_description><![CDATA[TEST_DENIAL]]></au_description>
-        <au_version><![CDATA[1]]></au_version>
-        <au_unstructuredDataType><![CDATA[null]]></au_unstructuredDataType>
-        <xsdFilePath><![CDATA[]]></xsdFilePath>
     </AU_EXCELSCHEMA>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
