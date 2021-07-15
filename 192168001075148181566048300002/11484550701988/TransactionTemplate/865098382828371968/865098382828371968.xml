@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AC_TRANSACTION_TEMPLATE>
-        <SRC_CRITERIA><![CDATA[null]]></SRC_CRITERIA>
-        <DIRECTION><![CDATA[3200]]></DIRECTION>
-        <CONTACT_USER><![CDATA[skyit@yopmail.com]]></CONTACT_USER>
+        <SRC_TRIGGER><![CDATA[FileUploaded]]></SRC_TRIGGER>
+        <DESCRIPTION><![CDATA[Ak_temp12]]></DESCRIPTION>
+        <STATUS><![CDATA[601]]></STATUS>
+        <DEST_EXTERNAL_ID><![CDATA[null]]></DEST_EXTERNAL_ID>
         <DATA_ENCODING><![CDATA[UTF-8]]></DATA_ENCODING>
-        <LOCKED_BY_USER><![CDATA[null]]></LOCKED_BY_USER>
-        <LOG_MODE><![CDATA[null]]></LOG_MODE>
-        <LOCKED_TIMESTAMP><![CDATA[null]]></LOCKED_TIMESTAMP>
-        <DOCUMENTATION><![CDATA[]]></DOCUMENTATION>
-        <ERROR_ID><![CDATA[null]]></ERROR_ID>
-        <REVISION><![CDATA[null]]></REVISION>
-        <TYPE><![CDATA[504]]></TYPE>
-        <CREATED_ROLE><![CDATA[2]]></CREATED_ROLE>
-        <CREATED_USER><![CDATA[IndigoUser:11621428112036]]></CREATED_USER>
-        <DEST_APP_TYPE><![CDATA[file:file:File]]></DEST_APP_TYPE>
-        <CREATED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></CREATED_GROUP>
-        <CREATION_DATE><![CDATA[2021-07-15 05:12:07.137]]></CREATION_DATE>
-        <NOTIFICATION_MODE><![CDATA[1900]]></NOTIFICATION_MODE>
-        <SRC_APP_TYPE><![CDATA[file:fileupload:File Upload]]></SRC_APP_TYPE>
-        <CREATED_BY><![CDATA[Akash yadava]]></CREATED_BY>
-        <IN_USE><![CDATA[null]]></IN_USE>
-        <ACCESS_LEVEL><![CDATA[3100]]></ACCESS_LEVEL>
-        <APPROVAL_TYPE><![CDATA[3000]]></APPROVAL_TYPE>
-        <MODIFIED_BY><![CDATA[Akash yadava]]></MODIFIED_BY>
-        <VARIABLE_INFO><![CDATA[]]></VARIABLE_INFO>
-        <COMPANY_ID><![CDATA[1]]></COMPANY_ID>
-        <DEST_ACTION><![CDATA[null]]></DEST_ACTION>
         <PARAMETERS_INFO><![CDATA[{"routingType":3502,"dataEncryptionAtRest":"useGlobalPolicy","mapperValidatorId":"","mapperExternalFunctionId":"","emailNotificationFormat":"Default"}]]></PARAMETERS_INFO>
+        <REVISION><![CDATA[0e65dbb82c4fd745e2c874c63c68dcb873e82d25]]></REVISION>
+        <SRC_CRITERIA><![CDATA[null]]></SRC_CRITERIA>
+        <APPROVAL_TYPE><![CDATA[3000]]></APPROVAL_TYPE>
+        <MODIFIED_DATE><![CDATA[2021-07-15 05:25:50.783]]></MODIFIED_DATE>
+        <IN_USE><![CDATA[null]]></IN_USE>
+        <ERROR_ID><![CDATA[null]]></ERROR_ID>
         <NAME><![CDATA[Ak_temp]]></NAME>
         <PROCESS_TYPE><![CDATA[701]]></PROCESS_TYPE>
-        <IN_USE_BY><![CDATA[null]]></IN_USE_BY>
-        <MODIFIED_DATE><![CDATA[2021-07-15 05:13:38.037]]></MODIFIED_DATE>
-        <PARTNER_CONFIG_INFO><![CDATA[{"webFormData":{},"partnerConfiguration":[]}]]></PARTNER_CONFIG_INFO>
-        <MODIFIED_ROLE><![CDATA[2]]></MODIFIED_ROLE>
-        <DISPLAY_TYPE><![CDATA[701]]></DISPLAY_TYPE>
-        <MODIFIED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></MODIFIED_GROUP>
-        <DEST_REFERENCE_FIELD><![CDATA[null]]></DEST_REFERENCE_FIELD>
-        <STATUS><![CDATA[601]]></STATUS>
-        <PROJECT_OWNER><![CDATA[Project:11484550701988]]></PROJECT_OWNER>
         <SYNCHRONIZED><![CDATA[0]]></SYNCHRONIZED>
         <LOCKED_STATUS><![CDATA[2301]]></LOCKED_STATUS>
-        <ID><![CDATA[865098382828371968]]></ID>
+        <SRC_APP_TYPE><![CDATA[file:fileupload:File Upload]]></SRC_APP_TYPE>
+        <VARIABLE_INFO><![CDATA[]]></VARIABLE_INFO>
+        <DEST_APP_TYPE><![CDATA[file:file:File]]></DEST_APP_TYPE>
+        <DEST_REFERENCE_FIELD><![CDATA[null]]></DEST_REFERENCE_FIELD>
+        <CONTACT_USER><![CDATA[skyit@yopmail.com]]></CONTACT_USER>
+        <CREATED_ROLE><![CDATA[2]]></CREATED_ROLE>
+        <MODIFIED_ROLE><![CDATA[2]]></MODIFIED_ROLE>
+        <ACCESS_LEVEL><![CDATA[3100]]></ACCESS_LEVEL>
+        <CREATED_USER><![CDATA[IndigoUser:11621428112036]]></CREATED_USER>
+        <LOCKED_BY_USER><![CDATA[null]]></LOCKED_BY_USER>
+        <DEST_ACTION><![CDATA[null]]></DEST_ACTION>
+        <MODIFIED_BY><![CDATA[Akash yadava]]></MODIFIED_BY>
+        <PROJECT_OWNER><![CDATA[Project:11484550701988]]></PROJECT_OWNER>
+        <NOTIFICATION_MODE><![CDATA[1900]]></NOTIFICATION_MODE>
+        <CREATION_DATE><![CDATA[2021-07-15 05:12:07.137]]></CREATION_DATE>
+        <DIRECTION><![CDATA[3200]]></DIRECTION>
+        <PARTNER_CONFIG_INFO><![CDATA[{"webFormData":{},"partnerConfiguration":[]}]]></PARTNER_CONFIG_INFO>
+        <COMPANY_ID><![CDATA[1]]></COMPANY_ID>
+        <LOCKED_TIMESTAMP><![CDATA[null]]></LOCKED_TIMESTAMP>
+        <TYPE><![CDATA[504]]></TYPE>
         <SRC_REFERENCE_FIELD><![CDATA[]]></SRC_REFERENCE_FIELD>
-        <DEST_EXTERNAL_ID><![CDATA[null]]></DEST_EXTERNAL_ID>
-        <SRC_TRIGGER><![CDATA[FileUploaded]]></SRC_TRIGGER>
+        <IN_USE_BY><![CDATA[null]]></IN_USE_BY>
+        <LOG_MODE><![CDATA[null]]></LOG_MODE>
+        <MODIFIED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></MODIFIED_GROUP>
+        <CREATED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></CREATED_GROUP>
         <MODIFIED_USER><![CDATA[IndigoUser:11621428112036]]></MODIFIED_USER>
-        <DESCRIPTION><![CDATA[Ak_temp]]></DESCRIPTION>
+        <CREATED_BY><![CDATA[Akash yadava]]></CREATED_BY>
+        <DOCUMENTATION><![CDATA[]]></DOCUMENTATION>
+        <DISPLAY_TYPE><![CDATA[701]]></DISPLAY_TYPE>
+        <ID><![CDATA[865098382828371968]]></ID>
     </AC_TRANSACTION_TEMPLATE>
     <columnInfo dbtype="0">
         <column name="ID" type="2"/>
