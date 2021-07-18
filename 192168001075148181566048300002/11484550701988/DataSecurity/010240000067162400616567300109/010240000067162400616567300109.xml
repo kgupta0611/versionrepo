@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_DATASECURITY>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_creationDate><![CDATA[2021-06-18 08:49:25.673]]></au_creationDate>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_keyId><![CDATA[-428033924280193901]]></au_keyId>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_modifiedBy><![CDATA[IndigoUser:11621428112336]]></au_modifiedBy>
+        <au_description><![CDATA[hh]]></au_description>
+        <au_typeOfDataSecurity><![CDATA[PGP]]></au_typeOfDataSecurity>
+        <au_persistDataEnabled><![CDATA[false]]></au_persistDataEnabled>
+        <au_modifiedDate><![CDATA[2021-06-18 08:49:25.673]]></au_modifiedDate>
+        <au_version><![CDATA[1]]></au_version>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_entityName><![CDATA[sks_98_2]]></au_entityName>
+        <au_privateKeyPassword><![CDATA[dVZNSp20gxg+jY6AXLgfRA==]]></au_privateKeyPassword>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_userOwner><![CDATA[IndigoUser:11621428112336]]></au_userOwner>
+        <au_keyManager><![CDATA[KeyManager:010240000067162399687113800041]]></au_keyManager>
+        <au_action><![CDATA[Decryption]]></au_action>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_id><![CDATA[010240000067162400616567300109]]></au_id>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+    </AU_DATASECURITY>
+    <columnInfo dbtype="0">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="-7"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="-7"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_persistDataEnabled" type="-7"/>
+        <column name="au_typeOfDataSecurity" type="12"/>
+        <column name="au_action" type="12"/>
+        <column name="au_keyManager" type="12"/>
+        <column name="au_privateKeyPassword" type="12"/>
+        <column name="au_keyId" type="12"/>
+    </columnInfo>
+</data>
