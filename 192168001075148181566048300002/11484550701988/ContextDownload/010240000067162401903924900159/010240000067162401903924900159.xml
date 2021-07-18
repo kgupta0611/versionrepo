@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_CONTEXTDOWNLOAD>
+        <au_userOwner><![CDATA[IndigoUser:11621428112336]]></au_userOwner>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_version><![CDATA[1]]></au_version>
+        <au_creationDate><![CDATA[2021-06-18 12:23:59.0]]></au_creationDate>
+        <au_description><![CDATA[ss]]></au_description>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_schemaID><![CDATA[PositionalSchema:010240001035162364799281600160]]></au_schemaID>
+        <au_modifiedDate><![CDATA[2021-06-18 12:27:08.0]]></au_modifiedDate>
+        <au_modifiedBy><![CDATA[IndigoUser:11621428112336]]></au_modifiedBy>
+        <au_contextMap><![CDATA[<?xml version="1.0" encoding="UTF-8"?><contextMap><map><name>n</name><value>aa</value><nullable>true</nullable></map><map><name>a</name><value>aa1</value><nullable>true</nullable></map><map><name>aaww</name><value>a11</value><nullable>true</nullable></map><map><name>qj</name><value>ww6</value><nullable>true</nullable></map><map><name>ss</name><value>ww</value><nullable>true</nullable></map><map><name>ae</name><value>qq</value><nullable>true</nullable></map></contextMap>]]></au_contextMap>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_persistDataEnabled><![CDATA[false]]></au_persistDataEnabled>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_entityName><![CDATA[ww22]]></au_entityName>
+        <au_id><![CDATA[010240000067162401903924900159]]></au_id>
+    </AU_CONTEXTDOWNLOAD>
+    <columnInfo dbtype="0">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="-7"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="-7"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_persistDataEnabled" type="-7"/>
+        <column name="au_schemaID" type="12"/>
+        <column name="au_contextMap" type="-1"/>
+    </columnInfo>
+</data>
