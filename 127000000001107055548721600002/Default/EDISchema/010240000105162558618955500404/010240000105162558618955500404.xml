@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_EDISCHEMA>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_creationDate><![CDATA[2021-07-06 15:43:09.557]]></au_creationDate>
+        <au_projectOwner><![CDATA[Default]]></au_projectOwner>
+        <au_version><![CDATA[1]]></au_version>
+        <au_dataDictionaryId><![CDATA[EDIDataDictionary:010240000105162558546555900400]]></au_dataDictionaryId>
+        <au_isSkipCompliance><![CDATA[false]]></au_isSkipCompliance>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_reusable><![CDATA[true]]></au_reusable>
+        <au_id><![CDATA[010240000105162558618955500404]]></au_id>
+        <au_description><![CDATA[ddd22]]></au_description>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_entityName><![CDATA[sk_EDI]]></au_entityName>
+        <au_xsd><![CDATA[<?xml version="1.0" encoding="ISO-8859-1"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xs:include schemaLocation="shared/EDISchemas/EDIFACT_D09A/EDIFACT_D09A_ORDERS.xsd"/>
+<xs:element name="EDIRoot">
+<xs:annotation>
+<xs:appinfo>
+<xs:standard>D09A ORDERS</xs:standard>
+<xs:isHIPPA>False</xs:isHIPPA>
+<xs:documentation>D09A ORDERS</xs:documentation>
+<xs:fieldSeparator></xs:fieldSeparator>
+<xs:segmentSeparator></xs:segmentSeparator>
+<xs:compositeSeparator></xs:compositeSeparator>
+<xs:subCompositeSeparator></xs:subCompositeSeparator>
+<xs:repetitionSeparator></xs:repetitionSeparator>
+<xs:transactionEndSeparator></xs:transactionEndSeparator>
+<xs:releaseIndicator></xs:releaseIndicator>
+<xs:validateXML>false</xs:validateXML>
+</xs:appinfo>
+</xs:annotation>
+<xs:complexType>
+<xs:sequence>
+<xs:element name="UNB" type="UNB" minOccurs="1" maxOccurs ="1"/>
+<xs:element name="UNG" type="UNG" minOccurs="0" maxOccurs ="unbounded"/>
+<xs:element name="TS_ORDERS" type="TS_ORDERS" minOccurs="1" maxOccurs ="unbounded"/>
+<xs:element name="UNE" type="UNE" minOccurs="0" maxOccurs ="unbounded"/>
+<xs:element name="UNZ" type="UNZ" minOccurs="0" maxOccurs ="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:schema>]]></au_xsd>
+        <au_encodingUsed><![CDATA[UTF-8]]></au_encodingUsed>
+        <xsdFilePath><![CDATA[Dictionary:EDIFACT_D09A_ORDERS.xsd:ORDERS:Purchase order message]]></xsdFilePath>
+        <au_modifiedDate><![CDATA[2021-07-06 15:43:09.557]]></au_modifiedDate>
+    </AU_EDISCHEMA>
+    <columnInfo dbtype="0">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="-7"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="-7"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_xsd" type="-1"/>
+        <column name="xsdFilePath" type="12"/>
+        <column name="au_encodingUsed" type="12"/>
+        <column name="au_reusable" type="-7"/>
+        <column name="au_dataDictionaryId" type="12"/>
+        <column name="au_isSkipCompliance" type="-7"/>
+    </columnInfo>
+</data>
