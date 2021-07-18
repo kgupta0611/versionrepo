@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AC_EMAIL_NOTIFICATION_FORMAT>
+        <FILENAME><![CDATA[EmailNotification.html]]></FILENAME>
+        <NAME><![CDATA[TxnSuccess123]]></NAME>
+        <ID><![CDATA[11625575196601]]></ID>
+        <MODIFIED_USER><![CDATA[IndigoUser:11625208648323]]></MODIFIED_USER>
+        <CREATED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></CREATED_GROUP>
+        <DESCRIPTION><![CDATA[TxnSuccess]]></DESCRIPTION>
+        <MODIFIED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></MODIFIED_GROUP>
+        <CREATED_BY><![CDATA[Krati Gupta]]></CREATED_BY>
+        <MODIFIED_DATE><![CDATA[2021-07-06 19:04:28.337]]></MODIFIED_DATE>
+        <SYNCHRONIZED><![CDATA[null]]></SYNCHRONIZED>
+        <MODIFIED_BY><![CDATA[Krati Gupta]]></MODIFIED_BY>
+        <CREATION_DATE><![CDATA[2021-07-06 19:04:18.7]]></CREATION_DATE>
+        <CREATED_USER><![CDATA[IndigoUser:11625208648323]]></CREATED_USER>
+        <EMAIL_NOTIFICATION_BODY><![CDATA[<html>
+<body>
+<table align="left" style="width:90%">
+<thead>
+    <tr>
+      <td colspan="2"><p>Hello,<br /></p>
+<p>This transaction executed.<br /><br /></p></td>
+    </tr>
+  </thead>
+<tbody style="border: 1px solid #ccc;">
+<tr>
+<td><strong>Environment Details</strong></td>
+<td>$$environmentName$$</td>
+</tr>
+<tr>
+<td style="width:20%"><strong>Partner Name</strong></td>
+<td style="width:70%">$$spokeCompanyName$$</td>
+</tr>
+<tr>
+<td><strong>Transaction Name</strong></td>
+<td>$$transactionName$$</td>
+</tr>
+<tr>
+<td><strong>Template Name</strong></td>
+<td>$$templateName$$</td>
+</tr>
+
+</tbody>
+</table>
+</body>
+</html>]]></EMAIL_NOTIFICATION_BODY>
+        <REVISION><![CDATA[null]]></REVISION>
+        <EMAIL_SUBJECT><![CDATA[TxnSuccess]]></EMAIL_SUBJECT>
+        <PROJECT_OWNER><![CDATA[Project:11625208390733]]></PROJECT_OWNER>
+    </AC_EMAIL_NOTIFICATION_FORMAT>
+    <columnInfo dbtype="0">
+        <column name="ID" type="2"/>
+        <column name="DESCRIPTION" type="12"/>
+        <column name="NAME" type="12"/>
+        <column name="CREATED_GROUP" type="12"/>
+        <column name="MODIFIED_GROUP" type="12"/>
+        <column name="CREATED_USER" type="12"/>
+        <column name="CREATION_DATE" type="93"/>
+        <column name="MODIFIED_DATE" type="93"/>
+        <column name="MODIFIED_USER" type="12"/>
+        <column name="CREATED_BY" type="12"/>
+        <column name="MODIFIED_BY" type="12"/>
+        <column name="PROJECT_OWNER" type="12"/>
+        <column name="EMAIL_SUBJECT" type="12"/>
+        <column name="EMAIL_NOTIFICATION_BODY" type="-1"/>
+        <column name="REVISION" type="12"/>
+        <column name="SYNCHRONIZED" type="-6"/>
+        <column name="FILENAME" type="12"/>
+    </columnInfo>
+</data>
