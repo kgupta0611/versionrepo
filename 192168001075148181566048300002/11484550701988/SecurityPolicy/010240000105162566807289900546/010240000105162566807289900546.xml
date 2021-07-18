@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_SECURITY_POLICY>
+        <au_sigInkeyStore><![CDATA[]]></au_sigInkeyStore>
+        <au_loginModule><![CDATA[]]></au_loginModule>
+        <au_claimParam><![CDATA[null]]></au_claimParam>
+        <au_timeStampSignatureOutgoing><![CDATA[false]]></au_timeStampSignatureOutgoing>
+        <au_encryption><![CDATA[false]]></au_encryption>
+        <au_trustStoreName><![CDATA[null]]></au_trustStoreName>
+        <au_tokenUserid><![CDATA[]]></au_tokenUserid>
+        <au_symmetricAlg><![CDATA[Default]]></au_symmetricAlg>
+        <au_sigAlgType><![CDATA[Default]]></au_sigAlgType>
+        <au_userNameToken><![CDATA[false]]></au_userNameToken>
+        <au_encryptionParts><![CDATA[]]></au_encryptionParts>
+        <au_signatureIncomingParts><![CDATA[]]></au_signatureIncomingParts>
+        <au_messageSequenceIncoming><![CDATA[T,U,E,S]]></au_messageSequenceIncoming>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_userOwner><![CDATA[IndigoUser:11624608398674]]></au_userOwner>
+        <au_tokenPassType><![CDATA[None]]></au_tokenPassType>
+        <au_encrypkeyStore><![CDATA[None]]></au_encrypkeyStore>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_authenticatePreemptively><![CDATA[false]]></au_authenticatePreemptively>
+        <au_tokenUserPasswordIncoming><![CDATA[]]></au_tokenUserPasswordIncoming>
+        <au_secure><![CDATA[false]]></au_secure>
+        <au_timeToLive><![CDATA[60]]></au_timeToLive>
+        <au_apiKeyMode><![CDATA[Header]]></au_apiKeyMode>
+        <au_encrypAlias><![CDATA[none]]></au_encrypAlias>
+        <au_modifiedBy><![CDATA[IndigoUser:11624608398674]]></au_modifiedBy>
+        <au_encryptionRequired><![CDATA[false]]></au_encryptionRequired>
+        <au_inComingMessage><![CDATA[false]]></au_inComingMessage>
+        <au_keyStoreAlias><![CDATA[]]></au_keyStoreAlias>
+        <au_signature><![CDATA[false]]></au_signature>
+        <au_modifiedDate><![CDATA[2021-07-07 14:27:52.9]]></au_modifiedDate>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_tokenNonce><![CDATA[false]]></au_tokenNonce>
+        <au_securityPolicyType><![CDATA[Consumer]]></au_securityPolicyType>
+        <au_password><![CDATA[i1WtnGBiFYkJjU57XJyj7g==]]></au_password>
+        <au_inMessagepassword><![CDATA[null]]></au_inMessagepassword>
+        <au_sigKeyIdentifierType><![CDATA[Default]]></au_sigKeyIdentifierType>
+        <au_description><![CDATA[SPFromSOAPConsumer]]></au_description>
+        <au_tokenCreated><![CDATA[false]]></au_tokenCreated>
+        <au_embeddedKeyPassword><![CDATA[null]]></au_embeddedKeyPassword>
+        <au_entityName><![CDATA[SPFromSOAPConsumer_Copy]]></au_entityName>
+        <au_tokenPasswordTypeIncoming><![CDATA[None]]></au_tokenPasswordTypeIncoming>
+        <au_authentication><![CDATA[true]]></au_authentication>
+        <au_singleCertificate><![CDATA[false]]></au_singleCertificate>
+        <au_id><![CDATA[010240000105162566807289900546]]></au_id>
+        <au_sigKeyStore><![CDATA[None]]></au_sigKeyStore>
+        <au_version><![CDATA[1]]></au_version>
+        <au_oauthAccountId><![CDATA[]]></au_oauthAccountId>
+        <au_sigCanonicalization><![CDATA[Default]]></au_sigCanonicalization>
+        <au_authMode><![CDATA[]]></au_authMode>
+        <au_userID><![CDATA[sa]]></au_userID>
+        <au_signatureRequired><![CDATA[false]]></au_signatureRequired>
+        <au_creationDate><![CDATA[2021-07-07 14:27:52.9]]></au_creationDate>
+        <au_keyStoreName><![CDATA[None]]></au_keyStoreName>
+        <au_trustStorePassword><![CDATA[null]]></au_trustStorePassword>
+        <au_decrypInkeyStore><![CDATA[]]></au_decrypInkeyStore>
+        <au_encrypKeyIdentifierType><![CDATA[Default]]></au_encrypKeyIdentifierType>
+        <au_signatureParts><![CDATA[]]></au_signatureParts>
+        <au_timeStampSignatureIncomming><![CDATA[false]]></au_timeStampSignatureIncomming>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_tokenUseridIncoming><![CDATA[]]></au_tokenUseridIncoming>
+        <au_authType><![CDATA[Basic]]></au_authType>
+        <au_sequence><![CDATA[signature,timestamp]]></au_sequence>
+        <au_decrypAlias><![CDATA[none]]></au_decrypAlias>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_authGroup><![CDATA[]]></au_authGroup>
+        <au_sigInAlias><![CDATA[none]]></au_sigInAlias>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_tokenUserPassword><![CDATA[]]></au_tokenUserPassword>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_messageSequenceOutgoing><![CDATA[T,U,S,E]]></au_messageSequenceOutgoing>
+        <au_encrypCanonicalization><![CDATA[Default]]></au_encrypCanonicalization>
+        <au_embeddedKeyName><![CDATA[]]></au_embeddedKeyName>
+        <au_timeStampRequired><![CDATA[false]]></au_timeStampRequired>
+        <au_encryptionIncomingParts><![CDATA[]]></au_encryptionIncomingParts>
+        <au_createEncrypKey><![CDATA[false]]></au_createEncrypKey>
+        <au_keyEncrypAlg><![CDATA[Default]]></au_keyEncrypAlg>
+        <au_tokenNonceIncoming><![CDATA[false]]></au_tokenNonceIncoming>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_userNameTokenIncoming><![CDATA[false]]></au_userNameTokenIncoming>
+        <au_timeStamp><![CDATA[false]]></au_timeStamp>
+        <au_sigAlias><![CDATA[none]]></au_sigAlias>
+        <au_keyStorePassword><![CDATA[null]]></au_keyStorePassword>
+    </AU_SECURITY_POLICY>
+    <columnInfo dbtype="0">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="-7"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="-7"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_authentication" type="-7"/>
+        <column name="au_authenticatePreemptively" type="-7"/>
+        <column name="au_securityPolicyType" type="12"/>
+        <column name="au_userID" type="12"/>
+        <column name="au_loginModule" type="12"/>
+        <column name="au_keyStoreAlias" type="12"/>
+        <column name="au_password" type="12"/>
+        <column name="au_secure" type="-7"/>
+        <column name="au_trustStoreName" type="12"/>
+        <column name="au_trustStorePassword" type="12"/>
+        <column name="au_keyStoreName" type="12"/>
+        <column name="au_keyStorePassword" type="12"/>
+        <column name="au_signature" type="-7"/>
+        <column name="au_signatureRequired" type="-7"/>
+        <column name="au_sigKeyStore" type="12"/>
+        <column name="au_sigAlias" type="12"/>
+        <column name="au_sigKeyIdentifierType" type="12"/>
+        <column name="au_sigAlgType" type="12"/>
+        <column name="au_sigCanonicalization" type="12"/>
+        <column name="au_singleCertificate" type="-7"/>
+        <column name="au_encryption" type="-7"/>
+        <column name="au_encryptionRequired" type="-7"/>
+        <column name="au_encrypkeyStore" type="12"/>
+        <column name="au_encrypAlias" type="12"/>
+        <column name="au_encrypKeyIdentifierType" type="12"/>
+        <column name="au_authType" type="12"/>
+        <column name="au_authMode" type="12"/>
+        <column name="au_apiKeyMode" type="12"/>
+        <column name="au_embeddedKeyName" type="12"/>
+        <column name="au_embeddedKeyPassword" type="12"/>
+        <column name="au_symmetricAlg" type="12"/>
+        <column name="au_keyEncrypAlg" type="12"/>
+        <column name="au_encrypCanonicalization" type="12"/>
+        <column name="au_createEncrypKey" type="-7"/>
+        <column name="au_userNameToken" type="-7"/>
+        <column name="au_userNameTokenIncoming" type="-7"/>
+        <column name="au_tokenUserid" type="12"/>
+        <column name="au_tokenUseridIncoming" type="12"/>
+        <column name="au_tokenUserPassword" type="12"/>
+        <column name="au_tokenUserPasswordIncoming" type="12"/>
+        <column name="au_tokenNonce" type="-7"/>
+        <column name="au_tokenNonceIncoming" type="-7"/>
+        <column name="au_tokenCreated" type="-7"/>
+        <column name="au_tokenPassType" type="12"/>
+        <column name="au_tokenPasswordTypeIncoming" type="12"/>
+        <column name="au_timeStamp" type="-7"/>
+        <column name="au_timeToLive" type="2"/>
+        <column name="au_timeStampRequired" type="-7"/>
+        <column name="au_timeStampSignatureIncomming" type="-7"/>
+        <column name="au_timeStampSignatureOutgoing" type="-7"/>
+        <column name="au_decrypInkeyStore" type="12"/>
+        <column name="au_sigInkeyStore" type="12"/>
+        <column name="au_inMessagepassword" type="12"/>
+        <column name="au_signatureParts" type="-1"/>
+        <column name="au_signatureIncomingParts" type="-1"/>
+        <column name="au_encryptionParts" type="-1"/>
+        <column name="au_encryptionIncomingParts" type="-1"/>
+        <column name="au_inComingMessage" type="-7"/>
+        <column name="au_sequence" type="12"/>
+        <column name="au_messageSequenceIncoming" type="12"/>
+        <column name="au_messageSequenceOutgoing" type="12"/>
+        <column name="au_decrypAlias" type="12"/>
+        <column name="au_sigInAlias" type="12"/>
+        <column name="au_authGroup" type="12"/>
+        <column name="au_claimParam" type="-1"/>
+        <column name="au_oauthAccountId" type="12"/>
+    </columnInfo>
+</data>
