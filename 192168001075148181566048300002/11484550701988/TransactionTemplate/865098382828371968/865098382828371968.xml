@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AC_TRANSACTION_TEMPLATE>
-        <SRC_REFERENCE_FIELD><![CDATA[]]></SRC_REFERENCE_FIELD>
-        <DEST_REFERENCE_FIELD><![CDATA[null]]></DEST_REFERENCE_FIELD>
-        <PROJECT_OWNER><![CDATA[Project:11484550701988]]></PROJECT_OWNER>
-        <ID><![CDATA[865098382828371968]]></ID>
-        <CREATED_USER><![CDATA[IndigoUser:11621428112036]]></CREATED_USER>
-        <MODIFIED_DATE><![CDATA[2021-07-28 19:25:54.923]]></MODIFIED_DATE>
-        <COMPANY_ID><![CDATA[1]]></COMPANY_ID>
-        <DEST_EXTERNAL_ID><![CDATA[null]]></DEST_EXTERNAL_ID>
-        <DESCRIPTION><![CDATA[Ak_tempnew]]></DESCRIPTION>
-        <DEST_ACTION><![CDATA[null]]></DEST_ACTION>
-        <DISPLAY_TYPE><![CDATA[701]]></DISPLAY_TYPE>
-        <TYPE><![CDATA[504]]></TYPE>
-        <SRC_TRIGGER><![CDATA[FileUploaded]]></SRC_TRIGGER>
-        <LOG_MODE><![CDATA[null]]></LOG_MODE>
+        <SRC_APP_TYPE><![CDATA[file:fileupload:File Upload]]></SRC_APP_TYPE>
+        <DOCUMENTATION><![CDATA[]]></DOCUMENTATION>
         <IN_USE><![CDATA[null]]></IN_USE>
-        <PARAMETERS_INFO><![CDATA[{"routingType":3502,"dataEncryptionAtRest":"useGlobalPolicy","mapperValidatorId":"","mapperExternalFunctionId":"","emailNotificationFormat":"Default"}]]></PARAMETERS_INFO>
+        <LOCKED_BY_USER><![CDATA[null]]></LOCKED_BY_USER>
+        <SYNCHRONIZED><![CDATA[0]]></SYNCHRONIZED>
+        <VARIABLE_INFO><![CDATA[]]></VARIABLE_INFO>
+        <LOG_MODE><![CDATA[null]]></LOG_MODE>
+        <DEST_EXTERNAL_ID><![CDATA[null]]></DEST_EXTERNAL_ID>
+        <SRC_TRIGGER><![CDATA[FileUploaded]]></SRC_TRIGGER>
         <MODIFIED_USER><![CDATA[IndigoUser:11621428112036]]></MODIFIED_USER>
+        <CREATION_DATE><![CDATA[2021-07-15 05:12:07.137]]></CREATION_DATE>
+        <MODIFIED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></MODIFIED_GROUP>
+        <ACCESS_LEVEL><![CDATA[3100]]></ACCESS_LEVEL>
+        <PROCESS_TYPE><![CDATA[701]]></PROCESS_TYPE>
+        <DISPLAY_TYPE><![CDATA[701]]></DISPLAY_TYPE>
+        <MODIFIED_BY><![CDATA[Akash yadava]]></MODIFIED_BY>
+        <CREATED_ROLE><![CDATA[2]]></CREATED_ROLE>
+        <STATUS><![CDATA[601]]></STATUS>
+        <PROJECT_OWNER><![CDATA[Project:11484550701988]]></PROJECT_OWNER>
+        <DEST_REFERENCE_FIELD><![CDATA[null]]></DEST_REFERENCE_FIELD>
+        <TYPE><![CDATA[504]]></TYPE>
+        <PARTNER_CONFIG_INFO><![CDATA[{"webFormData":{},"partnerConfiguration":[]}]]></PARTNER_CONFIG_INFO>
+        <ID><![CDATA[865098382828371968]]></ID>
+        <LOCKED_TIMESTAMP><![CDATA[null]]></LOCKED_TIMESTAMP>
+        <ERROR_ID><![CDATA[null]]></ERROR_ID>
+        <COMPANY_ID><![CDATA[1]]></COMPANY_ID>
+        <DEST_ACTION><![CDATA[null]]></DEST_ACTION>
+        <CREATED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></CREATED_GROUP>
+        <NOTIFICATION_MODE><![CDATA[1900]]></NOTIFICATION_MODE>
+        <IN_USE_BY><![CDATA[null]]></IN_USE_BY>
+        <DEST_APP_TYPE><![CDATA[file:file:File]]></DEST_APP_TYPE>
+        <SRC_REFERENCE_FIELD><![CDATA[]]></SRC_REFERENCE_FIELD>
+        <DESCRIPTION><![CDATA[Ak_tempnew3]]></DESCRIPTION>
+        <CREATED_BY><![CDATA[Akash yadava]]></CREATED_BY>
+        <APPROVAL_TYPE><![CDATA[3000]]></APPROVAL_TYPE>
         <SRC_CRITERIA><![CDATA[null]]></SRC_CRITERIA>
         <MODIFIED_ROLE><![CDATA[2]]></MODIFIED_ROLE>
-        <VARIABLE_INFO><![CDATA[]]></VARIABLE_INFO>
-        <SYNCHRONIZED><![CDATA[0]]></SYNCHRONIZED>
-        <REVISION><![CDATA[9e36c082a18e65ab27def1b48c39dfd8fbdaf646]]></REVISION>
-        <LOCKED_BY_USER><![CDATA[null]]></LOCKED_BY_USER>
-        <STATUS><![CDATA[601]]></STATUS>
-        <IN_USE_BY><![CDATA[null]]></IN_USE_BY>
-        <DATA_ENCODING><![CDATA[UTF-8]]></DATA_ENCODING>
-        <CREATED_BY><![CDATA[Akash yadava]]></CREATED_BY>
-        <CREATED_ROLE><![CDATA[2]]></CREATED_ROLE>
-        <PROCESS_TYPE><![CDATA[701]]></PROCESS_TYPE>
-        <CREATED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></CREATED_GROUP>
-        <MODIFIED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></MODIFIED_GROUP>
-        <ERROR_ID><![CDATA[null]]></ERROR_ID>
-        <SRC_APP_TYPE><![CDATA[file:fileupload:File Upload]]></SRC_APP_TYPE>
+        <PARAMETERS_INFO><![CDATA[{"routingType":3502,"dataEncryptionAtRest":"useGlobalPolicy","mapperValidatorId":"","mapperExternalFunctionId":"","emailNotificationFormat":"Default"}]]></PARAMETERS_INFO>
+        <MODIFIED_DATE><![CDATA[2021-07-28 19:26:56.763]]></MODIFIED_DATE>
         <DIRECTION><![CDATA[3200]]></DIRECTION>
-        <LOCKED_STATUS><![CDATA[2301]]></LOCKED_STATUS>
-        <PARTNER_CONFIG_INFO><![CDATA[{"webFormData":{},"partnerConfiguration":[]}]]></PARTNER_CONFIG_INFO>
-        <CREATION_DATE><![CDATA[2021-07-15 05:12:07.137]]></CREATION_DATE>
-        <APPROVAL_TYPE><![CDATA[3000]]></APPROVAL_TYPE>
-        <DEST_APP_TYPE><![CDATA[file:file:File]]></DEST_APP_TYPE>
+        <CREATED_USER><![CDATA[IndigoUser:11621428112036]]></CREATED_USER>
+        <DATA_ENCODING><![CDATA[UTF-8]]></DATA_ENCODING>
         <NAME><![CDATA[Ak_temp]]></NAME>
-        <LOCKED_TIMESTAMP><![CDATA[null]]></LOCKED_TIMESTAMP>
         <CONTACT_USER><![CDATA[skyit@yopmail.com]]></CONTACT_USER>
-        <NOTIFICATION_MODE><![CDATA[1900]]></NOTIFICATION_MODE>
-        <ACCESS_LEVEL><![CDATA[3100]]></ACCESS_LEVEL>
-        <DOCUMENTATION><![CDATA[]]></DOCUMENTATION>
-        <MODIFIED_BY><![CDATA[Akash yadava]]></MODIFIED_BY>
+        <LOCKED_STATUS><![CDATA[2301]]></LOCKED_STATUS>
+        <REVISION><![CDATA[1330362004517f6bdb5e82755f3d747fc231be2f]]></REVISION>
     </AC_TRANSACTION_TEMPLATE>
     <columnInfo dbtype="0">
         <column name="ID" type="2"/>
