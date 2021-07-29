@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_JMSTARGET>
+        <au_modifiedDate><![CDATA[2021-07-29 09:15:32.0]]></au_modifiedDate>
+        <au_timeToLiveOverridden><![CDATA[false]]></au_timeToLiveOverridden>
+        <au_createDynamically><![CDATA[false]]></au_createDynamically>
+        <au_messageDeliveryMode><![CDATA[Persistent]]></au_messageDeliveryMode>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_messageTimeToLive><![CDATA[]]></au_messageTimeToLive>
+        <au_queueOrtopicName><![CDATA[dynamicQueues/sky3]]></au_queueOrtopicName>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_password><![CDATA[L6OY/B9FB8LHx+l6kHV2og==]]></au_password>
+        <au_jmsCorrelationID><![CDATA[]]></au_jmsCorrelationID>
+        <au_creationDate><![CDATA[2021-06-29 05:34:14.0]]></au_creationDate>
+        <au_userName><![CDATA[Administrator]]></au_userName>
+        <au_jmsProvider><![CDATA[JmsProvider:010240001121162494425175300135]]></au_jmsProvider>
+        <au_jmsPriority><![CDATA[]]></au_jmsPriority>
+        <au_jmsReplyTo><![CDATA[]]></au_jmsReplyTo>
+        <au_projectOwner><![CDATA[Project:870228411832860672]]></au_projectOwner>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_description><![CDATA[Ak_JMS_target_New]]></au_description>
+        <au_correlationIDOverridden><![CDATA[false]]></au_correlationIDOverridden>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_modifiedBy><![CDATA[IndigoUser:11621428112036]]></au_modifiedBy>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_messageType><![CDATA[TEXT]]></au_messageType>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_queueOrTopic><![CDATA[QUEUE]]></au_queueOrTopic>
+        <au_userOwner><![CDATA[IndigoUser:11621428112036]]></au_userOwner>
+        <au_entityName><![CDATA[Ak_JMS_target_New]]></au_entityName>
+        <au_messagePropertiesOverridden><![CDATA[false]]></au_messagePropertiesOverridden>
+        <au_messagePropertiesXML><![CDATA[<variables>
+</variables>
+]]></au_messagePropertiesXML>
+        <au_replyToOverridden><![CDATA[false]]></au_replyToOverridden>
+        <au_version><![CDATA[1]]></au_version>
+        <au_deliveryModeOverridden><![CDATA[false]]></au_deliveryModeOverridden>
+        <au_id><![CDATA[010240000165162494485437400168]]></au_id>
+        <au_jmsPriorityOverridden><![CDATA[false]]></au_jmsPriorityOverridden>
+    </AU_JMSTARGET>
+    <columnInfo dbtype="0">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="-7"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="-7"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_jmsProvider" type="12"/>
+        <column name="au_queueOrTopic" type="12"/>
+        <column name="au_queueOrtopicName" type="12"/>
+        <column name="au_createDynamically" type="-7"/>
+        <column name="au_messageType" type="12"/>
+        <column name="au_userName" type="12"/>
+        <column name="au_password" type="12"/>
+        <column name="au_messagePropertiesXML" type="-1"/>
+        <column name="au_messageDeliveryMode" type="12"/>
+        <column name="au_messageTimeToLive" type="12"/>
+        <column name="au_jmsPriority" type="12"/>
+        <column name="au_jmsCorrelationID" type="12"/>
+        <column name="au_jmsReplyTo" type="12"/>
+        <column name="au_deliveryModeOverridden" type="-7"/>
+        <column name="au_jmsPriorityOverridden" type="-7"/>
+        <column name="au_correlationIDOverridden" type="-7"/>
+        <column name="au_messagePropertiesOverridden" type="-7"/>
+        <column name="au_replyToOverridden" type="-7"/>
+        <column name="au_timeToLiveOverridden" type="-7"/>
+    </columnInfo>
+</data>
