@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AC_TRANSACTION>
+        <TYPE><![CDATA[504]]></TYPE>
+        <STATUS><![CDATA[601]]></STATUS>
+        <DIRECTION><![CDATA[3200]]></DIRECTION>
+        <CREATED_BY_PARTNER_ID><![CDATA[1]]></CREATED_BY_PARTNER_ID>
+        <DEST_ACTION><![CDATA[null]]></DEST_ACTION>
+        <PARTNER_NAME><![CDATA[Ak_Internal]]></PARTNER_NAME>
+        <LOCKED_BY_USER><![CDATA[null]]></LOCKED_BY_USER>
+        <CREATION_DATE><![CDATA[2021-07-29 06:08:04.767]]></CREATION_DATE>
+        <MODIFIED_BY><![CDATA[Akash yadava]]></MODIFIED_BY>
+        <TARGET_PARTNER_ID><![CDATA[null]]></TARGET_PARTNER_ID>
+        <NOTIFICATION_MODE><![CDATA[1900]]></NOTIFICATION_MODE>
+        <PARTNER_ID><![CDATA[11621428112045]]></PARTNER_ID>
+        <DISPLAY_TYPE><![CDATA[701]]></DISPLAY_TYPE>
+        <DEST_APP_TYPE><![CDATA[file:file:File]]></DEST_APP_TYPE>
+        <VARIABLE_INFO><![CDATA[null]]></VARIABLE_INFO>
+        <REVISION><![CDATA[null]]></REVISION>
+        <IN_USE><![CDATA[null]]></IN_USE>
+        <DATA_ENCODING><![CDATA[UTF-8]]></DATA_ENCODING>
+        <LOCKED_TIMESTAMP><![CDATA[null]]></LOCKED_TIMESTAMP>
+        <MODIFIED_GROUP><![CDATA[null]]></MODIFIED_GROUP>
+        <CREATED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></CREATED_GROUP>
+        <PROCESS_TYPE><![CDATA[701]]></PROCESS_TYPE>
+        <MODIFIED_ROLE><![CDATA[2]]></MODIFIED_ROLE>
+        <MODIFIED_USER><![CDATA[IndigoUser:11621428112036]]></MODIFIED_USER>
+        <ID><![CDATA[870185895553138688]]></ID>
+        <NAME><![CDATA[Ak_temp Transaction_new]]></NAME>
+        <LOG_MODE><![CDATA[null]]></LOG_MODE>
+        <DEST_EXTERNAL_ID><![CDATA[null]]></DEST_EXTERNAL_ID>
+        <PROJECT_OWNER><![CDATA[null]]></PROJECT_OWNER>
+        <SRC_TRIGGER><![CDATA[FileUploaded]]></SRC_TRIGGER>
+        <PARAMETERS_INFO><![CDATA[{"network":[{"value":""}],"mapperValidatorId":"","mapperExternalFunctionId":"","emailNotificationFormat":"Default"}]]></PARAMETERS_INFO>
+        <MODIFIED_DATE><![CDATA[2021-07-29 06:08:19.16]]></MODIFIED_DATE>
+        <IN_USE_BY><![CDATA[null]]></IN_USE_BY>
+        <DESCRIPTION><![CDATA[Ak_temp Transaction_new]]></DESCRIPTION>
+        <DEST_REFERENCE_FIELD><![CDATA[null]]></DEST_REFERENCE_FIELD>
+        <CREATED_ROLE><![CDATA[2]]></CREATED_ROLE>
+        <TEMPLATE_ID><![CDATA[865098382828371968]]></TEMPLATE_ID>
+        <SYNCHRONIZED><![CDATA[0]]></SYNCHRONIZED>
+        <LOCKED_STATUS><![CDATA[2301]]></LOCKED_STATUS>
+        <SRC_APP_TYPE><![CDATA[file:fileupload:File Upload]]></SRC_APP_TYPE>
+        <CREATED_USER><![CDATA[IndigoUser:11621428112036]]></CREATED_USER>
+        <TARGET_NETWORK_ID><![CDATA[null]]></TARGET_NETWORK_ID>
+        <COMPANY_ID><![CDATA[1]]></COMPANY_ID>
+        <DOCUMENTATION><![CDATA[null]]></DOCUMENTATION>
+        <ERROR_ID><![CDATA[null]]></ERROR_ID>
+        <NETWORK_ID><![CDATA[11621428112042]]></NETWORK_ID>
+        <CONTACT_USER><![CDATA[skyit@yopmail.com]]></CONTACT_USER>
+        <CREATED_BY><![CDATA[Akash yadava]]></CREATED_BY>
+        <SRC_REFERENCE_FIELD><![CDATA[]]></SRC_REFERENCE_FIELD>
+    </AC_TRANSACTION>
+    <columnInfo dbtype="0">
+        <column name="ID" type="2"/>
+        <column name="DESCRIPTION" type="12"/>
+        <column name="NAME" type="12"/>
+        <column name="COMPANY_ID" type="2"/>
+        <column name="CONTACT_USER" type="12"/>
+        <column name="CREATED_GROUP" type="12"/>
+        <column name="CREATED_USER" type="12"/>
+        <column name="CREATION_DATE" type="93"/>
+        <column name="DATA_ENCODING" type="12"/>
+        <column name="DEST_ACTION" type="12"/>
+        <column name="DEST_APP_TYPE" type="12"/>
+        <column name="DIRECTION" type="4"/>
+        <column name="DOCUMENTATION" type="12"/>
+        <column name="IN_USE" type="-6"/>
+        <column name="IN_USE_BY" type="2"/>
+        <column name="LOCKED_BY_USER" type="12"/>
+        <column name="LOCKED_STATUS" type="4"/>
+        <column name="LOCKED_TIMESTAMP" type="93"/>
+        <column name="LOG_MODE" type="12"/>
+        <column name="MODIFIED_DATE" type="93"/>
+        <column name="MODIFIED_GROUP" type="12"/>
+        <column name="MODIFIED_USER" type="12"/>
+        <column name="NOTIFICATION_MODE" type="4"/>
+        <column name="PARTNER_ID" type="2"/>
+        <column name="PARTNER_NAME" type="12"/>
+        <column name="PROCESS_TYPE" type="4"/>
+        <column name="SRC_APP_TYPE" type="12"/>
+        <column name="SRC_TRIGGER" type="12"/>
+        <column name="STATUS" type="4"/>
+        <column name="TEMPLATE_ID" type="2"/>
+        <column name="TYPE" type="4"/>
+        <column name="ERROR_ID" type="2"/>
+        <column name="CREATED_BY" type="12"/>
+        <column name="DEST_EXTERNAL_ID" type="12"/>
+        <column name="DEST_REFERENCE_FIELD" type="12"/>
+        <column name="MODIFIED_BY" type="12"/>
+        <column name="PARAMETERS_INFO" type="12"/>
+        <column name="SRC_REFERENCE_FIELD" type="12"/>
+        <column name="REVISION" type="12"/>
+        <column name="SYNCHRONIZED" type="-6"/>
+        <column name="TARGET_PARTNER_ID" type="2"/>
+        <column name="CREATED_BY_PARTNER_ID" type="2"/>
+        <column name="PROJECT_OWNER" type="12"/>
+        <column name="NETWORK_ID" type="2"/>
+        <column name="TARGET_NETWORK_ID" type="2"/>
+        <column name="DISPLAY_TYPE" type="4"/>
+        <column name="VARIABLE_INFO" type="-1"/>
+        <column name="CREATED_ROLE" type="2"/>
+        <column name="MODIFIED_ROLE" type="2"/>
+    </columnInfo>
+</data>
