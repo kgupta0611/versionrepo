@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_PROJECT>
-        <au_permissionMask><![CDATA[777]]></au_permissionMask>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_creationDate><![CDATA[2021-06-17 07:31:50.84]]></au_creationDate>
-        <au_projectOwner><![CDATA[null]]></au_projectOwner>
-        <au_entityName><![CDATA[shivam2]]></au_entityName>
+        <au_description><![CDATA[shi]]></au_description>
         <au_modifiedDate><![CDATA[2021-06-17 07:31:50.84]]></au_modifiedDate>
-        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
-        <au_activeVersion><![CDATA[true]]></au_activeVersion>
-        <au_projectGroup><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_projectGroup>
-        <au_version><![CDATA[1]]></au_version>
+        <au_projectOwner><![CDATA[null]]></au_projectOwner>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
         <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_synchronized><![CDATA[null]]></au_synchronized>
+        <au_permissionMask><![CDATA[777]]></au_permissionMask>
+        <au_projectGroup><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_projectGroup>
         <au_id><![CDATA[11623846750653]]></au_id>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_creationDate><![CDATA[2021-06-17 07:31:50.84]]></au_creationDate>
+        <au_version><![CDATA[1]]></au_version>
         <au_projectType><![CDATA[3700]]></au_projectType>
         <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
-        <au_synchronized><![CDATA[null]]></au_synchronized>
-        <au_description><![CDATA[shi]]></au_description>
-        <au_revision><![CDATA[null]]></au_revision>
         <au_comments><![CDATA[null]]></au_comments>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_entityName><![CDATA[shivam2]]></au_entityName>
     </AU_PROJECT>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
