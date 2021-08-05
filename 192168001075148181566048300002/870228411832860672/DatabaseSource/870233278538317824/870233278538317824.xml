@@ -3,23 +3,23 @@
     <AU_DBSOURCE>
         <au_description><![CDATA[ak]]></au_description>
         <au_entityName><![CDATA[ak]]></au_entityName>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_projectOwner><![CDATA[Project:870228411832860672]]></au_projectOwner>
-        <au_modifiedDate><![CDATA[2021-07-29 09:16:35.0]]></au_modifiedDate>
-        <au_activeVersion><![CDATA[true]]></au_activeVersion>
-        <au_comments><![CDATA[]]></au_comments>
-        <au_id><![CDATA[870233278538317824]]></au_id>
-        <au_dbConnectionInfo><![CDATA[DatabaseConnectionInfo:010240000067162450926775100652]]></au_dbConnectionInfo>
-        <au_revision><![CDATA[]]></au_revision>
-        <au_version><![CDATA[1]]></au_version>
-        <au_schemaTypedId><![CDATA[DbSchema:010240000067162451048384100661]]></au_schemaTypedId>
-        <au_creationDate><![CDATA[2021-07-29 09:16:21.0]]></au_creationDate>
-        <au_userOwner><![CDATA[IndigoUser:11621428112036]]></au_userOwner>
-        <au_synchronized><![CDATA[false]]></au_synchronized>
         <au_modifiedBy><![CDATA[IndigoUser:11621428112036]]></au_modifiedBy>
-        <au_persistDataEnabled><![CDATA[false]]></au_persistDataEnabled>
+        <au_creationDate><![CDATA[2021-07-29 09:16:21.0]]></au_creationDate>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_comments><![CDATA[]]></au_comments>
+        <au_revision><![CDATA[1c595f77e3446dc49cee51bd05a35ed2beb00772]]></au_revision>
+        <au_projectOwner><![CDATA[Project:870228411832860672]]></au_projectOwner>
+        <au_userOwner><![CDATA[IndigoUser:11621428112036]]></au_userOwner>
         <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_persistDataEnabled><![CDATA[false]]></au_persistDataEnabled>
+        <au_synchronized><![CDATA[true]]></au_synchronized>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_dbConnectionInfo><![CDATA[DatabaseConnectionInfo:010240000067162450926775100652]]></au_dbConnectionInfo>
+        <au_id><![CDATA[870233278538317824]]></au_id>
+        <au_schemaTypedId><![CDATA[DbSchema:010240000067162451048384100661]]></au_schemaTypedId>
+        <au_modifiedDate><![CDATA[2021-07-29 09:16:35.0]]></au_modifiedDate>
+        <au_version><![CDATA[1]]></au_version>
     </AU_DBSOURCE>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
