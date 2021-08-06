@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_EventRegistry>
+        <au_eventparam><![CDATA[test]]></au_eventparam>
         <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
         <au_creationDate><![CDATA[2021-08-06 12:51:13.0]]></au_creationDate>
+        <au_revision><![CDATA[86fdbcdd8eb0573c818b707b0e43bd855cc78171]]></au_revision>
         <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_projectOwner><![CDATA[Project:872797627513569280]]></au_projectOwner>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_eventparam><![CDATA[test]]></au_eventparam>
-        <au_revision><![CDATA[null]]></au_revision>
-        <au_comments><![CDATA[null]]></au_comments>
-        <au_description><![CDATA[test1]]></au_description>
-        <au_paramMapXml><![CDATA[test]]></au_paramMapXml>
-        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
         <au_version><![CDATA[1]]></au_version>
-        <au_activeVersion><![CDATA[true]]></au_activeVersion>
-        <au_subscriberId><![CDATA[Transaction:010240000067162444556362300600]]></au_subscriberId>
-        <au_modifiedDate><![CDATA[2021-08-06 12:51:48.0]]></au_modifiedDate>
+        <au_comments><![CDATA[null]]></au_comments>
         <au_eventId><![CDATA[FTPEvent:873186009838256128]]></au_eventId>
-        <au_entityName><![CDATA[Sk_existing1]]></au_entityName>
-        <au_id><![CDATA[873186453192966144]]></au_id>
-        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_modifiedDate><![CDATA[2021-08-06 13:10:43.0]]></au_modifiedDate>
+        <au_projectOwner><![CDATA[Project:872797627513569280]]></au_projectOwner>
+        <au_subscriberId><![CDATA[Transaction:010240000067162444556362300600]]></au_subscriberId>
+        <au_description><![CDATA[test1]]></au_description>
+        <au_entityName><![CDATA[Sk_existing12]]></au_entityName>
+        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
         <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_paramMapXml><![CDATA[test]]></au_paramMapXml>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_id><![CDATA[873186453192966144]]></au_id>
     </AU_EventRegistry>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
