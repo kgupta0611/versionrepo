@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_MLLPCONFIGURATION>
-        <au_port><![CDATA[1]]></au_port>
-        <au_userOwner><![CDATA[IndigoUser:870330293716779008]]></au_userOwner>
-        <au_connectionRetryCount><![CDATA[0]]></au_connectionRetryCount>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_endTextChar><![CDATA[1C]]></au_endTextChar>
         <au_modifiedDate><![CDATA[2021-06-17 14:41:22.0]]></au_modifiedDate>
-        <au_intervalBetweenRetry><![CDATA[1$m]]></au_intervalBetweenRetry>
-        <au_mode><![CDATA[Server]]></au_mode>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_dataTimeOut><![CDATA[12$m]]></au_dataTimeOut>
-        <au_description><![CDATA[ss]]></au_description>
         <au_hostName><![CDATA[10.1.0.1]]></au_hostName>
-        <au_version><![CDATA[1]]></au_version>
-        <au_synchronized><![CDATA[false]]></au_synchronized>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_revision><![CDATA[2fce5db00fa406826035e6d22d7ff1985d1ace42]]></au_revision>
-        <au_ackTimeOut><![CDATA[1$s]]></au_ackTimeOut>
         <au_fileBaseLocation><![CDATA[/shubha]]></au_fileBaseLocation>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_ignoreSubFolders><![CDATA[false]]></au_ignoreSubFolders>
+        <au_connectionRetryCount><![CDATA[0]]></au_connectionRetryCount>
+        <au_entityName><![CDATA[sks]]></au_entityName>
+        <au_description><![CDATA[ss]]></au_description>
+        <au_positiveAckChar><![CDATA[06]]></au_positiveAckChar>
+        <au_port><![CDATA[1]]></au_port>
+        <au_intervalBetweenRetry><![CDATA[1$m]]></au_intervalBetweenRetry>
+        <au_revision><![CDATA[d40bf25dfb84d8455b36e01c33842f52a58aa754]]></au_revision>
+        <au_ackPollingFrequency><![CDATA[1$s]]></au_ackPollingFrequency>
+        <au_userOwner><![CDATA[IndigoUser:870330293402206208]]></au_userOwner>
+        <au_ackTimeOut><![CDATA[1$s]]></au_ackTimeOut>
+        <au_startTextChar><![CDATA[0B]]></au_startTextChar>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_mode><![CDATA[Server]]></au_mode>
+        <au_projectOwner><![CDATA[Project:873121273440370688]]></au_projectOwner>
+        <au_dataTimeOut><![CDATA[12$m]]></au_dataTimeOut>
+        <au_id><![CDATA[010240000067162394084153600007]]></au_id>
+        <au_negativeAckChar><![CDATA[15]]></au_negativeAckChar>
+        <au_selectTransactionId><![CDATA[]]></au_selectTransactionId>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
         <au_lastTextChar><![CDATA[0D]]></au_lastTextChar>
         <au_activateFlag><![CDATA[false]]></au_activateFlag>
+        <au_version><![CDATA[1]]></au_version>
         <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
-        <au_positiveAckChar><![CDATA[06]]></au_positiveAckChar>
-        <au_dataPollingFrequency><![CDATA[15$s]]></au_dataPollingFrequency>
-        <au_startTextChar><![CDATA[0B]]></au_startTextChar>
-        <au_selectTransactionId><![CDATA[]]></au_selectTransactionId>
-        <au_projectOwner><![CDATA[Project:872797627513569280]]></au_projectOwner>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_activeVersion><![CDATA[true]]></au_activeVersion>
-        <au_ackPollingFrequency><![CDATA[1$s]]></au_ackPollingFrequency>
-        <au_ignoreSubFolders><![CDATA[false]]></au_ignoreSubFolders>
-        <au_negativeAckChar><![CDATA[15]]></au_negativeAckChar>
-        <au_comments><![CDATA[null]]></au_comments>
-        <au_id><![CDATA[010240000067162394084153600007]]></au_id>
-        <au_entityName><![CDATA[sks]]></au_entityName>
         <au_creationDate><![CDATA[2021-06-17 14:40:41.0]]></au_creationDate>
-        <au_endTextChar><![CDATA[1C]]></au_endTextChar>
+        <au_dataPollingFrequency><![CDATA[15$s]]></au_dataPollingFrequency>
     </AU_MLLPCONFIGURATION>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
