@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AC_EMAIL_NOTIFICATION_FORMAT>
+        <MODIFIED_USER><![CDATA[IndigoUser:127000000001107055536473900001]]></MODIFIED_USER>
+        <NAME><![CDATA[SA_Template_Fail]]></NAME>
+        <MODIFIED_BY><![CDATA[Admin User]]></MODIFIED_BY>
+        <FILENAME><![CDATA[Template_Override_Failure.html]]></FILENAME>
+        <CREATION_DATE><![CDATA[2021-08-06 00:19:48.43]]></CREATION_DATE>
+        <PROJECT_OWNER><![CDATA[Default]]></PROJECT_OWNER>
+        <CREATED_GROUP><![CDATA[IndigoGroup:127000000001107055548721600002]]></CREATED_GROUP>
+        <CREATED_USER><![CDATA[IndigoUser:127000000001107055536473900001]]></CREATED_USER>
+        <MODIFIED_DATE><![CDATA[2021-08-06 00:19:48.42]]></MODIFIED_DATE>
+        <CREATED_BY><![CDATA[Admin User]]></CREATED_BY>
+        <EMAIL_NOTIFICATION_BODY><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+   <style>
+   table {border-collapse:collapse; table-layout:fixed;}
+   table td {word-wrap:break-word;}
+   tbody tr {outline: thin solid #ccc;}
+   </style>
+</head>
+<body>
+<img src="$$companyLogoPath$$">
+<table align="left" style="width:90%">
+<thead>
+    <tr>
+      <td colspan="2"><p>Hello QA Team,<br /></p>
+<p>This template failure to execute correctly. This template Fail is for testing purpose (Adeptia).<br /><br /></p></td>
+    </tr>
+  </thead>
+  <tbody style="border: 1px solid #ccc;">
+<h1>Template Execution</h1>
+<p>Template execution status: Failure</p>
+
+<tr>
+<td><strong>Environment</strong></td>
+<td>$$environmentName$$</td>
+</tr>
+
+<tr>
+<td><strong>Partner Name</strong></td>
+<td>$$spokeCompanyName$$</td>
+</tr>
+
+<tr>
+<td><strong>Transaction Name</strong></td>
+<td>$$transactionName$$</td>
+</tr>
+
+<tr>
+<td><strong>Source File Location</strong></td>
+<td>$$sourceFileLocation$$</td>
+</tr>
+
+<tr>
+<td><strong>Source File Name</strong></td>
+<td>$$sourceFileName$$</td>
+</tr>
+
+<tr>
+<td><strong>Source File Size</strong></td>
+<td>$$fileSize$$</td>
+</tr>
+
+<tr>
+<td><strong>Template Name</strong></td>
+<td>$$templateName$$</td>
+</tr>
+
+<tr>
+<td><strong>Target File Location</strong></td>
+<td>$$targetFileLocation$$</td>
+</tr>
+
+<tr>
+<td><strong>Target File Name</strong></td>
+<td>$$targetFileName$$</td>
+</tr>
+
+<tr>
+<td><strong>Time</strong></td>
+<td>$$readableStartTime$$</td>
+</tr>
+
+<tr>
+<td><strong>Error Message</strong></td>
+<td>$$exceptionMessage$$</td>
+</tr>
+
+</body>
+</html>]]></EMAIL_NOTIFICATION_BODY>
+        <DESCRIPTION><![CDATA[template]]></DESCRIPTION>
+        <SYNCHRONIZED><![CDATA[null]]></SYNCHRONIZED>
+        <EMAIL_SUBJECT><![CDATA[template for fail]]></EMAIL_SUBJECT>
+        <MODIFIED_GROUP><![CDATA[IndigoGroup:127000000001107055548721600002]]></MODIFIED_GROUP>
+        <REVISION><![CDATA[null]]></REVISION>
+        <ID><![CDATA[11628234118859]]></ID>
+    </AC_EMAIL_NOTIFICATION_FORMAT>
+    <columnInfo dbtype="0">
+        <column name="ID" type="2"/>
+        <column name="DESCRIPTION" type="12"/>
+        <column name="NAME" type="12"/>
+        <column name="CREATED_GROUP" type="12"/>
+        <column name="MODIFIED_GROUP" type="12"/>
+        <column name="CREATED_USER" type="12"/>
+        <column name="CREATION_DATE" type="93"/>
+        <column name="MODIFIED_DATE" type="93"/>
+        <column name="MODIFIED_USER" type="12"/>
+        <column name="CREATED_BY" type="12"/>
+        <column name="MODIFIED_BY" type="12"/>
+        <column name="PROJECT_OWNER" type="12"/>
+        <column name="EMAIL_SUBJECT" type="12"/>
+        <column name="EMAIL_NOTIFICATION_BODY" type="-1"/>
+        <column name="REVISION" type="12"/>
+        <column name="SYNCHRONIZED" type="-6"/>
+        <column name="FILENAME" type="12"/>
+    </columnInfo>
+</data>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AC_EMAIL_NOTIFICATION_FORMAT>
+        <EMAIL_SUBJECT><![CDATA[Transaction for pass]]></EMAIL_SUBJECT>
+        <DESCRIPTION><![CDATA[pass]]></DESCRIPTION>
+        <CREATED_USER><![CDATA[IndigoUser:127000000001107055536473900001]]></CREATED_USER>
+        <PROJECT_OWNER><![CDATA[Project:11627630362440]]></PROJECT_OWNER>
+        <FILENAME><![CDATA[Transaction_Override_Success.html]]></FILENAME>
+        <MODIFIED_USER><![CDATA[IndigoUser:127000000001107055536473900001]]></MODIFIED_USER>
+        <CREATED_GROUP><![CDATA[IndigoGroup:127000000001107055548721600002]]></CREATED_GROUP>
+        <SYNCHRONIZED><![CDATA[null]]></SYNCHRONIZED>
+        <EMAIL_NOTIFICATION_BODY><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+   <style>
+   table {border-collapse:collapse; table-layout:fixed;}
+   table td {word-wrap:break-word;}
+   tbody tr {outline: thin solid #ccc;}
+   </style>
+</head>
+<body>
+<img src="$$companyLogoPath$$">
+<table align="left" style="width:90%">
+<thead>
+    <tr>
+      <td colspan="2"><p>Hello QA Team,<br /></p>
+<p>This transaction success to execute correctly. This is for testing purpose.<br /><br /></p></td>
+    </tr>
+  </thead>
+  <tbody style="border: 1px solid #ccc;">
+<tr>
+<h1>Transaction Execution</h1>
+<p>Transaction execution status:Success</p>
+
+<tr>
+<td><strong>Environment</strong></td>
+<td>$$environmentName$$</td>
+</tr>
+
+<tr>
+<td><strong>Partner Name</strong></td>
+<td>$$hubCompanyName$$</td>
+</tr>
+
+<tr>
+<td><strong>Transaction Name</strong></td>
+<td>$$transactionName$$</td>
+</tr>
+
+<tr>
+<td><strong>Source File Location</strong></td>
+<td>$$sourceFileLocation$$</td>
+</tr>
+
+<tr>
+<td><strong>Source File Name</strong></td>
+<td>$$sourceFileName$$</td>
+</tr>
+
+<tr>
+<td><strong>Source File Size</strong></td>
+<td>$$fileSize$$</td>
+</tr>
+
+<tr>
+<td><strong>Time</strong></td>
+<td>$$readableStartTime$$</td>
+</tr>
+
+</body>
+</html>]]></EMAIL_NOTIFICATION_BODY>
+        <MODIFIED_GROUP><![CDATA[IndigoGroup:127000000001107055548721600002]]></MODIFIED_GROUP>
+        <CREATED_BY><![CDATA[Admin User]]></CREATED_BY>
+        <MODIFIED_BY><![CDATA[Admin User]]></MODIFIED_BY>
+        <MODIFIED_DATE><![CDATA[2021-08-06 00:28:45.857]]></MODIFIED_DATE>
+        <REVISION><![CDATA[null]]></REVISION>
+        <CREATION_DATE><![CDATA[2021-08-06 00:28:45.867]]></CREATION_DATE>
+        <NAME><![CDATA[SA_TXN_Pass]]></NAME>
+        <ID><![CDATA[11628234118892]]></ID>
+    </AC_EMAIL_NOTIFICATION_FORMAT>
+    <columnInfo dbtype="0">
+        <column name="ID" type="2"/>
+        <column name="DESCRIPTION" type="12"/>
+        <column name="NAME" type="12"/>
+        <column name="CREATED_GROUP" type="12"/>
+        <column name="MODIFIED_GROUP" type="12"/>
+        <column name="CREATED_USER" type="12"/>
+        <column name="CREATION_DATE" type="93"/>
+        <column name="MODIFIED_DATE" type="93"/>
+        <column name="MODIFIED_USER" type="12"/>
+        <column name="CREATED_BY" type="12"/>
+        <column name="MODIFIED_BY" type="12"/>
+        <column name="PROJECT_OWNER" type="12"/>
+        <column name="EMAIL_SUBJECT" type="12"/>
+        <column name="EMAIL_NOTIFICATION_BODY" type="-1"/>
+        <column name="REVISION" type="12"/>
+        <column name="SYNCHRONIZED" type="-6"/>
+        <column name="FILENAME" type="12"/>
+    </columnInfo>
+</data>
