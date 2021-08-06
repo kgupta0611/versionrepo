@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_MAPPINGTRANSFORMATION>
+        <au_enableAIMap><![CDATA[false]]></au_enableAIMap>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_persistDataEnabled><![CDATA[false]]></au_persistDataEnabled>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_version><![CDATA[1]]></au_version>
+        <au_mapXmlFile><![CDATA[<?xml version="1.0" encoding="UTF-8"?><maps version="4.4">
+<mappingInformation>
+<mappingVersion>6.1</mappingVersion>
+<mappingName>Mayank_mapping_case_A</mappingName>
+<mappingProject>Default</mappingProject>
+<mappingDescription>Mayank_mapping_case_A</mappingDescription>
+<sourceSchemaID>JSONSchema:870569796096229376</sourceSchemaID>
+<targetSchemaID>TextSchema:010240000105162548994443700228</targetSchemaID>
+<mappingOwnerGroup/>
+<mappingOwner/>
+<mappingLastModifiedBy/>
+<mappingCreationDate/>
+<mappingModifiedDate/>
+<reusable>null</reusable>
+</mappingInformation>
+<sourceRoots>
+<sourceRoot>
+<name>Root</name>
+<schemaName>testq_Schema</schemaName>
+<schemaID>JSONSchema:870569796096229376</schemaID>
+</sourceRoot>
+</sourceRoots>
+<targetRoots>
+<targetRoot>
+<name>Root</name>
+<schemaName>Mayank_Text_Schema_2</schemaName>
+<schemaID>TextSchema:010240000105162548994443700228</schemaID>
+<stream>output_1</stream>
+</targetRoot>
+</targetRoots>
+<nameSpace/>
+<xslProperty/>
+<GlobalPreCustomXSL/>
+<GlobalPostCustomXSL/>
+<xslTemplates/>
+<map>
+<order>1</order>
+ <targetName>Mayank_Text_Schema_2</targetName>
+<dest>/Root/Record/FirstName</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_testq_Schema/Root/name</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="FirstName">
+<Position height="25" identify="&lt;S&gt;" label="$Input_testq_Schema/Root/name" mapString="&lt;S&gt;$Input_testq_Schema/Root/name" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/FirstName" mapString="$Input_testq_Schema/Root/name" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>Mayank_Text_Schema_2</targetName>
+<dest>/Root/Record/MiddleName</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_testq_Schema/Root/email</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="MiddleName">
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/MiddleName" mapString="$Input_testq_Schema/Root/email" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+<Position height="25" identify="&lt;S&gt;" label="$Input_testq_Schema/Root/email" mapString="&lt;S&gt;$Input_testq_Schema/Root/email" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>Mayank_Text_Schema_2</targetName>
+<dest>/Root/Record/LastName</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_testq_Schema/Root/address</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="LastName">
+<Position height="25" identify="&lt;S&gt;" label="$Input_testq_Schema/Root/address" mapString="&lt;S&gt;$Input_testq_Schema/Root/address" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/LastName" mapString="$Input_testq_Schema/Root/address" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>Mayank_Text_Schema_2</targetName>
+<dest>/Root/Record/Email</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_testq_Schema/Root/title</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="Email">
+<Position height="25" identify="&lt;S&gt;" label="$Input_testq_Schema/Root/title" mapString="&lt;S&gt;$Input_testq_Schema/Root/title" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/Email" mapString="$Input_testq_Schema/Root/title" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+</Target>
+ </map>
+<map>
+<order>1</order>
+ <targetName>Mayank_Text_Schema_2</targetName>
+<dest>/Root/Record/Gender</dest>
+<preCustomXSL/>
+<postCustomXSL/>
+ <mapValue>$Input_testq_Schema/Root/gender</mapValue>
+ <forEach/>
+ <comments/>
+<namespacePrefix/>
+
+ <namespaceRemovePrefix>false</namespaceRemovePrefix>
+<localVariables/>
+ <Sorting/>
+ <Target name="Gender">
+<Position height="25" identify="&lt;S&gt;" label="$Input_testq_Schema/Root/gender" mapString="&lt;S&gt;$Input_testq_Schema/Root/gender" x="100" y="20">
+<SourceLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</SourceLines>
+<TargetLines/>
+</Position>
+<Position height="25" identify="&lt;T&gt;" label="/Root/Record/Gender" mapString="$Input_testq_Schema/Root/gender" x="300" y="20">
+<SourceLines/>
+<TargetLines>
+<Line x1="180" y1="32" x2="280" y2="32"/>
+</TargetLines>
+</Position>
+</Target>
+ </map>
+<variables>
+</variables>
+
+<globalParameters>
+<keys>
+</keys>
+<contextVariables>
+</contextVariables>
+</globalParameters>
+
+<connections/>
+<functions>
+</functions>
+<disableOutputNodes>
+</disableOutputNodes>
+<filters/>
+<valuemapNodes/>
+<accessLevel>
+<valueMap>global</valueMap>
+<globalTemplate>global</globalTemplate>
+<customAutoMap>global</customAutoMap>
+</accessLevel>
+<DataViewerRecordCount>50</DataViewerRecordCount>
+<isQuickSplittingEnabled>false</isQuickSplittingEnabled>
+<sourceExtensions/>
+<targetExtensions/>
+<disableOutputNodes/>
+<characterSetEncoding>UTF-8</characterSetEncoding>
+<tipOfTheDay>true</tipOfTheDay>
+<contextSchemaLoadedAtSource>false</contextSchemaLoadedAtSource>
+<contextSchemaLoadedAtTarget>false</contextSchemaLoadedAtTarget>
+<contextSchemaDefinition/>
+<filterUnmappedElement>false</filterUnmappedElement>
+<indentOutputXML>true</indentOutputXML>
+<streamingMode>false</streamingMode>
+<filterEmptyElements>false</filterEmptyElements>
+<dbQueryCaching>false</dbQueryCaching>
+<cacheIncludedSchemas>false</cacheIncludedSchemas>
+<TreeExpandLevelCount>3</TreeExpandLevelCount>
+<TreeExpandLevelCountForWebService>5</TreeExpandLevelCountForWebService>
+<TreeExpandLevelForEasySchemaExtensions>10</TreeExpandLevelForEasySchemaExtensions>
+<SelfRecursionLevel>0</SelfRecursionLevel>
+<EnableTypesBuffering>true</EnableTypesBuffering>
+<CdataSectionElements/>
+<excludeResultPrefixes> saxonJavaMappingTransformation saxonJavaMapperQueryExecutor saxonJavaAggregateFunctionHandler str</excludeResultPrefixes>
+<webservice>
+<consumers/>
+</webservice>
+
+<CustomAutoMapInUse/>
+<processElementFormDefault>true</processElementFormDefault>
+<xslVersion2.0>false</xslVersion2.0>
+<xslVersion3.0>false</xslVersion3.0>
+<sourceXpath/>
+<targetXpath/>
+</maps>
+]]></au_mapXmlFile>
+        <au_characterSetEncoding><![CDATA[UTF-8]]></au_characterSetEncoding>
+        <au_xslTransformer><![CDATA[Saxon]]></au_xslTransformer>
+        <au_sourceSchema><![CDATA[JSONSchema:870569796096229376]]></au_sourceSchema>
+        <au_optimizedLoading><![CDATA[true]]></au_optimizedLoading>
+        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_modifiedDate><![CDATA[2021-07-30 07:42:55.0]]></au_modifiedDate>
+        <au_xslFile><![CDATA[<?xml version='1.0'?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.1" xmlns:saxonJavaMappingTransformation="java:com.adeptia.indigo.services.mapping.MappingTransformation" xmlns:saxonJavaMapperQueryExecutor="java:com.adeptia.indigo.services.mapping.support.dbquery.MapperQueryExecutor" xmlns:saxonJavaAggregateFunctionHandler="java:com.adeptia.indigo.services.mapping.AggregateFunctionHandler"  xmlns:str="http://exslt.org/strings" exclude-result-prefixes="saxonJavaMappingTransformation saxonJavaMapperQueryExecutor saxonJavaAggregateFunctionHandler str" xmlns:saxon="http://saxon.sf.net/" extension-element-prefixes="saxon">
+<xsl:output method="xml" version="1.0" encoding="UTF-8" cdata-section-elements="" indent="yes" /><xsl:param name="_userName"/><xsl:param name="_password"/><xsl:param name="_class"/><xsl:param name="_identifier"/><xsl:param name="_subject"/><xsl:param name="_repositoryPath"/><xsl:param name="_Input1"/> <xsl:variable name="varConn" select="saxonJavaMapperQueryExecutor:getInstance($_identifier,'false')"/> <xsl:variable name="apos">'</xsl:variable> <xsl:variable name="quot">"</xsl:variable><xsl:template match="/"><Root><Record><xsl:attribute name="recordNumber"></xsl:attribute><FirstName><xsl:value-of select="Root/name"/></FirstName><MiddleName><xsl:value-of select="Root/email"/></MiddleName><LastName><xsl:value-of select="Root/address"/></LastName><Email><xsl:value-of select="Root/title"/></Email><Mobile></Mobile><Age></Age><Gender><xsl:value-of select="Root/gender"/></Gender><City></City></Record></Root></xsl:template></xsl:stylesheet>]]></au_xslFile>
+        <au_customAutoMap><![CDATA[]]></au_customAutoMap>
+        <au_metadata><![CDATA[]]></au_metadata>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_splitFile><![CDATA[false]]></au_splitFile>
+        <au_parallelProcessing><![CDATA[false]]></au_parallelProcessing>
+        <au_pdfFileName><![CDATA[Adp_Map_Rules8743269274660095429.pdf]]></au_pdfFileName>
+        <au_json><![CDATA[{"json":{"category":"mapping","type":"mapping","encoding":"UTF-8","version":"1.0"},"cloneElements":"","filters":"","variables":{"variable":[]},"globalParameters":{"keys":{"key":[]},"contextVariables":{"contextVariable":[]}},"connections":{"connectionVariable":[]},"functions":{"externalFunction":[]},"filterUnmappedElements":false,"indentOutputXML":true,"xslVersion":"1.1","enableStreaming":false,"filterEmptyElements":false,"xslTransformer":"Saxon","characterSetEncoding":"UTF-8","DataViewerRecordCount":50,"dbQueryCaching":false,"isQuickSplittingEnabled":false,"TreeExpandLevelCountForWebService":5,"TreeExpandLevelForEasySchemaExtensions":10,"SelfRecursionLevel":0,"EnableTypesBuffering":true,"TreeExpandLevelCount":3,"onDemandLoadingOfXMLSchemaTree":true,"settingConfigs":{"xslVersion":"1.1","xslTransformer":"Saxon","filterUnmappedElements":false,"indentOutputXML":true,"filterEmptyElements":false,"enableStreaming":false,"characterSetEncoding":"UTF-8","DataViewerRecordCount":50,"dbQueryCaching":false,"isQuickSplittingEnabled":false,"TreeExpandLevelCountForWebService":5,"TreeExpandLevelForEasySchemaExtensions":10,"SelfRecursionLevel":0,"EnableTypesBuffering":true,"TreeExpandLevelCount":3,"onDemandLoadingOfXMLSchemaTree":true,"cDataSectionElements":"","excludeResultPrefixes":"saxonJavaMappingTransformation saxonJavaMapperQueryExecutor saxonJavaAggregateFunctionHandler str","cacheIncludedSchemas":false,"processElementFormDefault":true,"isAutoSaveEnable":true},"disableOuputNodes":{"disableOutputNodeProperty":[]},"contextSchemaLoadedAtSource":false,"contextSchemaLoadedAtTarget":false,"webservice":{"consumers":{"consumer":[]}},"GlobalPreCustomXSL":"","GlobalPostCustomXSL":"","xslTemplates":{"xslTemplateData":[]},"mappingTempId":null,"sourceXpath":"","targetXpath":"","cDataSectionElements":"","splittingData":false,"splitNumberOfRecords":"500","parallelProcessing":false,"maximumConcurrentProcessor":"1","CustomAutoMapInUse":"","excludeResultPrefixes":"saxonJavaMappingTransformation saxonJavaMapperQueryExecutor saxonJavaAggregateFunctionHandler str","cacheIncludedSchemas":false,"metaData":"","processElementFormDefault":true,"mappingInformation":{"mappingVersion":"6.1","mappingName":"Mayank_mapping_case_A","mappingProject":"Default","mappingDescription":"Mayank_mapping_case_A","sourceSchemaID":"JSONSchema:870569796096229376","targetSchemaID":"TextSchema:010240000105162548994443700228","mappingOwnerGroup":"","mappingOwner":"","mappingLastModifiedBy":"","mappingCreationDate":"","mappingModifiedDate":"","reusable":null},"namespace":"","namespaceList":[],"foreach":"","targetRoots":{"targetRoot":[{"name":"Root","schemaName":"Mayank_Text_Schema_2","schemaID":"TextSchema:010240000105162548994443700228","stream":"output_1"}]},"sourceRoots":{"sourceRoot":[{"name":"Root","schemaName":"testq_Schema","schemaID":"JSONSchema:870569796096229376"}]},"contextSchemaDefinition":"","maps":[{"order":1,"targetName":"Mayank_Text_Schema_2","targetfield":"FirstName","targetfieldpath":"/Root/Record/FirstName","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1627630880855","elementItem":{"elementType":"SourceElement","name":"name","expression":"$Input_testq_Schema/Root/name","paramsCount":0,"syntax":"$Input_testq_Schema/Root/name"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1627630880856_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1627630880856"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1627630880856","elementItem":{"elementType":"TargetElement","name":"FirstName","expression":"$Input_testq_Schema/Root/name","paramsCount":1,"syntax":"Mayank_Text_Schema_2/Root/Record/FirstName"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1627630880855"]}],"expression":"$Input_testq_Schema/Root/name","targetrecord":"Record","mapping":[{"sourceName":"testq_Schema","operatortype":"field","sourcefield":"name","sourcefielddisplayname":"name","sourcefieldpath":"/Root/name","sourcerecord":"Root"}],"markComplete":false,"mapId":"Map-1"},{"order":1,"targetName":"Mayank_Text_Schema_2","targetfield":"MiddleName","targetfieldpath":"/Root/Record/MiddleName","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1627630882799","elementItem":{"elementType":"SourceElement","name":"email","expression":"$Input_testq_Schema/Root/email","paramsCount":0,"syntax":"$Input_testq_Schema/Root/email"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1627630882800_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1627630882800"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1627630882800","elementItem":{"elementType":"TargetElement","name":"MiddleName","expression":"$Input_testq_Schema/Root/email","paramsCount":1,"syntax":"Mayank_Text_Schema_2/Root/Record/MiddleName"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1627630882799"]}],"expression":"$Input_testq_Schema/Root/email","targetrecord":"Record","mapping":[{"sourceName":"testq_Schema","operatortype":"field","sourcefield":"email","sourcefielddisplayname":"email","sourcefieldpath":"/Root/email","sourcerecord":"Root"}],"markComplete":false,"mapId":"Map-2"},{"order":1,"targetName":"Mayank_Text_Schema_2","targetfield":"LastName","targetfieldpath":"/Root/Record/LastName","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1627630884063","elementItem":{"elementType":"SourceElement","name":"address","expression":"$Input_testq_Schema/Root/address","paramsCount":0,"syntax":"$Input_testq_Schema/Root/address"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1627630884064_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1627630884064"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1627630884064","elementItem":{"elementType":"TargetElement","name":"LastName","expression":"$Input_testq_Schema/Root/address","paramsCount":1,"syntax":"Mayank_Text_Schema_2/Root/Record/LastName"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1627630884063"]}],"expression":"$Input_testq_Schema/Root/address","targetrecord":"Record","mapping":[{"sourceName":"testq_Schema","operatortype":"field","sourcefield":"address","sourcefielddisplayname":"address","sourcefieldpath":"/Root/address","sourcerecord":"Root"}],"markComplete":false,"mapId":"Map-3"},{"order":1,"targetName":"Mayank_Text_Schema_2","targetfield":"Email","targetfieldpath":"/Root/Record/Email","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1627630885446","elementItem":{"elementType":"SourceElement","name":"title","expression":"$Input_testq_Schema/Root/title","paramsCount":0,"syntax":"$Input_testq_Schema/Root/title"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1627630885447_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1627630885447"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1627630885447","elementItem":{"elementType":"TargetElement","name":"Email","expression":"$Input_testq_Schema/Root/title","paramsCount":1,"syntax":"Mayank_Text_Schema_2/Root/Record/Email"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1627630885446"]}],"expression":"$Input_testq_Schema/Root/title","targetrecord":"Record","mapping":[{"sourceName":"testq_Schema","operatortype":"field","sourcefield":"title","sourcefielddisplayname":"title","sourcefieldpath":"/Root/title","sourcerecord":"Root"}],"markComplete":false,"mapId":"Map-4"},{"order":1,"targetName":"Mayank_Text_Schema_2","targetfield":"Gender","targetfieldpath":"/Root/Record/Gender","defaultEditor":"graphical","graphicalMappingJson":[{"elementId":"GraphicalElement-ext-1627630897793","elementItem":{"elementType":"SourceElement","name":"gender","expression":"$Input_testq_Schema/Root/gender","paramsCount":0,"syntax":"$Input_testq_Schema/Root/gender"},"elementPos":[1600,1520],"nextElementIds":["GraphicalElement-ext-1627630897794_IncomingElement-1"],"nextGraphicalElementIds":["GraphicalElement-ext-1627630897794"],"previousElementIds":[]},{"elementId":"GraphicalElement-ext-1627630897794","elementItem":{"elementType":"TargetElement","name":"Gender","expression":"$Input_testq_Schema/Root/gender","paramsCount":1,"syntax":"Mayank_Text_Schema_2/Root/Record/Gender"},"elementPos":[1800,1520],"nextElementIds":[],"nextGraphicalElementIds":[],"previousElementIds":["GraphicalElement-ext-1627630897793"]}],"expression":"$Input_testq_Schema/Root/gender","targetrecord":"Record","mapping":[{"sourceName":"testq_Schema","operatortype":"field","sourcefield":"gender","sourcefielddisplayname":"gender","sourcefieldpath":"/Root/gender","sourcerecord":"Root"}],"markComplete":false,"mapId":"Map-6"}],"sourceExpandLevel":3,"targetExpandLevel":3}]]></au_json>
+        <au_targetSchema><![CDATA[TextSchema:010240000105162548994443700228]]></au_targetSchema>
+        <au_reusable><![CDATA[true]]></au_reusable>
+        <au_description><![CDATA[Mayank_mapping_case_A]]></au_description>
+        <au_concurrentProcessors><![CDATA[1]]></au_concurrentProcessors>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_entityName><![CDATA[Mayank_mapping_case_A]]></au_entityName>
+        <au_projectOwner><![CDATA[Default]]></au_projectOwner>
+        <au_xslTemplate><![CDATA[<XslTemplate/>]]></au_xslTemplate>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
+        <au_id><![CDATA[870571878039683072]]></au_id>
+        <au_valueMap><![CDATA[<ValueMap/>]]></au_valueMap>
+        <au_numberOfRecords><![CDATA[500]]></au_numberOfRecords>
+        <au_dbInfoName><![CDATA[]]></au_dbInfoName>
+        <au_creationDate><![CDATA[2021-07-30 07:41:50.167]]></au_creationDate>
+    </AU_MAPPINGTRANSFORMATION>
+    <columnInfo dbtype="0">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="-7"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="-7"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_persistDataEnabled" type="-7"/>
+        <column name="au_splitFile" type="-7"/>
+        <column name="au_numberOfRecords" type="4"/>
+        <column name="au_optimizedLoading" type="-7"/>
+        <column name="au_sourceSchema" type="12"/>
+        <column name="au_targetSchema" type="12"/>
+        <column name="au_xslFile" type="-1"/>
+        <column name="au_metadata" type="12"/>
+        <column name="au_mapXmlFile" type="-1"/>
+        <column name="au_json" type="-1"/>
+        <column name="au_pdfFileName" type="12"/>
+        <column name="au_parallelProcessing" type="-7"/>
+        <column name="au_concurrentProcessors" type="4"/>
+        <column name="au_dbInfoName" type="12"/>
+        <column name="au_customAutoMap" type="-1"/>
+        <column name="au_valueMap" type="-1"/>
+        <column name="au_xslTemplate" type="-1"/>
+        <column name="au_xslTransformer" type="12"/>
+        <column name="au_characterSetEncoding" type="12"/>
+        <column name="au_enableAIMap" type="-7"/>
+        <column name="au_reusable" type="-7"/>
+    </columnInfo>
+</data>
