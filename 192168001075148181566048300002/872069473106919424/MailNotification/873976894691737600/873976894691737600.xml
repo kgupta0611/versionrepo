@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_MailNotification>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_mailSubject><![CDATA[QA for testinggggg]]></au_mailSubject>
-        <au_attachment><![CDATA[false]]></au_attachment>
-        <au_revision><![CDATA[null]]></au_revision>
-        <au_authenticationType><![CDATA[Basic]]></au_authenticationType>
-        <au_activeVersion><![CDATA[true]]></au_activeVersion>
-        <au_modifiedBy><![CDATA[IndigoUser:11623932961018]]></au_modifiedBy>
-        <au_description><![CDATA[testingsa]]></au_description>
-        <au_notificationType><![CDATA[DYNAMIC]]></au_notificationType>
-        <notificationCriteria><![CDATA[Aborted]]></notificationCriteria>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_modifiedDate><![CDATA[2021-08-08 18:04:18.0]]></au_modifiedDate>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_receiverEmailIds><![CDATA[shipra.agrawal@adeptia.com,nimish9411@gmail.com]]></au_receiverEmailIds>
-        <au_entityName><![CDATA[SAAAAAA2]]></au_entityName>
-        <au_projectOwner><![CDATA[Project:872069473106919424]]></au_projectOwner>
         <au_mailReceiverUsers><![CDATA[null]]></au_mailReceiverUsers>
-        <au_userOwner><![CDATA[IndigoUser:11623932961018]]></au_userOwner>
-        <au_creationDate><![CDATA[2021-08-08 17:12:09.0]]></au_creationDate>
-        <au_encodingUsed><![CDATA[UTF-8]]></au_encodingUsed>
+        <au_attachment><![CDATA[false]]></au_attachment>
+        <au_mailSubject><![CDATA[QA for testinggggg]]></au_mailSubject>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
         <au_filepath><![CDATA[]]></au_filepath>
+        <au_description><![CDATA[testingsa]]></au_description>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_creationDate><![CDATA[2021-08-08 17:12:09.0]]></au_creationDate>
+        <notificationCriteria><![CDATA[Aborted]]></notificationCriteria>
+        <au_encodingUsed><![CDATA[UTF-8]]></au_encodingUsed>
+        <au_userOwner><![CDATA[IndigoUser:11623932961018]]></au_userOwner>
+        <au_notificationType><![CDATA[DYNAMIC]]></au_notificationType>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_id><![CDATA[873976894691737600]]></au_id>
+        <au_version><![CDATA[1]]></au_version>
         <au_message><![CDATA[]]></au_message>
         <au_fileName><![CDATA[]]></au_fileName>
+        <au_revision><![CDATA[1ca5110f45d0cb1751090e8099399e826fe56c25]]></au_revision>
+        <au_receiverEmailIds><![CDATA[shipra.agrawal@adeptia.com,nimish9411@gmail.com]]></au_receiverEmailIds>
+        <au_projectOwner><![CDATA[Project:872069473106919424]]></au_projectOwner>
+        <au_modifiedBy><![CDATA[IndigoUser:11623932961018]]></au_modifiedBy>
+        <au_entityName><![CDATA[SAAAAAA2]]></au_entityName>
+        <au_authenticationType><![CDATA[Basic]]></au_authenticationType>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
         <au_synchronized><![CDATA[false]]></au_synchronized>
-        <au_id><![CDATA[873976894691737600]]></au_id>
-        <au_comments><![CDATA[null]]></au_comments>
+        <au_modifiedDate><![CDATA[2021-08-08 18:20:22.0]]></au_modifiedDate>
         <au_oauthAccountId><![CDATA[null]]></au_oauthAccountId>
-        <au_version><![CDATA[1]]></au_version>
     </AU_MailNotification>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
