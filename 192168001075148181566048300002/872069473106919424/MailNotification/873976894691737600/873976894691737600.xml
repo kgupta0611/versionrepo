@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_MailNotification>
+        <au_entityName><![CDATA[SAAAAAA2]]></au_entityName>
+        <au_message><![CDATA[]]></au_message>
+        <au_mailSubject><![CDATA[QA for testinggggg]]></au_mailSubject>
+        <au_modifiedDate><![CDATA[2021-08-08 18:04:18.0]]></au_modifiedDate>
+        <notificationCriteria><![CDATA[Aborted]]></notificationCriteria>
+        <au_notificationType><![CDATA[DYNAMIC]]></au_notificationType>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_encodingUsed><![CDATA[UTF-8]]></au_encodingUsed>
+        <au_modifiedBy><![CDATA[IndigoUser:11623932961018]]></au_modifiedBy>
+        <au_userOwner><![CDATA[IndigoUser:11623932961018]]></au_userOwner>
+        <au_fileName><![CDATA[]]></au_fileName>
+        <au_id><![CDATA[873976894691737600]]></au_id>
+        <au_description><![CDATA[testingsa]]></au_description>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_attachment><![CDATA[false]]></au_attachment>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_mailReceiverUsers><![CDATA[null]]></au_mailReceiverUsers>
+        <au_creationDate><![CDATA[2021-08-08 17:12:09.0]]></au_creationDate>
+        <au_version><![CDATA[1]]></au_version>
+        <au_authenticationType><![CDATA[Basic]]></au_authenticationType>
+        <au_projectOwner><![CDATA[Project:872069473106919424]]></au_projectOwner>
+        <au_receiverEmailIds><![CDATA[shipra.agrawal@adeptia.com,nimish9411@gmail.com]]></au_receiverEmailIds>
+        <au_filepath><![CDATA[]]></au_filepath>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_oauthAccountId><![CDATA[null]]></au_oauthAccountId>
+    </AU_MailNotification>
+    <columnInfo dbtype="0">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="-7"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="-7"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_notificationType" type="12"/>
+        <column name="au_message" type="12"/>
+        <column name="au_mailSubject" type="12"/>
+        <column name="au_receiverEmailIds" type="12"/>
+        <column name="notificationCriteria" type="12"/>
+        <column name="au_attachment" type="-7"/>
+        <column name="au_filepath" type="12"/>
+        <column name="au_fileName" type="12"/>
+        <column name="au_mailReceiverUsers" type="12"/>
+        <column name="au_encodingUsed" type="12"/>
+        <column name="au_authenticationType" type="12"/>
+        <column name="au_oauthAccountId" type="12"/>
+    </columnInfo>
+</data>
