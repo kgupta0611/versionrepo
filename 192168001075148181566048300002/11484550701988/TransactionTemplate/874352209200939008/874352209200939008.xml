@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AC_TRANSACTION_TEMPLATE>
+        <PARTNER_CONFIG_INFO><![CDATA[{"webFormData":{},"partnerConfiguration":[{"xtype":"account","sequenceId":1,"aliasName":"Source","sequenceType":"Trigger"},{"xtype":"sourcefilelocation","sequenceId":1,"aliasName":"Source","sequenceType":"Trigger"}]}]]></PARTNER_CONFIG_INFO>
+        <MODIFIED_DATE><![CDATA[2021-08-10 07:57:53.173]]></MODIFIED_DATE>
+        <LOCKED_STATUS><![CDATA[2301]]></LOCKED_STATUS>
+        <PROJECT_OWNER><![CDATA[Project:11484550701988]]></PROJECT_OWNER>
+        <SRC_APP_TYPE><![CDATA[ftp:ftp:FTP]]></SRC_APP_TYPE>
+        <DATA_ENCODING><![CDATA[UTF-8]]></DATA_ENCODING>
+        <NOTIFICATION_MODE><![CDATA[1900]]></NOTIFICATION_MODE>
+        <DEST_REFERENCE_FIELD><![CDATA[]]></DEST_REFERENCE_FIELD>
+        <APPROVAL_TYPE><![CDATA[3000]]></APPROVAL_TYPE>
+        <SRC_REFERENCE_FIELD><![CDATA[]]></SRC_REFERENCE_FIELD>
+        <PARAMETERS_INFO><![CDATA[{"routingType":3502,"dataEncryptionAtRest":"useGlobalPolicy","mapperValidatorId":"","mapperExternalFunctionId":"","emailNotificationFormat":"Default"}]]></PARAMETERS_INFO>
+        <DESCRIPTION><![CDATA[KG_FTPtoFTP]]></DESCRIPTION>
+        <CREATED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></CREATED_GROUP>
+        <SYNCHRONIZED><![CDATA[null]]></SYNCHRONIZED>
+        <COMPANY_ID><![CDATA[1]]></COMPANY_ID>
+        <LOCKED_BY_USER><![CDATA[null]]></LOCKED_BY_USER>
+        <DISPLAY_TYPE><![CDATA[700]]></DISPLAY_TYPE>
+        <MODIFIED_BY><![CDATA[Sapna Gupta]]></MODIFIED_BY>
+        <MODIFIED_ROLE><![CDATA[2]]></MODIFIED_ROLE>
+        <CREATED_ROLE><![CDATA[2]]></CREATED_ROLE>
+        <DOCUMENTATION><![CDATA[]]></DOCUMENTATION>
+        <MODIFIED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></MODIFIED_GROUP>
+        <DEST_APP_TYPE><![CDATA[ftp:ftp:FTP]]></DEST_APP_TYPE>
+        <VARIABLE_INFO><![CDATA[]]></VARIABLE_INFO>
+        <DEST_ACTION><![CDATA[createnewfile]]></DEST_ACTION>
+        <CREATED_USER><![CDATA[IndigoUser:874275137514373120]]></CREATED_USER>
+        <TYPE><![CDATA[504]]></TYPE>
+        <LOCKED_TIMESTAMP><![CDATA[null]]></LOCKED_TIMESTAMP>
+        <IN_USE><![CDATA[null]]></IN_USE>
+        <REVISION><![CDATA[null]]></REVISION>
+        <IN_USE_BY><![CDATA[null]]></IN_USE_BY>
+        <CREATED_BY><![CDATA[Krati Gupta]]></CREATED_BY>
+        <SRC_CRITERIA><![CDATA[null]]></SRC_CRITERIA>
+        <SRC_TRIGGER><![CDATA[FileCreated]]></SRC_TRIGGER>
+        <CREATION_DATE><![CDATA[2021-08-09 18:03:31.253]]></CREATION_DATE>
+        <ERROR_ID><![CDATA[null]]></ERROR_ID>
+        <ID><![CDATA[874352209200939008]]></ID>
+        <LOG_MODE><![CDATA[null]]></LOG_MODE>
+        <MODIFIED_USER><![CDATA[IndigoUser:874514611175424000]]></MODIFIED_USER>
+        <DIRECTION><![CDATA[3200]]></DIRECTION>
+        <ACCESS_LEVEL><![CDATA[3100]]></ACCESS_LEVEL>
+        <DEST_EXTERNAL_ID><![CDATA[]]></DEST_EXTERNAL_ID>
+        <CONTACT_USER><![CDATA[kratinew@yopmail.com]]></CONTACT_USER>
+        <PROCESS_TYPE><![CDATA[700]]></PROCESS_TYPE>
+        <NAME><![CDATA[KG_FTPtoFTP]]></NAME>
+        <STATUS><![CDATA[601]]></STATUS>
+    </AC_TRANSACTION_TEMPLATE>
+    <columnInfo dbtype="0">
+        <column name="ID" type="2"/>
+        <column name="DESCRIPTION" type="12"/>
+        <column name="NAME" type="12"/>
+        <column name="ACCESS_LEVEL" type="4"/>
+        <column name="APPROVAL_TYPE" type="4"/>
+        <column name="COMPANY_ID" type="2"/>
+        <column name="CONTACT_USER" type="12"/>
+        <column name="CREATED_GROUP" type="12"/>
+        <column name="CREATED_USER" type="12"/>
+        <column name="CREATION_DATE" type="93"/>
+        <column name="DATA_ENCODING" type="12"/>
+        <column name="DEST_ACTION" type="12"/>
+        <column name="DEST_APP_TYPE" type="12"/>
+        <column name="DIRECTION" type="4"/>
+        <column name="DOCUMENTATION" type="12"/>
+        <column name="IN_USE" type="-6"/>
+        <column name="IN_USE_BY" type="2"/>
+        <column name="LOCKED_BY_USER" type="12"/>
+        <column name="LOCKED_STATUS" type="4"/>
+        <column name="LOCKED_TIMESTAMP" type="93"/>
+        <column name="LOG_MODE" type="12"/>
+        <column name="MODIFIED_DATE" type="93"/>
+        <column name="MODIFIED_GROUP" type="12"/>
+        <column name="MODIFIED_USER" type="12"/>
+        <column name="NOTIFICATION_MODE" type="4"/>
+        <column name="PARAMETERS_INFO" type="12"/>
+        <column name="PARTNER_CONFIG_INFO" type="12"/>
+        <column name="PROCESS_TYPE" type="4"/>
+        <column name="SRC_APP_TYPE" type="12"/>
+        <column name="SRC_TRIGGER" type="12"/>
+        <column name="STATUS" type="4"/>
+        <column name="TYPE" type="4"/>
+        <column name="ERROR_ID" type="2"/>
+        <column name="CREATED_BY" type="12"/>
+        <column name="DEST_EXTERNAL_ID" type="12"/>
+        <column name="DEST_REFERENCE_FIELD" type="12"/>
+        <column name="MODIFIED_BY" type="12"/>
+        <column name="SRC_REFERENCE_FIELD" type="12"/>
+        <column name="PROJECT_OWNER" type="12"/>
+        <column name="REVISION" type="12"/>
+        <column name="SYNCHRONIZED" type="-6"/>
+        <column name="DISPLAY_TYPE" type="4"/>
+        <column name="SRC_CRITERIA" type="12"/>
+        <column name="VARIABLE_INFO" type="12"/>
+        <column name="CREATED_ROLE" type="2"/>
+        <column name="MODIFIED_ROLE" type="2"/>
+    </columnInfo>
+</data>
