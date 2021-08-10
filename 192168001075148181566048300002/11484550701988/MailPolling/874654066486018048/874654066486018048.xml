@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_MAILPOLLING>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_cdoMachine><![CDATA[]]></au_cdoMachine>
+        <au_creationDate><![CDATA[2021-08-10 14:02:59.0]]></au_creationDate>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_description><![CDATA[polling]]></au_description>
+        <au_securityType><![CDATA[SSL]]></au_securityType>
+        <au_userOwner><![CDATA[IndigoUser:874290089591570432]]></au_userOwner>
+        <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_id><![CDATA[874654066486018048]]></au_id>
+        <au_version><![CDATA[1]]></au_version>
+        <au_filterCriteria><![CDATA[accountRequest808.json]]></au_filterCriteria>
+        <au_leaveCopyOnServer><![CDATA[true]]></au_leaveCopyOnServer>
+        <au_pollingFrequency><![CDATA[1$m]]></au_pollingFrequency>
+        <au_secure><![CDATA[false]]></au_secure>
+        <au_mailUserId><![CDATA[satest2705@gmail.com]]></au_mailUserId>
+        <au_modifiedDate><![CDATA[2021-08-10 14:35:37.0]]></au_modifiedDate>
+        <au_projectOwner><![CDATA[Project:11484550701988]]></au_projectOwner>
+        <au_entityName><![CDATA[SA_Polling_IMAP_Gmail]]></au_entityName>
+        <au_expiryTime><![CDATA[2$m]]></au_expiryTime>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_protocol><![CDATA[imap]]></au_protocol>
+        <au_hostName><![CDATA[imap.gmail.com]]></au_hostName>
+        <au_mailContent><![CDATA[SA_Mail for Polling. Please ignore]]></au_mailContent>
+        <au_domain><![CDATA[]]></au_domain>
+        <au_mailSubject><![CDATA[QA testing for mail Polling.....Shipra Agrawalll]]></au_mailSubject>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_modifiedBy><![CDATA[IndigoUser:874290089591570432]]></au_modifiedBy>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_senderEmail><![CDATA[shipra.agrawal@adeptia.com]]></au_senderEmail>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_port><![CDATA[993]]></au_port>
+        <au_mailpassword><![CDATA[iyiX6PPhe9tnTzstQ0jDww==]]></au_mailpassword>
+    </AU_MAILPOLLING>
+    <columnInfo dbtype="0">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="-7"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="-7"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_expiryTime" type="12"/>
+        <column name="au_pollingFrequency" type="12"/>
+        <column name="au_hostName" type="12"/>
+        <column name="au_domain" type="12"/>
+        <column name="au_cdoMachine" type="12"/>
+        <column name="au_port" type="4"/>
+        <column name="au_mailUserId" type="12"/>
+        <column name="au_mailpassword" type="12"/>
+        <column name="au_filterCriteria" type="12"/>
+        <column name="au_senderEmail" type="12"/>
+        <column name="au_mailSubject" type="12"/>
+        <column name="au_secure" type="-7"/>
+        <column name="au_leaveCopyOnServer" type="-7"/>
+        <column name="au_protocol" type="12"/>
+        <column name="au_mailContent" type="12"/>
+        <column name="au_securityType" type="12"/>
+    </columnInfo>
+</data>
