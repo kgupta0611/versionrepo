@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_PROJECT>
+        <au_entityName><![CDATA[Project_1]]></au_entityName>
         <au_permissionMask><![CDATA[777]]></au_permissionMask>
+        <au_projectOwner><![CDATA[null]]></au_projectOwner>
         <au_creationDate><![CDATA[2021-08-09 10:47:08.84]]></au_creationDate>
+        <au_modifiedBy><![CDATA[IndigoUser:11484291038587]]></au_modifiedBy>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_projectGroup><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_projectGroup>
+        <au_id><![CDATA[11484550701988]]></au_id>
+        <au_version><![CDATA[1]]></au_version>
+        <au_userOwner><![CDATA[IndigoUser:11484291038587]]></au_userOwner>
+        <au_revision><![CDATA[49573d02937ee07e4ae679d8239a752e63844e5b]]></au_revision>
+        <au_synchronized><![CDATA[true]]></au_synchronized>
         <au_projectType><![CDATA[3700]]></au_projectType>
         <au_description><![CDATA[Project_1]]></au_description>
+        <au_modifiedDate><![CDATA[2021-08-09 10:47:08.84]]></au_modifiedDate>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
         <au_comments><![CDATA[]]></au_comments>
         <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_version><![CDATA[1]]></au_version>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_modifiedDate><![CDATA[2021-08-09 10:47:08.84]]></au_modifiedDate>
-        <au_modifiedBy><![CDATA[IndigoUser:11484291038587]]></au_modifiedBy>
-        <au_entityName><![CDATA[Project_1]]></au_entityName>
-        <au_projectOwner><![CDATA[null]]></au_projectOwner>
-        <au_id><![CDATA[11484550701988]]></au_id>
-        <au_projectGroup><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_projectGroup>
-        <au_activeVersion><![CDATA[true]]></au_activeVersion>
-        <au_revision><![CDATA[b4df6369b1a0e9291c8e3bdb4d90a6ca4659be4e]]></au_revision>
-        <au_userOwner><![CDATA[IndigoUser:11484291038587]]></au_userOwner>
-        <au_synchronized><![CDATA[true]]></au_synchronized>
     </AU_PROJECT>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
