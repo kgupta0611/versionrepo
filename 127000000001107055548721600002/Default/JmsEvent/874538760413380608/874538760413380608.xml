@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_JMSEVENT>
-        <au_messageSelector><![CDATA[]]></au_messageSelector>
-        <au_eventStartDateTime><![CDATA[]]></au_eventStartDateTime>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_modifiedDate><![CDATA[2021-08-10 06:24:48.627]]></au_modifiedDate>
-        <au_calendarType><![CDATA[null]]></au_calendarType>
         <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
-        <au_queueOrTopic><![CDATA[QUEUE]]></au_queueOrTopic>
-        <au_receiverEmailIds><![CDATA[]]></au_receiverEmailIds>
-        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_modifiedDate><![CDATA[2021-08-11 08:34:22.0]]></au_modifiedDate>
+        <au_description><![CDATA[test_two]]></au_description>
         <au_misFireInstructions><![CDATA[ignoreMisfire]]></au_misFireInstructions>
-        <au_processPerPoll><![CDATA[-1]]></au_processPerPoll>
-        <au_messageType><![CDATA[TEXT]]></au_messageType>
-        <au_creationDate><![CDATA[2021-08-10 06:24:48.627]]></au_creationDate>
-        <au_id><![CDATA[874538760413380608]]></au_id>
-        <au_businessInterval><![CDATA[null]]></au_businessInterval>
-        <au_sessionType><![CDATA[Non-Transactional]]></au_sessionType>
-        <au_projectOwner><![CDATA[Default]]></au_projectOwner>
-        <au_triggerInSequence><![CDATA[false]]></au_triggerInSequence>
-        <au_creationMode><![CDATA[Simple]]></au_creationMode>
-        <au_queueOrtopicName><![CDATA[test]]></au_queueOrtopicName>
-        <au_pollingFrequency><![CDATA[$0]]></au_pollingFrequency>
-        <au_eventExpiryDateTime><![CDATA[]]></au_eventExpiryDateTime>
-        <au_description><![CDATA[test]]></au_description>
-        <au_durableSubscriber><![CDATA[false]]></au_durableSubscriber>
-        <au_subscriberID><![CDATA[]]></au_subscriberID>
-        <au_entityName><![CDATA[Sk_jms]]></au_entityName>
-        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
-        <au_activeVersion><![CDATA[true]]></au_activeVersion>
-        <au_jmsPassword><![CDATA[]]></au_jmsPassword>
-        <au_version><![CDATA[1]]></au_version>
-        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
-        <au_comments><![CDATA[null]]></au_comments>
-        <au_jmsProvider><![CDATA[JmsProvider:192168001073148853400274100012]]></au_jmsProvider>
-        <au_createDynamically><![CDATA[false]]></au_createDynamically>
-        <au_revision><![CDATA[null]]></au_revision>
         <au_activateFlag><![CDATA[false]]></au_activateFlag>
+        <au_jmsProvider><![CDATA[JmsProvider:192168001073148853400274100012]]></au_jmsProvider>
+        <au_calendarType><![CDATA[null]]></au_calendarType>
+        <au_entityName><![CDATA[Sk_jms]]></au_entityName>
+        <au_createDynamically><![CDATA[false]]></au_createDynamically>
+        <au_jmsPassword><![CDATA[]]></au_jmsPassword>
+        <au_messageSelector><![CDATA[]]></au_messageSelector>
+        <au_modifiedBy><![CDATA[IndigoUser:874285037099417600]]></au_modifiedBy>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_triggerInSequence><![CDATA[false]]></au_triggerInSequence>
+        <au_queueOrTopic><![CDATA[QUEUE]]></au_queueOrTopic>
+        <au_eventStartDateTime><![CDATA[]]></au_eventStartDateTime>
+        <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_creationMode><![CDATA[Simple]]></au_creationMode>
+        <au_revision><![CDATA[d9590419d58c2c82b26b71757e1b1b713686b40d]]></au_revision>
+        <au_subscriberID><![CDATA[]]></au_subscriberID>
+        <au_eventExpiryDateTime><![CDATA[]]></au_eventExpiryDateTime>
+        <au_businessInterval><![CDATA[null]]></au_businessInterval>
+        <au_queueOrtopicName><![CDATA[test]]></au_queueOrtopicName>
+        <au_id><![CDATA[874538760413380608]]></au_id>
+        <au_durableSubscriber><![CDATA[false]]></au_durableSubscriber>
+        <au_receiverEmailIds><![CDATA[]]></au_receiverEmailIds>
+        <au_processPerPoll><![CDATA[-1]]></au_processPerPoll>
         <au_synchronized><![CDATA[false]]></au_synchronized>
+        <au_projectOwner><![CDATA[Default]]></au_projectOwner>
         <au_userName><![CDATA[]]></au_userName>
+        <au_messageType><![CDATA[TEXT]]></au_messageType>
+        <au_creationDate><![CDATA[2021-08-10 06:24:48.0]]></au_creationDate>
+        <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
+        <au_pollingFrequency><![CDATA[$0]]></au_pollingFrequency>
+        <au_sessionType><![CDATA[Non-Transactional]]></au_sessionType>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_version><![CDATA[1]]></au_version>
     </AU_JMSEVENT>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
