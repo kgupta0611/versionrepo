@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_PROJECT>
-        <au_entityName><![CDATA[Project_1]]></au_entityName>
-        <au_description><![CDATA[Project_1]]></au_description>
-        <au_modifiedBy><![CDATA[IndigoUser:11484291038587]]></au_modifiedBy>
-        <au_userOwner><![CDATA[IndigoUser:11484291038587]]></au_userOwner>
-        <au_version><![CDATA[1]]></au_version>
         <au_modifiedDate><![CDATA[2021-08-09 10:47:08.84]]></au_modifiedDate>
-        <au_projectOwner><![CDATA[null]]></au_projectOwner>
+        <au_modifiedBy><![CDATA[IndigoUser:11484291038587]]></au_modifiedBy>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_description><![CDATA[Project_1]]></au_description>
         <au_projectGroup><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_projectGroup>
-        <au_revision><![CDATA[9a54eb4232df2f9f47132041de089e4d7ae52c61]]></au_revision>
         <au_activeVersion><![CDATA[true]]></au_activeVersion>
+        <au_entityName><![CDATA[Project_1]]></au_entityName>
+        <au_revision><![CDATA[b5532b77ab0028e8a55a0fda7bb8b2cd560f52c6]]></au_revision>
+        <au_synchronized><![CDATA[true]]></au_synchronized>
         <au_projectType><![CDATA[3700]]></au_projectType>
+        <au_version><![CDATA[1]]></au_version>
         <au_creationDate><![CDATA[2021-08-09 10:47:08.84]]></au_creationDate>
         <au_permissionMask><![CDATA[777]]></au_permissionMask>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_comments><![CDATA[]]></au_comments>
-        <au_synchronized><![CDATA[true]]></au_synchronized>
         <au_id><![CDATA[11484550701988]]></au_id>
+        <au_userOwner><![CDATA[IndigoUser:11484291038587]]></au_userOwner>
         <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_comments><![CDATA[]]></au_comments>
+        <au_projectOwner><![CDATA[null]]></au_projectOwner>
     </AU_PROJECT>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
