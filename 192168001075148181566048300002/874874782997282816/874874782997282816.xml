@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_PROJECT>
-        <au_permissionMask><![CDATA[777]]></au_permissionMask>
-        <au_projectType><![CDATA[3700]]></au_projectType>
-        <au_revision><![CDATA[83f6200ec946a478aec75aa108c8bd7ec3ed1d59]]></au_revision>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_creationDate><![CDATA[2021-08-11 04:40:02.65]]></au_creationDate>
-        <au_userOwner><![CDATA[IndigoUser:874285037099417600]]></au_userOwner>
+        <au_projectGroup><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_projectGroup>
+        <au_entityName><![CDATA[akash]]></au_entityName>
+        <au_id><![CDATA[874874782997282816]]></au_id>
         <au_previousVersion><![CDATA[]]></au_previousVersion>
         <au_synchronized><![CDATA[true]]></au_synchronized>
         <au_activeVersion><![CDATA[true]]></au_activeVersion>
-        <au_description><![CDATA[test]]></au_description>
         <au_modifiedBy><![CDATA[IndigoUser:874285037099417600]]></au_modifiedBy>
-        <au_projectGroup><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_projectGroup>
+        <au_revision><![CDATA[063cd9d757a9953b6a343bb86e9cb6f2b5f77e66]]></au_revision>
         <au_modifiedDate><![CDATA[2021-08-11 04:40:02.65]]></au_modifiedDate>
         <au_comments><![CDATA[null]]></au_comments>
+        <au_projectType><![CDATA[3700]]></au_projectType>
+        <au_permissionMask><![CDATA[777]]></au_permissionMask>
+        <au_creationDate><![CDATA[2021-08-11 04:40:02.65]]></au_creationDate>
         <au_projectOwner><![CDATA[null]]></au_projectOwner>
+        <au_userOwner><![CDATA[IndigoUser:874285037099417600]]></au_userOwner>
+        <au_description><![CDATA[test]]></au_description>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
         <au_version><![CDATA[1]]></au_version>
-        <au_entityName><![CDATA[akash]]></au_entityName>
-        <au_id><![CDATA[874874782997282816]]></au_id>
     </AU_PROJECT>
     <columnInfo dbtype="0">
         <column name="au_id" type="12"/>
