@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AC_TRANSACTION_TEMPLATE>
-        <PARTNER_CONFIG_INFO><![CDATA[{"webFormData":{},"partnerConfiguration":[]}]]></PARTNER_CONFIG_INFO>
-        <DEST_APP_TYPE><![CDATA[jdbc:apachecassandra:Apache Cassandra]]></DEST_APP_TYPE>
-        <IN_USE><![CDATA[null]]></IN_USE>
-        <ID><![CDATA[875691601077207040]]></ID>
-        <PROJECT_OWNER><![CDATA[Project:874517219852156928]]></PROJECT_OWNER>
-        <LOCKED_BY_USER><![CDATA[null]]></LOCKED_BY_USER>
-        <COMPANY_ID><![CDATA[1]]></COMPANY_ID>
-        <MODIFIED_USER><![CDATA[IndigoUser:874514611175424000]]></MODIFIED_USER>
-        <LOG_MODE><![CDATA[null]]></LOG_MODE>
         <MODIFIED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></MODIFIED_GROUP>
-        <NAME><![CDATA[SG_Casandr_Cvt_Inb_FileUpload_Target_emp_Copy]]></NAME>
-        <CONTACT_USER><![CDATA[sapna@yopmail.com]]></CONTACT_USER>
-        <SRC_CRITERIA><![CDATA[null]]></SRC_CRITERIA>
-        <SRC_REFERENCE_FIELD><![CDATA[]]></SRC_REFERENCE_FIELD>
-        <CREATED_USER><![CDATA[IndigoUser:874514611175424000]]></CREATED_USER>
+        <MODIFIED_USER><![CDATA[IndigoUser:874514611175424000]]></MODIFIED_USER>
         <TYPE><![CDATA[504]]></TYPE>
-        <DOCUMENTATION><![CDATA[]]></DOCUMENTATION>
-        <PROCESS_TYPE><![CDATA[700]]></PROCESS_TYPE>
-        <STATUS><![CDATA[601]]></STATUS>
-        <SRC_TRIGGER><![CDATA[FileUploaded]]></SRC_TRIGGER>
-        <MODIFIED_DATE><![CDATA[2021-08-13 10:45:47.25]]></MODIFIED_DATE>
-        <MODIFIED_ROLE><![CDATA[2]]></MODIFIED_ROLE>
-        <CREATED_ROLE><![CDATA[2]]></CREATED_ROLE>
-        <PARAMETERS_INFO><![CDATA[{"routingType":3502,"dataEncryptionAtRest":"useGlobalPolicy","mapperValidatorId":"","mapperExternalFunctionId":"","emailNotificationFormat":"Default"}]]></PARAMETERS_INFO>
-        <CREATION_DATE><![CDATA[2021-08-13 10:45:47.25]]></CREATION_DATE>
-        <LOCKED_STATUS><![CDATA[2301]]></LOCKED_STATUS>
-        <MODIFIED_BY><![CDATA[Sapna Gupta]]></MODIFIED_BY>
-        <ACCESS_LEVEL><![CDATA[3100]]></ACCESS_LEVEL>
-        <CREATED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></CREATED_GROUP>
-        <IN_USE_BY><![CDATA[null]]></IN_USE_BY>
-        <REVISION><![CDATA[null]]></REVISION>
         <DIRECTION><![CDATA[3200]]></DIRECTION>
+        <ACCESS_LEVEL><![CDATA[3100]]></ACCESS_LEVEL>
         <ERROR_ID><![CDATA[null]]></ERROR_ID>
-        <LOCKED_TIMESTAMP><![CDATA[null]]></LOCKED_TIMESTAMP>
+        <CREATED_USER><![CDATA[IndigoUser:874514611175424000]]></CREATED_USER>
+        <STATUS><![CDATA[601]]></STATUS>
+        <PROCESS_TYPE><![CDATA[700]]></PROCESS_TYPE>
+        <CREATION_DATE><![CDATA[2021-08-13 10:45:47.25]]></CREATION_DATE>
         <DISPLAY_TYPE><![CDATA[700]]></DISPLAY_TYPE>
-        <DEST_ACTION><![CDATA[addrecords]]></DEST_ACTION>
-        <APPROVAL_TYPE><![CDATA[3000]]></APPROVAL_TYPE>
-        <SYNCHRONIZED><![CDATA[0]]></SYNCHRONIZED>
-        <DEST_REFERENCE_FIELD><![CDATA[emp_city]]></DEST_REFERENCE_FIELD>
-        <DESCRIPTION><![CDATA[SG_CasandraApp_Cvt_Inb_FileUpload_Target_emp_Copy]]></DESCRIPTION>
-        <CREATED_BY><![CDATA[Sapna Gupta]]></CREATED_BY>
-        <DEST_EXTERNAL_ID><![CDATA[]]></DEST_EXTERNAL_ID>
-        <SRC_APP_TYPE><![CDATA[file:fileupload:File Upload]]></SRC_APP_TYPE>
+        <DEST_APP_TYPE><![CDATA[jdbc:apachecassandra:Apache Cassandra]]></DEST_APP_TYPE>
+        <SRC_CRITERIA><![CDATA[null]]></SRC_CRITERIA>
+        <PARTNER_CONFIG_INFO><![CDATA[{"webFormData":{},"partnerConfiguration":[]}]]></PARTNER_CONFIG_INFO>
+        <ID><![CDATA[875691601077207040]]></ID>
+        <MODIFIED_ROLE><![CDATA[2]]></MODIFIED_ROLE>
+        <CREATED_GROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></CREATED_GROUP>
+        <CREATED_ROLE><![CDATA[2]]></CREATED_ROLE>
+        <LOCKED_STATUS><![CDATA[2301]]></LOCKED_STATUS>
         <VARIABLE_INFO><![CDATA[]]></VARIABLE_INFO>
-        <DATA_ENCODING><![CDATA[UTF-8]]></DATA_ENCODING>
+        <IN_USE_BY><![CDATA[null]]></IN_USE_BY>
+        <APPROVAL_TYPE><![CDATA[3000]]></APPROVAL_TYPE>
+        <IN_USE><![CDATA[null]]></IN_USE>
+        <DEST_EXTERNAL_ID><![CDATA[]]></DEST_EXTERNAL_ID>
+        <COMPANY_ID><![CDATA[1]]></COMPANY_ID>
+        <DESCRIPTION><![CDATA[SG_CasandraApp_Cvt_Inb_FileUpload_Target_emp_Copy]]></DESCRIPTION>
+        <CONTACT_USER><![CDATA[sapna@yopmail.com]]></CONTACT_USER>
+        <PROJECT_OWNER><![CDATA[Project:874517219852156928]]></PROJECT_OWNER>
+        <PARAMETERS_INFO><![CDATA[{"routingType":3502,"dataEncryptionAtRest":"useGlobalPolicy","mapperValidatorId":"","mapperExternalFunctionId":"","emailNotificationFormat":"Default"}]]></PARAMETERS_INFO>
+        <MODIFIED_BY><![CDATA[Sapna Gupta]]></MODIFIED_BY>
+        <MODIFIED_DATE><![CDATA[2021-08-13 10:46:56.793]]></MODIFIED_DATE>
+        <SRC_REFERENCE_FIELD><![CDATA[]]></SRC_REFERENCE_FIELD>
+        <SYNCHRONIZED><![CDATA[0]]></SYNCHRONIZED>
         <NOTIFICATION_MODE><![CDATA[1900]]></NOTIFICATION_MODE>
+        <SRC_TRIGGER><![CDATA[FileUploaded]]></SRC_TRIGGER>
+        <CREATED_BY><![CDATA[Sapna Gupta]]></CREATED_BY>
+        <LOG_MODE><![CDATA[null]]></LOG_MODE>
+        <LOCKED_TIMESTAMP><![CDATA[null]]></LOCKED_TIMESTAMP>
+        <DATA_ENCODING><![CDATA[UTF-8]]></DATA_ENCODING>
+        <DEST_ACTION><![CDATA[addrecords]]></DEST_ACTION>
+        <REVISION><![CDATA[c52dfbe8cf1ee10c2f7027657e7646f0501dceb8]]></REVISION>
+        <LOCKED_BY_USER><![CDATA[null]]></LOCKED_BY_USER>
+        <SRC_APP_TYPE><![CDATA[file:fileupload:File Upload]]></SRC_APP_TYPE>
+        <DOCUMENTATION><![CDATA[]]></DOCUMENTATION>
+        <DEST_REFERENCE_FIELD><![CDATA[emp_city]]></DEST_REFERENCE_FIELD>
+        <NAME><![CDATA[SG_Casandr_Cvt_Inb_FileUpload_Target_emp_Copy]]></NAME>
     </AC_TRANSACTION_TEMPLATE>
     <columnInfo dbtype="0">
         <column name="ID" type="2"/>
